@@ -319,7 +319,7 @@ def _ask(index: VectorIndex, question: str, document_filter: str | None) -> None
 def main() -> None:
     """Render the Streamlit application."""
     st.set_page_config(
-        page_title="SourcePlate — Cited dietary guidance",
+        page_title="Diet Factory — Cited dietary guidance",
         page_icon="🍽️",
         layout="centered",
     )
@@ -328,7 +328,7 @@ def main() -> None:
         """
         <section class="sp-hero">
           <p class="sp-kicker">Official guidance, on the counter</p>
-          <h1>SourcePlate</h1>
+          <h1>Diet Factory</h1>
           <p>Ask how to eat and how to keep food safe. Answers come only from seven public guidance documents, and every claim keeps its own source.</p>
           <div class="sp-pills">
             <span class="sp-pill">Cited sections</span>
@@ -378,7 +378,7 @@ def main() -> None:
             options=[label for label, _val in filter_options],
             index=0,
         )
-        submitted = st.form_submit_button("Ask SourcePlate", type="primary")
+        submitted = st.form_submit_button("Ask Diet Factory", type="primary")
 
     if submitted and question.strip():
         selected_filter = dict(filter_options).get(selected_label)
