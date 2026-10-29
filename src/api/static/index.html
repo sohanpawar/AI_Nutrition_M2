@@ -3,210 +3,233 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Dietary Guidance RAG Chatbot</title>
+  <title>SourcePlate — Cited dietary guidance</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,560;9..144,680&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet" />
   <style>
     :root {
-      --bg: #f8fafc;
-      --surface: #ffffff;
-      --border: #e2e8f0;
-      --text: #0f172a;
-      --muted: #475569;
-      --accent: #0f766e;
-      --accent-hover: #115e59;
-      --warn-bg: #fffbeb;
-      --warn-border: #f59e0b;
-      --scope-bg: #fef2f2;
-      --scope-border: #ef4444;
+      --bg: #f6f1e7;
+      --surface: #fffaf3;
+      --border: #e7dccb;
+      --text: #1c1915;
+      --muted: #6b6258;
+      --accent: #c45c26;
+      --accent-hover: #a3481b;
+      --warn-bg: #fff6df;
+      --warn-border: #e8c56a;
+      --scope-bg: #fde8e4;
+      --scope-border: #e7a598;
     }
     * { box-sizing: border-box; }
     body {
       margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: var(--bg);
+      font-family: "Source Sans 3", "Segoe UI", sans-serif;
+      background:
+        radial-gradient(900px 420px at 100% -10%, rgba(196, 92, 38, 0.16), transparent 55%),
+        radial-gradient(700px 380px at -10% 0%, rgba(31, 107, 74, 0.14), transparent 50%),
+        var(--bg);
       color: var(--text);
       line-height: 1.5;
     }
-    header {
-      background: var(--surface);
-      border-bottom: 1px solid var(--border);
-      padding: 1.25rem 1.5rem;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 1.35rem;
-      color: var(--accent);
-    }
-    header p {
-      margin: 0.25rem 0 0;
-      font-size: 0.9rem;
-      color: var(--muted);
-    }
     main {
       max-width: 860px;
-      margin: 1.5rem auto;
+      margin: 1.4rem auto;
       padding: 0 1rem 3rem;
     }
+    header.hero {
+      background: linear-gradient(135deg, #1c1915 0%, #2c241c 55%, #3d2a1c 100%);
+      color: #fff8ef;
+      border-radius: 22px;
+      padding: 1.35rem 1.45rem 1.2rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 16px 40px rgba(28, 25, 21, 0.18);
+    }
+    .kicker {
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      font-size: 0.72rem;
+      font-weight: 700;
+      color: #f0b27a;
+      margin: 0 0 0.35rem;
+    }
+    header.hero h1 {
+      font-family: Fraunces, Georgia, serif;
+      font-size: 2.35rem;
+      line-height: 1.05;
+      margin: 0 0 0.45rem;
+      color: #fffaf3;
+    }
+    header.hero p {
+      margin: 0;
+      color: #efe4d4;
+      font-size: 1.02rem;
+      max-width: 38rem;
+    }
+    .pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      margin-top: 0.95rem;
+    }
+    .pill {
+      border: 1px solid rgba(255, 248, 239, 0.22);
+      background: rgba(255, 248, 239, 0.08);
+      color: #fff8ef;
+      border-radius: 999px;
+      padding: 0.22rem 0.7rem;
+      font-size: 0.78rem;
+      font-weight: 600;
+    }
+    .examples {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 0.55rem;
+      margin-bottom: 0.9rem;
+    }
+    .example-btn {
+      text-align: left;
+      background: var(--surface);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 0.5rem 0.95rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .example-btn:hover { border-color: var(--accent); background: #fffdf9; }
     .ask-card {
       background: var(--surface);
       border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 1.25rem;
-      box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+      border-radius: 18px;
+      padding: 1.1rem 1.2rem;
+      box-shadow: 0 8px 24px rgba(60, 40, 20, 0.05);
     }
-    .form-row {
-      display: flex;
-      flex-direction: column;
-      gap: 0.75rem;
-    }
-    label {
-      font-weight: 600;
-      font-size: 0.9rem;
-    }
+    .form-row { display: flex; flex-direction: column; gap: 0.75rem; }
+    label { font-weight: 600; font-size: 0.95rem; }
     textarea, select {
       width: 100%;
       padding: 0.65rem 0.75rem;
       border: 1px solid var(--border);
-      border-radius: 6px;
-      font-size: 0.95rem;
+      border-radius: 12px;
+      background: #fffdf9;
+      font-size: 0.96rem;
       font-family: inherit;
     }
-    textarea {
-      min-height: 72px;
-      resize: vertical;
-    }
-    .controls {
-      display: flex;
-      gap: 0.75rem;
-      align-items: center;
-      flex-wrap: wrap;
-    }
-    .controls select {
-      flex: 1;
-      min-width: 240px;
-    }
-    button {
+    textarea { min-height: 76px; resize: vertical; }
+    .controls { display: flex; gap: 0.75rem; align-items: center; flex-wrap: wrap; }
+    .controls select { flex: 1; min-width: 240px; }
+    button.primary {
       background: var(--accent);
-      color: #ffffff;
+      color: #fffaf3;
       border: none;
-      border-radius: 6px;
-      padding: 0.65rem 1.25rem;
-      font-size: 0.95rem;
-      font-weight: 600;
+      border-radius: 999px;
+      padding: 0.6rem 1.25rem;
+      font-size: 0.96rem;
+      font-weight: 700;
       cursor: pointer;
     }
-    button:hover { background: var(--accent-hover); }
+    button.primary:hover { background: var(--accent-hover); }
     button:disabled { opacity: 0.6; cursor: not-allowed; }
-    #turns {
-      margin-top: 1.5rem;
-      display: flex;
-      flex-direction: column;
-      gap: 1.25rem;
-    }
-    .turn {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 1.25rem;
-    }
+    #turns { margin-top: 1.35rem; display: flex; flex-direction: column; gap: 1.15rem; }
+    .turn { padding: 0.3rem 0; }
     .turn-question {
-      font-weight: 600;
-      margin-bottom: 0.75rem;
-      padding-bottom: 0.6rem;
-      border-bottom: 1px solid var(--border);
+      font-family: Fraunces, Georgia, serif;
+      font-size: 1.25rem;
+      margin: 0.15rem 0 0.45rem;
     }
     .filter-badge {
       display: inline-block;
-      margin-left: 0.5rem;
-      padding: 0.15rem 0.5rem;
-      font-size: 0.75rem;
-      border-radius: 4px;
-      background: #e2e8f0;
-      color: var(--text);
-      font-weight: 500;
+      padding: 0.12rem 0.55rem;
+      font-size: 0.78rem;
+      border-radius: 999px;
+      background: #f3e6d4;
+      color: #5c4632;
+      font-weight: 700;
     }
     .section-block {
-      border: 1px solid var(--border);
-      border-left: 4px solid var(--accent);
-      border-radius: 6px;
-      padding: 0.9rem 1rem;
-      margin-top: 0.85rem;
-      background: #f8fafc;
+      border: 1px solid #eadfce;
+      border-left: 6px solid var(--accent);
+      border-radius: 16px;
+      padding: 0.95rem 1rem;
+      margin-top: 0.7rem;
+      background: var(--surface);
     }
     .section-header {
+      font-family: Fraunces, Georgia, serif;
       font-weight: 700;
-      font-size: 1rem;
+      font-size: 1.12rem;
     }
     .section-link {
       display: inline-block;
-      font-size: 0.85rem;
-      color: var(--accent);
+      font-size: 0.9rem;
+      color: #9a3412;
+      font-weight: 600;
       word-break: break-all;
-      margin: 0.2rem 0 0.6rem;
+      margin: 0.2rem 0 0.55rem;
     }
-    .claims-list {
-      margin: 0;
-      padding-left: 1.25rem;
-    }
-    .claims-list li {
-      margin-bottom: 0.45rem;
-    }
-    .section-heading-tag {
-      color: var(--muted);
-      font-size: 0.85rem;
-      font-style: italic;
-    }
+    .claims-list { margin: 0; padding-left: 1.25rem; }
+    .claims-list li { margin-bottom: 0.45rem; }
+    .section-heading-tag { color: var(--muted); font-size: 0.9rem; font-style: italic; }
     .refusal-corpus {
       background: var(--warn-bg);
-      border-left: 4px solid var(--warn-border);
-      padding: 0.9rem 1rem;
-      border-radius: 6px;
+      border: 1px solid var(--warn-border);
+      padding: 0.95rem 1rem;
+      border-radius: 16px;
     }
     .refusal-scope {
       background: var(--scope-bg);
-      border-left: 4px solid var(--scope-border);
-      padding: 0.9rem 1rem;
-      border-radius: 6px;
+      border: 1px solid var(--scope-border);
+      padding: 0.95rem 1rem;
+      border-radius: 16px;
     }
-    .searched-box {
-      margin-top: 0.75rem;
-      font-size: 0.9rem;
-    }
-    .searched-box ul {
-      margin: 0.35rem 0 0;
-      padding-left: 1.25rem;
-    }
+    .searched-box { margin-top: 0.75rem; font-size: 0.92rem; }
+    .searched-box ul { margin: 0.35rem 0 0; padding-left: 1.25rem; }
   </style>
 </head>
 <body>
-  <header>
-    <h1>Dietary Guidance RAG Chatbot</h1>
-    <p>Answers only from official public dietary and food-safety guidance documents. Every claim is cited.</p>
-  </header>
-
   <main>
+    <header class="hero">
+      <p class="kicker">Official guidance, on the counter</p>
+      <h1>SourcePlate</h1>
+      <p>Ask how to eat and how to keep food safe. Answers come only from seven public guidance documents, and every claim keeps its own source.</p>
+      <div class="pills">
+        <span class="pill">Cited sections</span>
+        <span class="pill">No blended guidelines</span>
+        <span class="pill">Medical &amp; weight questions declined</span>
+      </div>
+    </header>
+
+    <div class="examples">
+      <button type="button" class="example-btn" data-q="What does a healthy diet include?">What does a healthy diet include?</button>
+      <button type="button" class="example-btn" data-q="How does the Eatwell Guide divide food groups?">How does the Eatwell Guide divide food groups?</button>
+      <button type="button" class="example-btn" data-q="What temperature should my fridge be?">What temperature should my fridge be?</button>
+      <button type="button" class="example-btn" data-q="Which oil should I use, and is it safe to reuse?">Which oil should I use, and is it safe to reuse?</button>
+    </div>
+
     <form id="ask-form" class="ask-card">
       <div class="form-row">
         <div>
-          <label for="question-input">Your Question</label>
+          <label for="question-input">What do you want to check?</label>
           <textarea
             id="question-input"
             name="question"
-            placeholder="e.g., What does a healthy diet include? / What temperature should my fridge be?"
+            placeholder="What does a healthy diet include?"
             required
           ></textarea>
         </div>
         <div class="controls">
           <select id="filter-input" name="document_filter" aria-label="Optional document filter">
-            <option value="">All corpus documents (no filter)</option>
-            <option value="who-healthy-diet">WHO Healthy diet, Fact sheet N°394 (who-healthy-diet)</option>
-            <option value="fao-who-healthy-diets">What are healthy diets? — FAO &amp; WHO (fao-who-healthy-diets)</option>
-            <option value="eatwell-guide">The Eatwell Guide (eatwell-guide)</option>
-            <option value="cold-food-storage">Cold Food Storage Chart — USDA (cold-food-storage)</option>
-            <option value="fsa-chill">How to chill, freeze and defrost food safely — FSA (fsa-chill)</option>
-            <option value="who-five-keys">Five Keys to Safer Food — WHO (who-five-keys)</option>
-            <option value="kitchen-companion">Kitchen Companion — USDA (kitchen-companion)</option>
+            <option value="">Search all seven documents</option>
+            <option value="who-healthy-diet">WHO Healthy diet, Fact sheet N°394 — World Health Organization</option>
+            <option value="fao-who-healthy-diets">What are healthy diets? — FAO and WHO</option>
+            <option value="eatwell-guide">The Eatwell Guide — UK Government (Public Health England)</option>
+            <option value="cold-food-storage">Cold Food Storage Chart — USDA Food Safety and Inspection Service</option>
+            <option value="fsa-chill">How to chill, freeze and defrost food safely — UK Food Standards Agency</option>
+            <option value="who-five-keys">Five Keys to Safer Food — World Health Organization</option>
+            <option value="kitchen-companion">Kitchen Companion — USDA Food Safety and Inspection Service</option>
           </select>
-          <button type="submit" id="submit-btn">Ask Guidance</button>
+          <button type="submit" id="submit-btn" class="primary">Ask SourcePlate</button>
         </div>
       </div>
     </form>
@@ -225,19 +248,19 @@
       const turnEl = document.createElement("div");
       turnEl.className = "turn";
 
+      if (filterVal) {
+        const badge = document.createElement("div");
+        badge.className = "filter-badge";
+        badge.textContent = `Filtered to ${filterVal}`;
+        turnEl.appendChild(badge);
+      }
+
       const qEl = document.createElement("div");
       qEl.className = "turn-question";
       qEl.textContent = question;
-      if (filterVal) {
-        const badge = document.createElement("span");
-        badge.className = "filter-badge";
-        badge.textContent = `Filter: ${filterVal}`;
-        qEl.appendChild(badge);
-      }
       turnEl.appendChild(qEl);
 
       if (data.outcome === "grounded_answer") {
-        // Render each section in order without collapsing sections into one paragraph
         (data.sections || []).forEach((sec) => {
           const secEl = document.createElement("div");
           secEl.className = "section-block";
@@ -275,7 +298,6 @@
           turnEl.appendChild(secEl);
         });
       } else if (data.outcome === "not_in_corpus") {
-        // Show message and the list in searched
         const box = document.createElement("div");
         box.className = "refusal-corpus";
 
@@ -301,7 +323,6 @@
         }
         turnEl.appendChild(box);
       } else if (data.outcome === "out_of_scope") {
-        // Show message only; never show an empty citation or searched list
         const box = document.createElement("div");
         box.className = "refusal-scope";
         box.textContent = data.message || "This request is out of scope.";
@@ -311,18 +332,8 @@
       turnsContainer.prepend(turnEl);
     }
 
-    form.addEventListener("submit", async (e) => {
-      e.preventDefault();
-      const question = questionInput.value.trim();
-      if (!question) return;
-      const filterVal = filterInput.value.trim() || null;
-
-      // Stateless request body: only the new question and optional document_filter
-      const payload = {
-        question: question,
-        document_filter: filterVal,
-      };
-
+    async function sendQuestion(question, filterVal) {
+      const payload = { question: question, document_filter: filterVal };
       submitBtn.disabled = true;
       try {
         const response = await fetch("/ask", {
@@ -339,7 +350,6 @@
         } else {
           renderTurn(question, filterVal, data);
         }
-        questionInput.value = "";
       } catch (err) {
         renderTurn(question, filterVal, {
           outcome: "out_of_scope",
@@ -348,6 +358,21 @@
       } finally {
         submitBtn.disabled = false;
       }
+    }
+
+    document.querySelectorAll(".example-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        sendQuestion(btn.dataset.q, filterInput.value.trim() || null);
+      });
+    });
+
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const question = questionInput.value.trim();
+      if (!question) return;
+      const filterVal = filterInput.value.trim() || null;
+      questionInput.value = "";
+      await sendQuestion(question, filterVal);
     });
   </script>
 </body>

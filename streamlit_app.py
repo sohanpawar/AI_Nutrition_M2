@@ -197,8 +197,9 @@ APP_CSS = """
 
 
 @st.cache_resource(show_spinner="Warming the guidance counter...")
-def ensure_corpus_and_index() -> VectorIndex:
+def ensure_corpus_and_index(cache_version: str = "official-urls-v2") -> VectorIndex:
     """Ensure `blocks.jsonl`, parsed chunks, and `vectors.sqlite3` exist on disk."""
+    _ = cache_version
     index = VectorIndex(index_dir=config.INDEX_DIR)
     if index.is_ready():
         return index
@@ -351,6 +352,13 @@ def main() -> None:
 
     if "turns" not in st.session_state:
         st.session_state["turns"] = []
+    manifest_urls = {entry["doc_id"]: entry["source_url"] for entry in manifest_entries}
+    for existing_turn in st.session_state["turns"]:
+        existing_resp = existing_turn.get("response")
+        if existing_resp and getattr(existing_resp, "sections", None):
+            for sec in existing_resp.sections:
+                if sec.doc_id in manifest_urls:
+                    sec.source_url = manifest_urls[sec.doc_id]
 
     st.caption("Try a ready-made question, or write your own.")
     chip_cols = st.columns(2)
