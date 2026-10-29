@@ -1,0 +1,1336 @@
+{
+  "doc_id": "who-healthy-diet",
+  "document_name": "WHO Healthy diet, Fact sheet N°394",
+  "publisher": "World Health Organization",
+  "year": 2020,
+  "source_url": "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl",
+  "retrieval_date": "2026-10-27",
+  "aliases": [
+    "WHO healthy diet",
+    "fact sheet 394",
+    "fact sheet n°394",
+    "fact sheet no 394"
+  ],
+  "blocks": [
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 0,
+      "type": "heading",
+      "text": "FACT SHEET N°394",
+      "heading_path": [
+        "FACT SHEET N°394"
+      ],
+      "page": 1,
+      "level": 4,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 1,
+      "type": "heading",
+      "text": "Healthy diet",
+      "heading_path": [
+        "Healthy diet"
+      ],
+      "page": 1,
+      "level": 1,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 2,
+      "type": "heading",
+      "text": "KEY FACTS",
+      "heading_path": [
+        "Healthy diet",
+        "KEY FACTS"
+      ],
+      "page": 1,
+      "level": 2,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 3,
+      "type": "list_item",
+      "text": "A healthy diet helps to protect against malnutrition in all its forms, as well as noncommunicable diseases (NCDs) such as diabetes, heart disease, stroke and cancer.",
+      "heading_path": [
+        "Healthy diet",
+        "KEY FACTS"
+      ],
+      "page": 1,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 4,
+      "type": "list_item",
+      "text": "Unhealthy diet and lack of physical activity are leading global risks to health.",
+      "heading_path": [
+        "Healthy diet",
+        "KEY FACTS"
+      ],
+      "page": 1,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 5,
+      "type": "list_item",
+      "text": "Healthy dietary practices start early in life – breastfeeding fosters healthy growth and improves cognitive development, and may have longer term health benefits such as reducing the risk of becoming overweight or obese and developing NCDs later in life.",
+      "heading_path": [
+        "Healthy diet",
+        "KEY FACTS"
+      ],
+      "page": 1,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 6,
+      "type": "list_item",
+      "text": "Energy intake (calories) should be in balance with energy expenditure. To avoid unhealthy weight gain, total fat should not exceed 30% of total energy intake (1, 2, 3). Intake of saturated fats should be less than 10% of total energy intake, and intake of trans-fats less than 1% of total energy intake, with a shift in fat consumption away from saturated fats and trans-fats to unsaturated fats (3), and towards the goal of eliminating industrially-produced trans-fats (4, 5, 6).",
+      "heading_path": [
+        "Healthy diet",
+        "KEY FACTS"
+      ],
+      "page": 1,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 7,
+      "type": "list_item",
+      "text": "Limiting intake of free sugars to less than 10% of total energy intake (2, 7) is part of a healthy diet. A further reduction to less than 5% of total energy intake is suggested for additional health benefits (7).",
+      "heading_path": [
+        "Healthy diet",
+        "KEY FACTS"
+      ],
+      "page": 1,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 8,
+      "type": "list_item",
+      "text": "Keeping salt intake to less than 5 g per day (equivalent to sodium intake of less than 2 g per day) helps to prevent hypertension, and reduces the risk of heart disease and stroke in the adult population (8).",
+      "heading_path": [
+        "Healthy diet",
+        "KEY FACTS"
+      ],
+      "page": 1,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 9,
+      "type": "list_item",
+      "text": "WHO Member States have agreed to reduce the global population’s intake of salt by 30% by 2025; they have also agreed to halt the rise in diabetes and obesity in adults and adolescents as well as in childhood over-weight by 2025 (9, 10).",
+      "heading_path": [
+        "Healthy diet",
+        "KEY FACTS"
+      ],
+      "page": 1,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 10,
+      "type": "heading",
+      "text": "OVERVIEW",
+      "heading_path": [
+        "Healthy diet",
+        "OVERVIEW"
+      ],
+      "page": 1,
+      "level": 2,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 11,
+      "type": "paragraph",
+      "text": "Consuming a healthy diet throughout the life-course helps to prevent malnutrition in all its forms as well as a range of noncommunicable diseases (NCDs) and conditions. However, increased production of processed foods, rapid urbanization and changing lifestyles have led to a shift in dietary patterns. People are now consuming more foods high in energy, fats, free sugars and salt/sodium, and many people do not eat enough fruit, vegeta-bles and other dietary fibre such as whole grains.",
+      "heading_path": [
+        "Healthy diet",
+        "OVERVIEW"
+      ],
+      "page": 1,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 12,
+      "type": "paragraph",
+      "text": "The exact make-up of a diversified, balanced and healthy diet will vary depending on individual characteristics (e.g. age, gender, lifestyle and degree of physical activity), cultural context, locally available foods and dietary customs. However, the basic principles of what constitutes a healthy diet remain the same.",
+      "heading_path": [
+        "Healthy diet",
+        "OVERVIEW"
+      ],
+      "page": 1,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 13,
+      "type": "heading",
+      "text": "FOR ADULTS",
+      "heading_path": [
+        "Healthy diet",
+        "FOR ADULTS"
+      ],
+      "page": 2,
+      "level": 2,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 14,
+      "type": "paragraph",
+      "text": "A healthy diet includes the following:",
+      "heading_path": [
+        "Healthy diet",
+        "FOR ADULTS"
+      ],
+      "page": 2,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 15,
+      "type": "list_item",
+      "text": "Fruit, vegetables, legumes (e.g. lentils and beans), nuts and whole grains (e.g. unprocessed maize, millet, oats, wheat and brown rice).",
+      "heading_path": [
+        "Healthy diet",
+        "FOR ADULTS"
+      ],
+      "page": 2,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 16,
+      "type": "list_item",
+      "text": "At least 400 g (i.e. five portions) of fruit and vegetables per day (2), excluding potatoes, sweet potatoes, cas-sava and other starchy roots.",
+      "heading_path": [
+        "Healthy diet",
+        "FOR ADULTS"
+      ],
+      "page": 2,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 17,
+      "type": "list_item",
+      "text": "Less than 10% of total energy intake from free sugars (2, 7), which is equivalent to 50 g (or about 12 level tea-spoons) for a person of healthy body weight consuming about 2000 calories per day, but ideally is less than 5% of total energy intake for additional health benefits (7). Free sugars are all sugars added to foods or drinks by the manufacturer, cook or consumer, as well as sugars naturally present in honey, syrups, fruit juices and fruit juice concentrates.",
+      "heading_path": [
+        "Healthy diet",
+        "FOR ADULTS"
+      ],
+      "page": 2,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 18,
+      "type": "list_item",
+      "text": "Less than 30% of total energy intake from fats (1, 2, 3). Unsaturated fats (found in fish, avocado and nuts, and in sunflower, soybean, canola and olive oils) are preferable to saturated fats (found in fatty meat, butter, palm and coconut oil, cream, cheese, ghee and lard) and trans-fats of all kinds, including both industrially-produced trans-fats (found in baked and fried foods, and pre-packaged snacks and foods, such as frozen pizza, pies, cookies, biscuits, wafers, and cooking oils and spreads) and ruminant trans-fats (found in meat and dairy foods from ruminant animals, such as cows, sheep, goats and camels). It is suggested that the intake of saturated fats be reduced to less than 10% of total energy intake and trans-fats to less than 1% of total energy intake (5). In particular, industrially-produced trans-fats are not part of a healthy diet and should be avoided (4, 6).",
+      "heading_path": [
+        "Healthy diet",
+        "FOR ADULTS"
+      ],
+      "page": 2,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 19,
+      "type": "list_item",
+      "text": "Less than 5 g of salt (equivalent to about one teaspoon) intake per day (8). Salt should be iodized.",
+      "heading_path": [
+        "Healthy diet",
+        "FOR ADULTS"
+      ],
+      "page": 2,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 20,
+      "type": "heading",
+      "text": "FOR INFANTS AND YOUNG CHILDREN",
+      "heading_path": [
+        "Healthy diet",
+        "FOR INFANTS AND YOUNG CHILDREN"
+      ],
+      "page": 2,
+      "level": 2,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 21,
+      "type": "paragraph",
+      "text": "In the first 2 years of a child’s life, optimal nutrition fosters healthy growth and improves cognitive development. It also reduces the risk of becoming overweight or obese and developing NCDs later in life.",
+      "heading_path": [
+        "Healthy diet",
+        "FOR INFANTS AND YOUNG CHILDREN"
+      ],
+      "page": 2,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 22,
+      "type": "paragraph",
+      "text": "Advice on a healthy diet for infants and children is similar to that for adults, but the following elements are also important:",
+      "heading_path": [
+        "Healthy diet",
+        "FOR INFANTS AND YOUNG CHILDREN"
+      ],
+      "page": 2,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 23,
+      "type": "list_item",
+      "text": "Infants should be breastfed exclusively during the first 6 months of life.",
+      "heading_path": [
+        "Healthy diet",
+        "FOR INFANTS AND YOUNG CHILDREN"
+      ],
+      "page": 2,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 24,
+      "type": "list_item",
+      "text": "Infants should be breastfed continuously until 2 years of age and beyond.",
+      "heading_path": [
+        "Healthy diet",
+        "FOR INFANTS AND YOUNG CHILDREN"
+      ],
+      "page": 2,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 25,
+      "type": "list_item",
+      "text": "From 6 months of age, breast milk should be complemented with a variety of adequate, safe and nutrient-dense foods. Salt and sugars should not be added to complementary foods.",
+      "heading_path": [
+        "Healthy diet",
+        "FOR INFANTS AND YOUNG CHILDREN"
+      ],
+      "page": 2,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 26,
+      "type": "heading",
+      "text": "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET"
+      ],
+      "page": 2,
+      "level": 2,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 27,
+      "type": "heading",
+      "text": "Fruit and vegetables",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fruit and vegetables"
+      ],
+      "page": 2,
+      "level": 3,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 28,
+      "type": "paragraph",
+      "text": "Eating at least 400 g, or five portions, of fruit and vegetables per day reduces the risk of NCDs (2) and helps to ensure an adequate daily intake of dietary fibre.",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fruit and vegetables"
+      ],
+      "page": 2,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 29,
+      "type": "paragraph",
+      "text": "Fruit and vegetable intake can be improved by:",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fruit and vegetables"
+      ],
+      "page": 2,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 30,
+      "type": "list_item",
+      "text": "always including vegetables in meals;",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fruit and vegetables"
+      ],
+      "page": 2,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 31,
+      "type": "list_item",
+      "text": "eating fresh fruit and raw vegetables as snacks;",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fruit and vegetables"
+      ],
+      "page": 2,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 32,
+      "type": "list_item",
+      "text": "eating fresh fruit and vegetables that are in season; and",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fruit and vegetables"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 33,
+      "type": "list_item",
+      "text": "eating a variety of fruit and vegetables.",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fruit and vegetables"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 34,
+      "type": "heading",
+      "text": "Fats",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fats"
+      ],
+      "page": 3,
+      "level": 3,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 35,
+      "type": "paragraph",
+      "text": "Reducing the amount of total fat intake to less than 30% of total energy intake helps to prevent unhealthy weight gain in the adult population (1, 2, 3). Also, the risk of developing NCDs is lowered by:",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fats"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 36,
+      "type": "list_item",
+      "text": "reducing saturated fats to less than 10% of total energy intake;",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fats"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 37,
+      "type": "list_item",
+      "text": "reducing trans-fats to less than 1% of total energy intake; and",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fats"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 38,
+      "type": "list_item",
+      "text": "replacing both saturated fats and trans-fats with unsaturated fats (2, 3) – in particular, with polyunsaturated fats.",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fats"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 39,
+      "type": "paragraph",
+      "text": "Fat intake, especially saturated fat and industrially-produced trans-fat intake, can be reduced by:",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fats"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 40,
+      "type": "list_item",
+      "text": "steaming or boiling instead of frying when cooking;",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fats"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 41,
+      "type": "list_item",
+      "text": "replacing butter, lard and ghee with oils rich in polyunsaturated fats, such as soybean, canola (rapeseed), corn, safflower and sunflower oils;",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fats"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 42,
+      "type": "list_item",
+      "text": "eating reduced-fat dairy foods and lean meats, or trimming visible fat from meat; and",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fats"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 43,
+      "type": "list_item",
+      "text": "limiting the consumption of baked and fried foods, and pre-packaged snacks and foods (e.g. doughnuts, cakes, pies, cookies, biscuits and wafers) that contain industrially-produced trans-fats.",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Fats"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 44,
+      "type": "heading",
+      "text": "Salt, sodium and potassium",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Salt, sodium and potassium"
+      ],
+      "page": 3,
+      "level": 3,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 45,
+      "type": "paragraph",
+      "text": "Most people consume too much sodium through salt (consuming an average of 9–12 g of salt per day) and not enough potassium (less than 3.5 g). High sodium intake and insufficient potassium intake contribute to high blood pressure, which in turn increases the risk of heart disease and stroke (8, 11).",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Salt, sodium and potassium"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 46,
+      "type": "paragraph",
+      "text": "Reducing salt intake to the recommended level of less than 5 g per day could prevent 1.7 million deaths each year (12).",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Salt, sodium and potassium"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 47,
+      "type": "paragraph",
+      "text": "People are often unaware of the amount of salt they consume. In many countries, most salt comes from pro-cessed foods (e.g. ready meals; processed meats such as bacon, ham and salami; cheese; and salty snacks) or from foods consumed frequently in large amounts (e.g. bread). Salt is also added to foods during cooking (e.g. bouil-lon, stock cubes, soy sauce and fish sauce) or at the point of consumption (e.g. table salt).",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Salt, sodium and potassium"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 48,
+      "type": "paragraph",
+      "text": "Salt intake can be reduced by:",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Salt, sodium and potassium"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 49,
+      "type": "list_item",
+      "text": "limiting the amount of salt and high-sodium condiments (e.g. soy sauce, fish sauce and bouillon) when cook-ing and preparing foods;",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Salt, sodium and potassium"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 50,
+      "type": "list_item",
+      "text": "not having salt or high-sodium sauces on the table;",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Salt, sodium and potassium"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 51,
+      "type": "list_item",
+      "text": "limiting the consumption of salty snacks; and",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Salt, sodium and potassium"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 52,
+      "type": "list_item",
+      "text": "choosing products with lower sodium content.",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Salt, sodium and potassium"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 53,
+      "type": "paragraph",
+      "text": "Some food manufacturers are reformulating recipes to reduce the sodium content of their products, and people should be encouraged to check nutrition labels to see how much sodium is in a product before purchasing or consuming it.",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Salt, sodium and potassium"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 54,
+      "type": "paragraph",
+      "text": "Potassium can mitigate the negative effects of elevated sodium consumption on blood pressure. Intake of potas-sium can be increased by consuming fresh fruit and vegetables.",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Salt, sodium and potassium"
+      ],
+      "page": 3,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 55,
+      "type": "heading",
+      "text": "Sugars",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Sugars"
+      ],
+      "page": 4,
+      "level": 3,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 56,
+      "type": "paragraph",
+      "text": "In both adults and children, the intake of free sugars should be reduced to less than 10% of total energy intake (2, 7). A reduction to less than 5% of total energy intake would provide additional health benefits (7).",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Sugars"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 57,
+      "type": "paragraph",
+      "text": "Consuming free sugars increases the risk of dental caries (tooth decay). Excess calories from foods and drinks high in free sugars also contribute to unhealthy weight gain, which can lead to overweight and obesity. Recent evidence also shows that free sugars influence blood pressure and serum lipids, and suggests that a reduction in free sugars intake reduces risk factors for cardiovascular diseases (13).",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Sugars"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 58,
+      "type": "paragraph",
+      "text": "Sugars intake can be reduced by:",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Sugars"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 59,
+      "type": "list_item",
+      "text": "limiting the consumption of foods and drinks containing high amounts of sugars, such as sugary snacks, candies and sugar-sweetened beverages (i.e. all types of beverages containing free sugars – these include car-bonated or non-carbonated soft drinks, fruit or vegetable juices and drinks, liquid and powder concentrates, flavoured water, energy and sports drinks, ready-to-drink tea, ready-to-drink coffee and flavoured milk drinks); and",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Sugars"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 60,
+      "type": "list_item",
+      "text": "eating fresh fruit and raw vegetables as snacks instead of sugary snacks.",
+      "heading_path": [
+        "Healthy diet",
+        "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
+        "Sugars"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 61,
+      "type": "heading",
+      "text": "HOW TO PROMOTE HEALTHY DIETS",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 4,
+      "level": 2,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 62,
+      "type": "paragraph",
+      "text": "Diet evolves over time, being influenced by many social and economic factors that interact in a complex manner to shape individual dietary patterns. These factors include income, food prices (which will affect the availability and affordability of healthy foods), individual preferences and beliefs, cultural traditions, and geographical and environmental aspects (including climate change). Therefore, promoting a healthy food environment – including food systems that promote a diversified, balanced and healthy diet – requires the involvement of multiple sectors and stakeholders, including government, and the public and private sectors.",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 63,
+      "type": "paragraph",
+      "text": "Governments have a central role in creating a healthy food environment that enables people to adopt and main-tain healthy dietary practices. Effective actions by policy-makers to create a healthy food environment include the following:",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 64,
+      "type": "list_item",
+      "text": "Creating coherence in national policies and investment plans – including trade, food and agricultural policies",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 65,
+      "type": "list_item",
+      "text": "to promote a healthy diet and protect public health through:",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 66,
+      "type": "list_item",
+      "text": "increasing incentives for producers and retailers to grow, use and sell fresh fruit and vegetables;",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 67,
+      "type": "list_item",
+      "text": "reducing incentives for the food industry to continue or increase production of processed foods contain-ing high levels of saturated fats, trans-fats, free sugars and salt/sodium;",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 68,
+      "type": "list_item",
+      "text": "encouraging reformulation of food products to reduce the contents of saturated fats, trans-fats, free sugars and salt/sodium, with the goal of eliminating industrially-produced trans-fats);",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 69,
+      "type": "list_item",
+      "text": "implementing the WHO recommendations on the marketing of foods and non-alcoholic beverages to children;",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 70,
+      "type": "list_item",
+      "text": "establishing standards to foster healthy dietary practices through ensuring the availability of healthy, nutri-tious, safe and affordable foods in pre-schools, schools, other public institutions and the workplace;",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 71,
+      "type": "list_item",
+      "text": "exploring regulatory and voluntary instruments (e.g. marketing regulations and nutrition labelling poli-cies), and economic incentives or disincentives (e.g. taxation and subsidies), to promote a healthy diet; and",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 72,
+      "type": "list_item",
+      "text": "encouraging transnational, national and local food services and catering outlets to improve the nutritional quality of their foods – ensuring the availability and affordability of healthy choices – and review portion sizes and pricing.",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 4,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 73,
+      "type": "list_item",
+      "text": "Encouraging consumer demand for healthy foods and meals through:",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 74,
+      "type": "list_item",
+      "text": "promoting consumer awareness of a healthy diet;",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 75,
+      "type": "list_item",
+      "text": "developing school policies and programmes that encourage children to adopt and maintain a healthy diet;",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 76,
+      "type": "list_item",
+      "text": "educating children, adolescents and adults about nutrition and healthy dietary practices;",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 77,
+      "type": "list_item",
+      "text": "encouraging culinary skills, including in children through schools;",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 78,
+      "type": "list_item",
+      "text": "supporting point-of-sale information, including through nutrition labelling that ensures accurate, standard-ized and comprehensible information on nutrient contents in foods (in line with the Codex Alimentarius Commission guidelines), with the addition of front-of-pack labelling to facilitate consumer understanding; and",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 79,
+      "type": "list_item",
+      "text": "providing nutrition and dietary counselling at primary health-care facilities.",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 80,
+      "type": "list_item",
+      "text": "Promoting appropriate infant and young child feeding practices through:",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 81,
+      "type": "list_item",
+      "text": "implementing the International Code of Marketing of Breast-milk Substitutes and subsequent relevant World Health Assembly resolutions;",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 82,
+      "type": "list_item",
+      "text": "implementing policies and practices to promote protection of working mothers; and",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 83,
+      "type": "list_item",
+      "text": "promoting, protecting and supporting breastfeeding in health services and the community, including through the Baby-friendly Hospital Initiative.",
+      "heading_path": [
+        "Healthy diet",
+        "HOW TO PROMOTE HEALTHY DIETS"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 84,
+      "type": "heading",
+      "text": "WHO RESPONSE",
+      "heading_path": [
+        "Healthy diet",
+        "WHO RESPONSE"
+      ],
+      "page": 5,
+      "level": 2,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 85,
+      "type": "paragraph",
+      "text": "The “WHO Global Strategy on Diet, Physical Activity and Health” (14) was adopted in 2004 by the Health Assembly. The strategy called on governments, WHO, international partners, the private sector and civil society to take action at global, regional and local levels to support healthy diets and physical activity.",
+      "heading_path": [
+        "Healthy diet",
+        "WHO RESPONSE"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 86,
+      "type": "paragraph",
+      "text": "In 2010, the Health Assembly endorsed a set of recommendations on the marketing of foods and non-alcoholic beverages to children (15). These recommendations guide countries in designing new policies and improving existing ones to reduce the impact on children of the marketing of unhealthy foods. WHO has also developed region-specific tools (such as regional nutrient profile models) that countries can use to implement the market-ing recommendations.",
+      "heading_path": [
+        "Healthy diet",
+        "WHO RESPONSE"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 87,
+      "type": "paragraph",
+      "text": "In 2012, the Health Assembly adopted a “Comprehensive Implementation Plan on Maternal, Infant and Young Child Nutrition” and six global nutrition targets to be achieved by 2025, including the reduction of stunting, wasting and overweight in children, the improvement of breastfeeding, and the reduction of anaemia and low birthweight (9).",
+      "heading_path": [
+        "Healthy diet",
+        "WHO RESPONSE"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 88,
+      "type": "paragraph",
+      "text": "In 2013, the Health Assembly agreed to nine global voluntary targets for the prevention and control of NCDs. These targets include a halt to the rise in diabetes and obesity, and a 30% relative reduction in the intake of salt by 2025. The “Global Action Plan for the Prevention and Control of Noncommunicable Diseases 2013–2020” (10) provides guidance and policy options for Member States, WHO and other United Nations agencies to achieve the targets.",
+      "heading_path": [
+        "Healthy diet",
+        "WHO RESPONSE"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 89,
+      "type": "paragraph",
+      "text": "With many countries now seeing a rapid rise in obesity among infants and children, in May 2014 WHO set up the Commission on Ending Childhood Obesity. In 2016, the Commission proposed a set of recommendations to suc-cessfully tackle childhood and adolescent obesity in different contexts around the world (16).",
+      "heading_path": [
+        "Healthy diet",
+        "WHO RESPONSE"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 90,
+      "type": "paragraph",
+      "text": "In November 2014, WHO organized, jointly with the Food and Agriculture Organization of the United Nations (FAO), the Second International Conference on Nutrition (ICN2). ICN2 adopted the Rome Declaration on Nutri-tion (17), and the Framework for Action (18) which recommends a set of policy options and strategies to promote diversified, safe and healthy diets at all stages of life. WHO is helping countries to implement the commitments made at ICN2.",
+      "heading_path": [
+        "Healthy diet",
+        "WHO RESPONSE"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-healthy-diet",
+      "ordinal": 91,
+      "type": "paragraph",
+      "text": "In May 2018, the Health Assembly approved the 13th General Programme of Work (GPW13), which will guide the work of WHO in 2019–2023 (19). Reduction of salt/sodium intake and elimination of industrially-produced trans-fats from the food supply are identified in GPW13 as part of WHO’s priority actions to achieve the aims of ensuring healthy lives and promote well-being for all at all ages. To support Member States in taking necessary actions to eliminate industrially-produced trans-fats, WHO has developed a roadmap for countries (the REPLACE action package) to help accelerate actions (6).",
+      "heading_path": [
+        "Healthy diet",
+        "WHO RESPONSE"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    }
+  ]
+}

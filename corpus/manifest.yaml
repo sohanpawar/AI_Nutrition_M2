@@ -1,0 +1,77 @@
+source_url: "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl"
+documents:
+  - doc_id: "who-healthy-diet"
+    document_name: "WHO Healthy diet, Fact sheet N°394"
+    publisher: "World Health Organization"
+    year: 2020
+    source_url: "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl"
+    retrieval_date: ""
+    aliases:
+      - "WHO healthy diet"
+      - "fact sheet 394"
+      - "fact sheet n°394"
+      - "fact sheet no 394"
+
+  - doc_id: "fao-who-healthy-diets"
+    document_name: "What are healthy diets?"
+    publisher: "FAO and WHO"
+    year: 2024
+    source_url: "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl"
+    retrieval_date: ""
+    aliases:
+      - "what are healthy diets"
+      - "what are healthy diets?"
+      - "FAO WHO"
+      - "FAO and WHO"
+
+  - doc_id: "eatwell-guide"
+    document_name: "The Eatwell Guide"
+    publisher: "UK Government (Public Health England)"
+    year: 2016
+    source_url: "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl"
+    retrieval_date: ""
+    aliases:
+      - "Eatwell"
+      - "the Eatwell Guide"
+      - "Eatwell Guide"
+
+  - doc_id: "cold-food-storage"
+    document_name: "Cold Food Storage Chart"
+    publisher: "USDA Food Safety and Inspection Service"
+    year: 2023
+    source_url: "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl"
+    retrieval_date: ""
+    aliases:
+      - "cold food storage"
+      - "cold food storage chart"
+      - "storage chart"
+
+  - doc_id: "fsa-chill"
+    document_name: "How to chill, freeze and defrost food safely"
+    publisher: "UK Food Standards Agency"
+    year: 2024
+    source_url: "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl"
+    retrieval_date: ""
+    aliases:
+      - "FSA chill"
+      - "how to chill, freeze and defrost"
+      - "how to chill, freeze and defrost food safely"
+
+  - doc_id: "who-five-keys"
+    document_name: "Five Keys to Safer Food"
+    publisher: "World Health Organization"
+    year: 2006
+    source_url: "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl"
+    retrieval_date: ""
+    aliases:
+      - "five keys"
+      - "five keys to safer food"
+
+  - doc_id: "kitchen-companion"
+    document_name: "Kitchen Companion"
+    publisher: "USDA Food Safety and Inspection Service"
+    year: 2008
+    source_url: "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl"
+    retrieval_date: ""
+    aliases:
+      - "kitchen companion"

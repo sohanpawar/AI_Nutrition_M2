@@ -1,0 +1,2462 @@
+{
+  "doc_id": "who-five-keys",
+  "document_name": "Five Keys to Safer Food",
+  "publisher": "World Health Organization",
+  "year": 2006,
+  "source_url": "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl",
+  "retrieval_date": "2026-10-27",
+  "aliases": [
+    "five keys",
+    "five keys to safer food"
+  ],
+  "blocks": [
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 0,
+      "type": "heading",
+      "text": "Introduction",
+      "heading_path": [
+        "Introduction"
+      ],
+      "page": 5,
+      "level": 1,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 1,
+      "type": "heading",
+      "text": "Food safety is a significant public health issue",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue"
+      ],
+      "page": 5,
+      "level": 2,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 2,
+      "type": "paragraph",
+      "text": "Unsafe food has been a human health problem since history was first recorded, and many food safety problems encountered today are not new. Although governments all over the world are doing their best to improve the safety of the food supply, the occurrence of foodborne disease remains a significant health issue in both developed and developing countries.",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 3,
+      "type": "paragraph",
+      "text": "It has been estimated that each year 1.8 million people die as a result of diarrhoeal diseases and most of these cases can be attributed to contaminated food or water. Proper food preparation can prevent most foodborne diseases.",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 4,
+      "type": "heading",
+      "text": "More than 200 known diseases are transmitted through food.1",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "More than 200 known diseases are transmitted through food.1"
+      ],
+      "page": 5,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 5,
+      "type": "paragraph",
+      "text": "The World Health Organization (WHO) has long been aware of the need to educate food handlers about their responsibilities for food safety. In the early 1990s, WHO developed the Ten Golden Rules for Safe Food Preparation, which were widely translated and reproduced. However, it became obvious that something simpler and more generally applicable was needed. After nearly a year of consultation with food safety experts and risk communicators, WHO introduced the Five Keys to Safer Food poster in 2001. The Five Keys to Safer Food poster incorporates all the messages of the Ten Golden Rules for Safe Food Preparation under simpler headings that are more easily remembered and also provides more details on the reasoning behind the suggested measures.",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "More than 200 known diseases are transmitted through food.1"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 6,
+      "type": "heading",
+      "text": "The Five Keys to Safer Food Poster",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Poster"
+      ],
+      "page": 5,
+      "level": 4,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 7,
+      "type": "paragraph",
+      "text": "The core messages of the Five Keys to Safer Food are: (1) keep clean; (2) separate raw and cooked; (3) cook thoroughly; (4) keep food at safe temperatures; and (5) use safe water and raw materials. The poster has been translated into more than 40 languages and is being used to spread WHO’s food hygiene message throughout the world.",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Poster"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 8,
+      "type": "paragraph",
+      "text": "1 Mead, P.S., et al, Food-Related Illness and Death in the United States Emerging Infectious Diseases, Vol 5, No. 5, 1999.",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Poster"
+      ],
+      "page": 5,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 9,
+      "type": "heading",
+      "text": "The Five Keys to Safer Food Manual",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": 4,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 10,
+      "type": "paragraph",
+      "text": "The Five Keys to Safer Food Manual is divided into two sections. Section One is Background Material and Section Two is the Five Keys to Safer Food. Section Two elaborates the core food safety information provided in the WHO Five Keys to Safer Food poster and suggests how to communicate these messages. When presenting the material on the Five Keys to Safer Food it is important that this core information and rational (i.e. why) remain the same as that presented in the poster.",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 11,
+      "type": "paragraph",
+      "text": "The information in Section One: Background Material is not meant to be presented in its current format. The trainer has flexibility on how and when to discuss the points provided in this section. The trainer should identify points within this section that are applicable to the audience and integrate these points into the presentation of the material in section two.",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 12,
+      "type": "paragraph",
+      "text": "In both sections information is divided into two columns. The first column contains basic information that should be presented to all audiences. The second column contains additional information which is not designed to be presented to the audience, but is designed to aid the trainer in answering questions. For some sections, the manual also presents “Considerations and suggestions for the trainer”, i.e. ways to adapt the material for different audiences and different locations.",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 13,
+      "type": "paragraph",
+      "text": "When adapting the manual to prepare a training session, the following points and questions should be considered.",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 14,
+      "type": "list_item",
+      "text": "Who is the audience (e.g. school children, young adults, home food handlers, food workers)?",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 15,
+      "type": "list_item",
+      "text": "Will the audience understand the level of language used?",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 16,
+      "type": "list_item",
+      "text": "Have enough visual cues been incorporated to accommodate those who might not understand the language?",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 17,
+      "type": "list_item",
+      "text": "Is the material of an appropriate length to capture and hold the audience’s attention?",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 18,
+      "type": "list_item",
+      "text": "Are instructions clear, concise and easy to follow?",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 19,
+      "type": "list_item",
+      "text": "Is the material presented in an interesting way that is easy to remember and understand?",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 20,
+      "type": "list_item",
+      "text": "Does the material reinforce the core information?",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 21,
+      "type": "list_item",
+      "text": "Have examples of local foods been incorporated?",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 22,
+      "type": "list_item",
+      "text": "Are local food practices discussed?",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 23,
+      "type": "list_item",
+      "text": "Does the material reflect local facilities (i.e., running water, refrigerators, etc.)?",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 24,
+      "type": "paragraph",
+      "text": "Although the information provided in the Five Keys to Safer Food Manual will be adapted for each audience, the concepts of the core information should remain the same as that in the WHO Five Keys to Safer Food poster.",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "The Five Keys to Safer Food Manual"
+      ],
+      "page": 6,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 25,
+      "type": "heading",
+      "text": "Glossary",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "Glossary"
+      ],
+      "page": 7,
+      "level": 4,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 26,
+      "type": "paragraph",
+      "text": "A glossary of terms used in the manual is provided for reference.",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "Glossary"
+      ],
+      "page": 7,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 27,
+      "type": "heading",
+      "text": "Resources",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "Resources"
+      ],
+      "page": 7,
+      "level": 4,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 28,
+      "type": "paragraph",
+      "text": "This section contains additional information for the organizer, trainer and participants. In addition to this manual, WHO intends to develop supplemental materials targeted to different audiences including school children and women as well as other supplemental materials on different food safety topics. When developed this information will be available at the web site: www.who.int/foodsafety/consumer/5keys/en/index.html",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "Resources"
+      ],
+      "page": 7,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 29,
+      "type": "paragraph",
+      "text": "WHO aims to improve the exchange and reapplication of practical food safety knowledge among Member States by having them exchange experiences and tested solutions. A section of the WHO Food Safety web site was designed to enable countries and partners to access the different tools produced in different parts of the world. One can actively contribute to the success of delivering the Five Keys to Safer Food public health message and prevent foodborne disease by exchanging ideas, materials and experiences on this web site.",
+      "heading_path": [
+        "Introduction",
+        "Food safety is a significant public health issue",
+        "Resources"
+      ],
+      "page": 7,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 30,
+      "type": "heading",
+      "text": "Section One: Background material",
+      "heading_path": [
+        "Section One: Background material"
+      ],
+      "page": 8,
+      "level": 1,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 31,
+      "type": "heading",
+      "text": "What is the problem?",
+      "heading_path": [
+        "Section One: Background material",
+        "What is the problem?"
+      ],
+      "page": 8,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 32,
+      "type": "paragraph",
+      "text": "Every day people all over the world get sick from the food they eat. This sickness is called foodborne disease and is caused by dangerous microorganisms and/or toxic chemicals.",
+      "heading_path": [
+        "Section One: Background material",
+        "What is the problem?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 33,
+      "type": "paragraph",
+      "text": "Most foodborne disease is preventable with proper food handling.",
+      "heading_path": [
+        "Section One: Background material",
+        "What is the problem?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 34,
+      "type": "paragraph",
+      "text": "Foodborne Disease:",
+      "heading_path": [
+        "Section One: Background material",
+        "What is the problem?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 35,
+      "type": "list_item",
+      "text": "Is a problem in both developing and developed countries;",
+      "heading_path": [
+        "Section One: Background material",
+        "What is the problem?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 36,
+      "type": "list_item",
+      "text": "Is a strain on health care systems;",
+      "heading_path": [
+        "Section One: Background material",
+        "What is the problem?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 37,
+      "type": "list_item",
+      "text": "Severely affects infants, young children, elderly and the sick;",
+      "heading_path": [
+        "Section One: Background material",
+        "What is the problem?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 38,
+      "type": "list_item",
+      "text": "Creates a vicious cycle of diarrhoea and malnutrition; and",
+      "heading_path": [
+        "Section One: Background material",
+        "What is the problem?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 39,
+      "type": "list_item",
+      "text": "Hurts the national economy and development and international trade.",
+      "heading_path": [
+        "Section One: Background material",
+        "What is the problem?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 40,
+      "type": "heading",
+      "text": "Considerations and suggestions for the trainer",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 8,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 41,
+      "type": "paragraph",
+      "text": "For simpler language, use the terms “germ” for microorganisms and “poisons” for toxic chemicals.",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 42,
+      "type": "heading",
+      "text": "What are microorganisms?",
+      "heading_path": [
+        "Section One: Background material",
+        "What are microorganisms?"
+      ],
+      "page": 8,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 43,
+      "type": "paragraph",
+      "text": "Microorganisms are very small living things, so small that they cannot be seen with the naked eye. There are three different types of microorganisms: the good, the bad and the dangerous.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are microorganisms?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 44,
+      "type": "paragraph",
+      "text": "Good microorganisms are useful. They:",
+      "heading_path": [
+        "Section One: Background material",
+        "What are microorganisms?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 45,
+      "type": "list_item",
+      "text": "Make food and drinks (e.g. cheese, yoghurt, beer and wine);",
+      "heading_path": [
+        "Section One: Background material",
+        "What are microorganisms?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 46,
+      "type": "list_item",
+      "text": "Make medicine (e.g. penicillin); and",
+      "heading_path": [
+        "Section One: Background material",
+        "What are microorganisms?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 47,
+      "type": "list_item",
+      "text": "Help digest food in the gut.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are microorganisms?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 48,
+      "type": "paragraph",
+      "text": "Bad microorganisms, or spoilage microorganisms, do not usually make people sick, but they cause our food to smell bad, taste horrible and look disgusting.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are microorganisms?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 49,
+      "type": "paragraph",
+      "text": "Dangerous microorganisms make people sick and can even kill. These are called “pathogens”. Most of these microorganisms do not change the appearance of the food.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are microorganisms?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 50,
+      "type": "paragraph",
+      "text": "Microorganisms are so small that it takes 1 million to cover the head of a pin.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are microorganisms?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 51,
+      "type": "paragraph",
+      "text": "Bacteria, viruses, yeasts, moulds and parasites are all microorganisms.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are microorganisms?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 52,
+      "type": "paragraph",
+      "text": "The smell, taste and appearance of food are not good indicators of whether the food will make you sick. Some spoilage microorganisms do change the appearance of food and are dangerous. An example is the green mould on bread which can produce toxins.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are microorganisms?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 53,
+      "type": "paragraph",
+      "text": "Examples of common dangerous foodborne microorganisms include:",
+      "heading_path": [
+        "Section One: Background material",
+        "What are microorganisms?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 54,
+      "type": "list_item",
+      "text": "Bacteria - Salmonella, Shigella, Campylobacter and E. coli;",
+      "heading_path": [
+        "Section One: Background material",
+        "What are microorganisms?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 55,
+      "type": "list_item",
+      "text": "Parasites - Giardia, Trichinella; and",
+      "heading_path": [
+        "Section One: Background material",
+        "What are microorganisms?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 56,
+      "type": "list_item",
+      "text": "Viruses – Hepatitis A, Norovirus.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are microorganisms?"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 57,
+      "type": "heading",
+      "text": "Considerations and suggestions for the trainer",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 8,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 58,
+      "type": "list_item",
+      "text": "Become familiar with dangerous microorganisms in your region.",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 59,
+      "type": "list_item",
+      "text": "It may be appropriate to change the example showing the relative size of a microorganism. For example, 10 000 bacteria side by side would occupy one centimetre of space.",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 60,
+      "type": "list_item",
+      "text": "Providing pictures or actual examples of mouldy fruit may add interest, but it must be stressed that dangerous bacteria may not always make the food smell, taste or look bad.",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 8,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 61,
+      "type": "heading",
+      "text": "Where do microorganisms live?",
+      "heading_path": [
+        "Section One: Background material",
+        "Where do microorganisms live?"
+      ],
+      "page": 9,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 62,
+      "type": "paragraph",
+      "text": "Microorganisms are everywhere, but are mostly found in:",
+      "heading_path": [
+        "Section One: Background material",
+        "Where do microorganisms live?"
+      ],
+      "page": 9,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 63,
+      "type": "list_item",
+      "text": "Faeces;",
+      "heading_path": [
+        "Section One: Background material",
+        "Where do microorganisms live?"
+      ],
+      "page": 9,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 64,
+      "type": "list_item",
+      "text": "Soil and water;",
+      "heading_path": [
+        "Section One: Background material",
+        "Where do microorganisms live?"
+      ],
+      "page": 9,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 65,
+      "type": "list_item",
+      "text": "Rats, mice, insects and pests;",
+      "heading_path": [
+        "Section One: Background material",
+        "Where do microorganisms live?"
+      ],
+      "page": 9,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 66,
+      "type": "list_item",
+      "text": "Domestic, marine and farm animals (e.g. dogs, fish, cows, chickens and pigs); and",
+      "heading_path": [
+        "Section One: Background material",
+        "Where do microorganisms live?"
+      ],
+      "page": 9,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 67,
+      "type": "list_item",
+      "text": "People (bowel, mouth, nose, intestines, hands, fingernails and skin). Human and animal faeces contain disease-causing microorganisms. A single teaspoon of soil contains more than 1 billion microorganisms. All living things have microorganisms associated with them. Animals carry microorganisms on their feet, in their mouths and on their skin. An average 100 000 bacteria can be found on each square centimetre of human skin.",
+      "heading_path": [
+        "Section One: Background material",
+        "Where do microorganisms live?"
+      ],
+      "page": 9,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 68,
+      "type": "heading",
+      "text": "Considerations and suggestions for the trainer",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 9,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 69,
+      "type": "list_item",
+      "text": "Name common sources of microorganisms in the local region.",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 9,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 70,
+      "type": "heading",
+      "text": "How do microorganisms move?",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms move?"
+      ],
+      "page": 9,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 71,
+      "type": "paragraph",
+      "text": "Microorganisms rely on someone or something to move them around. The transfer of microorganisms from one surface to another is called “contamination”.",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms move?"
+      ],
+      "page": 9,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 72,
+      "type": "paragraph",
+      "text": "Hands are one of the most common means of moving microorganisms from one place to another.",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms move?"
+      ],
+      "page": 9,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 73,
+      "type": "paragraph",
+      "text": "Microorganisms can be spread through contaminated food and water.",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms move?"
+      ],
+      "page": 9,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 74,
+      "type": "paragraph",
+      "text": "Pets and domestic animals can also be a source of contamination.",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms move?"
+      ],
+      "page": 9,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 75,
+      "type": "paragraph",
+      "text": "If a food handler is infected with a virus and continues to prepare food, some viruses may be passed on to the consumer via the food. Hepatitis A and Norovirus are examples of viruses which can be transmitted in this way.",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms move?"
+      ],
+      "page": 9,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 76,
+      "type": "paragraph",
+      "text": "Zoonoses are communicable diseases caused by microorganisms transmitted from animals to humans. Avian influenza and infections with E. coli 0157 are examples of zoonoses. Avian influenza can be transmitted to humans through direct contact with an infected bird or objects contaminated by their faeces.",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms move?"
+      ],
+      "page": 9,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 77,
+      "type": "heading",
+      "text": "Considerations and suggestions for the trainer",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 9,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 78,
+      "type": "list_item",
+      "text": "Give a demonstration of contamination by touching your hand to your face and then touching some food with that same hand.",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 9,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 79,
+      "type": "list_item",
+      "text": "Discuss a local foodborne disease outbreak, including the cause of the outbreak and what could be done to prevent infection in humans.",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 9,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 80,
+      "type": "heading",
+      "text": "How do microorganisms grow?",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms grow?"
+      ],
+      "page": 10,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 81,
+      "type": "paragraph",
+      "text": "Most microorganisms “grow” by multiplication. To multiply, microorganisms need:",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms grow?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 82,
+      "type": "list_item",
+      "text": "Food;",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms grow?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 83,
+      "type": "list_item",
+      "text": "Water;",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms grow?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 84,
+      "type": "list_item",
+      "text": "Time; and",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms grow?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 85,
+      "type": "list_item",
+      "text": "Warmth.",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms grow?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 86,
+      "type": "paragraph",
+      "text": "Meat, seafood, cooked rice, cooked pasta, milk, cheese and eggs are foods that provide ideal conditions for microorganisms to grow.",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms grow?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 87,
+      "type": "paragraph",
+      "text": "One bacterium can become 2 in just 15 minutes. This means that within 6 hours, 1 bacterium can multiply to over 16 million.",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms grow?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 88,
+      "type": "paragraph",
+      "text": "To be harmful, some bacteria need to grow to high levels. Other bacteria can cause illness when they are present in very low numbers.",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms grow?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 89,
+      "type": "paragraph",
+      "text": "Viruses are many times smaller than bacteria. They do not grow in food or water, but these are vehicles for transmission.",
+      "heading_path": [
+        "Section One: Background material",
+        "How do microorganisms grow?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 90,
+      "type": "heading",
+      "text": "Considerations and suggestions for the trainer",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 10,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 91,
+      "type": "list_item",
+      "text": "Discuss local foods that do and do not provide the ideal conditions for growth of microorganisms.",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 92,
+      "type": "list_item",
+      "text": "Dried beans, pebbles or other objects can be used to demonstrate bacterial growth. As an example of quick growth start with one object, in 15 seconds make it two objects, in another 15 seconds make it 4 objects and in another 15 seconds make it 8 objects, etc. (double the number of objects you have every 15 seconds). Please note that 15 seconds is used instead of 15 minutes so that it is possible to show how bacteria grow during a training session.",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 93,
+      "type": "heading",
+      "text": "What are the symptoms of foodborne disease?",
+      "heading_path": [
+        "Section One: Background material",
+        "What are the symptoms of foodborne disease?"
+      ],
+      "page": 10,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 94,
+      "type": "paragraph",
+      "text": "Every year, billions of people experience one or more episodes of foodborne disease, without ever knowing that their illness was caused by food.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are the symptoms of foodborne disease?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 95,
+      "type": "paragraph",
+      "text": "The most common symptoms of foodborne disease are:",
+      "heading_path": [
+        "Section One: Background material",
+        "What are the symptoms of foodborne disease?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 96,
+      "type": "list_item",
+      "text": "Stomach pains;",
+      "heading_path": [
+        "Section One: Background material",
+        "What are the symptoms of foodborne disease?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 97,
+      "type": "list_item",
+      "text": "Vomiting; and",
+      "heading_path": [
+        "Section One: Background material",
+        "What are the symptoms of foodborne disease?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 98,
+      "type": "list_item",
+      "text": "Diarrhoea.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are the symptoms of foodborne disease?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 99,
+      "type": "paragraph",
+      "text": "The symptoms depend on the cause of the disease. Symptoms may occur very quickly after eating the food, or may take days or even weeks to appear. For most foodborne diseases, symptoms occur 24 -72 hours after the food has been eaten.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are the symptoms of foodborne disease?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 100,
+      "type": "paragraph",
+      "text": "Foodborne disease can lead to long-term health problems. Very severe diseases, including cancer, arthritis and neurological disorders can be caused by contaminated food.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are the symptoms of foodborne disease?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 101,
+      "type": "paragraph",
+      "text": "For infants, the sick, pregnant women and the elderly, the consequences of foodborne disease are usually more severe and more often fatal.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are the symptoms of foodborne disease?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 102,
+      "type": "paragraph",
+      "text": "Drinking plenty of fluids will maintain hydration during diarrhoea.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are the symptoms of foodborne disease?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 103,
+      "type": "paragraph",
+      "text": "It is estimated that 3% of cases of foodborne disease can lead to long-term health problems.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are the symptoms of foodborne disease?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 104,
+      "type": "paragraph",
+      "text": "Mouth masks are recommended for people who may cough or sneeze while handling food. Gloves can be used to cover any cuts or lesions and should be changed frequently.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are the symptoms of foodborne disease?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 105,
+      "type": "paragraph",
+      "text": "Advice on treatment of foodborne illness differs between countries and should be adapted to the local region. However, one should seek medical advice when bowel movements are very frequent, very watery or contain blood, or last beyond 3 days.",
+      "heading_path": [
+        "Section One: Background material",
+        "What are the symptoms of foodborne disease?"
+      ],
+      "page": 10,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 106,
+      "type": "heading",
+      "text": "What to do if you get sick",
+      "heading_path": [
+        "Section One: Background material",
+        "What to do if you get sick"
+      ],
+      "page": 11,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 107,
+      "type": "paragraph",
+      "text": "Try not to handle or prepare food while you are sick and for 48 hours after your symptoms stop. However, if this cannot be avoided, wash your hands with soap and water first and frequently during food preparation.",
+      "heading_path": [
+        "Section One: Background material",
+        "What to do if you get sick"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 108,
+      "type": "heading",
+      "text": "When symptoms are severe seek medical",
+      "heading_path": [
+        "Section One: Background material",
+        "When symptoms are severe seek medical"
+      ],
+      "page": 11,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 109,
+      "type": "paragraph",
+      "text": "advice immediately.",
+      "heading_path": [
+        "Section One: Background material",
+        "When symptoms are severe seek medical"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 110,
+      "type": "paragraph",
+      "text": "Some foodborne diseases can be transferred from person to person. Caregivers can become sick from patients with a foodborne illness.",
+      "heading_path": [
+        "Section One: Background material",
+        "When symptoms are severe seek medical"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 111,
+      "type": "heading",
+      "text": "Considerations and suggestions for the trainer",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 11,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 112,
+      "type": "list_item",
+      "text": "Food industry workers need to notify their employers of the following: Hepatitis A, diarrhoea, vomiting, fever, sore throat, skin rash, other skin lesions (e.g. boils, cuts, etc.) or discharge from ears, eyes or nose.",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 113,
+      "type": "list_item",
+      "text": "High risk activities such as slaughtering and preparing ready to eat foods may require special personal protective equipment. Contact the local government authority for more information.",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 114,
+      "type": "heading",
+      "text": "Chemicals should not be forgotten",
+      "heading_path": [
+        "Section One: Background material",
+        "Chemicals should not be forgotten"
+      ],
+      "page": 11,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 115,
+      "type": "paragraph",
+      "text": "Microorganisms are not the only cause of foodborne illness. People also get sick from poisonous chemicals, which include:",
+      "heading_path": [
+        "Section One: Background material",
+        "Chemicals should not be forgotten"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 116,
+      "type": "list_item",
+      "text": "Natural toxins;",
+      "heading_path": [
+        "Section One: Background material",
+        "Chemicals should not be forgotten"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 117,
+      "type": "list_item",
+      "text": "Metals and environmental pollutants;",
+      "heading_path": [
+        "Section One: Background material",
+        "Chemicals should not be forgotten"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 118,
+      "type": "list_item",
+      "text": "Chemicals used for treating animals;",
+      "heading_path": [
+        "Section One: Background material",
+        "Chemicals should not be forgotten"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 119,
+      "type": "list_item",
+      "text": "Improperly used pesticides;",
+      "heading_path": [
+        "Section One: Background material",
+        "Chemicals should not be forgotten"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 120,
+      "type": "list_item",
+      "text": "Chemicals used for cleaning; and",
+      "heading_path": [
+        "Section One: Background material",
+        "Chemicals should not be forgotten"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 121,
+      "type": "list_item",
+      "text": "Improperly used food additives.",
+      "heading_path": [
+        "Section One: Background material",
+        "Chemicals should not be forgotten"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 122,
+      "type": "paragraph",
+      "text": "Simple measures such as washing and peeling may reduce the risk from chemicals that are found on the surface of foods.",
+      "heading_path": [
+        "Section One: Background material",
+        "Chemicals should not be forgotten"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 123,
+      "type": "paragraph",
+      "text": "Appropriate storage can avoid or reduce the formation of some natural toxins.",
+      "heading_path": [
+        "Section One: Background material",
+        "Chemicals should not be forgotten"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 124,
+      "type": "paragraph",
+      "text": "“Poisoning” is a term used to describe sickness resulting from chemical contamination.",
+      "heading_path": [
+        "Section One: Background material",
+        "Chemicals should not be forgotten"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 125,
+      "type": "paragraph",
+      "text": "Some “natural” toxins (e.g. aflatoxin) are caused by moulds growing on the food.",
+      "heading_path": [
+        "Section One: Background material",
+        "Chemicals should not be forgotten"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 126,
+      "type": "paragraph",
+      "text": "Ingesting aflatoxins may have harmful effects on the liver that can lead to cancer.",
+      "heading_path": [
+        "Section One: Background material",
+        "Chemicals should not be forgotten"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 127,
+      "type": "heading",
+      "text": "Considerations and suggestions for the trainer",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 11,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 128,
+      "type": "list_item",
+      "text": "It may be useful to elaborate on some of the chemicals that are a threat to specific populations (e.g. methylmercury, arsenic).",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 129,
+      "type": "list_item",
+      "text": "Discuss the importance of reading and understanding instructions on the labels of chemicals used for cleaning.",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 130,
+      "type": "list_item",
+      "text": "Using cookware and utensils glazed with materials containing heavy metals (e.g. lead, cadmium) can result in chemical poisoning. Discuss appropriate cookware.",
+      "heading_path": [
+        "Section One: Background material",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 11,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 131,
+      "type": "heading",
+      "text": "Section Two: Five Keys to Safer Food",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food"
+      ],
+      "page": 13,
+      "level": 1,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 132,
+      "type": "heading",
+      "text": "KEEP CLEAN",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN"
+      ],
+      "page": 13,
+      "level": 3,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 133,
+      "type": "heading",
+      "text": "Core information",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN",
+        "Core information"
+      ],
+      "page": 13,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 134,
+      "type": "list_item",
+      "text": "Wash your hands before handling food and often during food preparation",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN",
+        "Core information"
+      ],
+      "page": 13,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 135,
+      "type": "list_item",
+      "text": "Wash your hands after going to the toilet",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN",
+        "Core information"
+      ],
+      "page": 13,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 136,
+      "type": "list_item",
+      "text": "Wash and sanitize all surfaces and equipment used for food preparation",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN",
+        "Core information"
+      ],
+      "page": 13,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 137,
+      "type": "list_item",
+      "text": "Protect kitchen areas and food from insects, pests and other animals While most microorganisms do not cause disease, dangerous microorganisms are widely found in soil, water, animals and people. These microorganisms are carried on hands, wiping cloths and utensils, especially cutting boards, and the slightest contact can transfer them to food and cause foodborne diseases.",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN",
+        "Core information"
+      ],
+      "page": 13,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 138,
+      "type": "heading",
+      "text": "Considerations and suggestions for the trainer",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 13,
+      "level": 5,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 139,
+      "type": "paragraph",
+      "text": "Just because something looks clean does not mean that it is. It takes over 2.5 billion bacteria to make 250 ml of water look cloudy, but in some cases it takes only 15-20 pathogenic bacteria to make one sick.",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 13,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 140,
+      "type": "paragraph",
+      "text": "If slaughtering of animals at home is practised in your region, the following information is very important.",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 13,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 141,
+      "type": "list_item",
+      "text": "Keep the area clean and separate from food preparation areas.",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 13,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 142,
+      "type": "list_item",
+      "text": "Change clothes and wash hands and equipment after slaughtering.",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 13,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 143,
+      "type": "list_item",
+      "text": "Do not slaughter sick animals.",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 13,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 144,
+      "type": "list_item",
+      "text": "Be aware of on-going diseases in your area such as Avian influenza. Human health risks from these diseases may require additional controls such as using personal protective gear. Contact the local government authority for further information.",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 13,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 145,
+      "type": "list_item",
+      "text": "Remove faeces from the home and keep it separate from food growing, preparation and storage areas.",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 13,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 146,
+      "type": "list_item",
+      "text": "Wash hands to prevent contamination with faecal material.",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 13,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 147,
+      "type": "list_item",
+      "text": "Keep domestic and other live animals away from the food growing, preparation and storage areas (e.g. pets, poultry, animals raised in the home).",
+      "heading_path": [
+        "Section Two: Five Keys to Safer Food",
+        "KEEP CLEAN",
+        "Considerations and suggestions for the trainer"
+      ],
+      "page": 13,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 148,
+      "type": "heading",
+      "text": "Glossary",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": 1,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 149,
+      "type": "paragraph",
+      "text": "Bacteria A microscopic organism which may be found in the environment, in foods and on animals.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 150,
+      "type": "paragraph",
+      "text": "Bleach (chlorine) A strong smelling liquid containing chlorine that is used for disinfecting food contact surfaces and sanitizing plates and utensils.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 151,
+      "type": "paragraph",
+      "text": "Contaminant Any biological or chemical agent, foreign matter or other substances not intentionally added to food that may compromise food safety or suitability.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 152,
+      "type": "paragraph",
+      "text": "Cross-contamination The introduction of microorganisms or disease agents from raw food into ready-to-eat food making it unsafe.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 153,
+      "type": "paragraph",
+      "text": "Danger zone The temperature range 5 °C to 60 °C, in which microorganisms grow and multiply very fast.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 154,
+      "type": "paragraph",
+      "text": "Diarrhoea A disorder of the intestine marked by abnormally frequent and fluid evacuation of the bowels.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 155,
+      "type": "paragraph",
+      "text": "Disinfection The reduction by means of chemical agents and/or physical methods, of the number of microorgan-isms in the environment, to a level that does not compromise food safety or suitability.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 156,
+      "type": "paragraph",
+      "text": "Equipment All stoves, hot-plates, cutting boards, tables and kitchen surfaces/counters, refrigerators and freezers, sinks, dishwashers and similar items (other than utensils) used in food processing and food service establishments.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 157,
+      "type": "paragraph",
+      "text": "Faeces Waste matter or excrement eliminated from humans and animals.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 158,
+      "type": "paragraph",
+      "text": "Food Any plant or animal product prepared or sold for human consumption. Includes drink and chewing substances and any ingredient, food additive or other substance that enters into or is used in the preparation of food. Does not include substances used as a drug or medicine.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 159,
+      "type": "paragraph",
+      "text": "Foodborne disease A general term used to describe any disease or illness caused by eating contaminated food or drink. Traditionally referred to as “food poisoning”.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 160,
+      "type": "paragraph",
+      "text": "Food contact surfaces Surfaces of equipment and utensils normally in contact with food.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 161,
+      "type": "paragraph",
+      "text": "Food handler Any person who directly handles packaged or unpacked food, food equipment and utensils or food contact surfaces, and is therefore expected to comply with food hygiene requirements.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 162,
+      "type": "paragraph",
+      "text": "Food hygiene All conditions and measures necessary to ensure the safety and suitability of food at all stages of the food-chain.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 163,
+      "type": "paragraph",
+      "text": "Food preparation The manipulation of food intended for human consumption by processes such as washing, slicing, peeling, shelling, mixing, cooking and portioning.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 164,
+      "type": "paragraph",
+      "text": "Food safety All measures to ensure that food will not cause harm to the consumer when it is prepared and/or eaten according to its intended use.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 165,
+      "type": "paragraph",
+      "text": "Microorganisms Microscopic organisms such as bacteria, moulds, viruses and parasites, which may be found in the environment, in foods and on animals.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 166,
+      "type": "paragraph",
+      "text": "Pathogen Any disease-causing microorganism such as a bacterium, virus or parasite. Often referred to as a “germ” or “bug”.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 167,
+      "type": "paragraph",
+      "text": "Perishable food Food that spoils within a short amount of time.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 168,
+      "type": "paragraph",
+      "text": "Pest control The reduction or elimination of pests such as flies, cockroaches, mice and rats and other animals that can infest food products.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 169,
+      "type": "paragraph",
+      "text": "Risk Is the severity and likelihood of harm resulting from exposure to a hazard.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 170,
+      "type": "paragraph",
+      "text": "Ready to eat Food that is consumed without any further preparation, such as cooking, from the consumer.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 171,
+      "type": "paragraph",
+      "text": "Toxic Harmful or poisonous",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 172,
+      "type": "paragraph",
+      "text": "Utensils Objects such as pots, pans, ladles, scoops, plates, bowls, forks, spoons, knives, cutting boards or food containers used in the preparation, storage, transport or serving of food.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    },
+    {
+      "document_id": "who-five-keys",
+      "ordinal": 173,
+      "type": "paragraph",
+      "text": "Virus A non-cellular, microscopic infectious agent that relies upon a host cell to reproduce.",
+      "heading_path": [
+        "Glossary"
+      ],
+      "page": 28,
+      "level": null,
+      "header": null,
+      "rows": null
+    }
+  ]
+}
