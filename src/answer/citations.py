@@ -8,13 +8,12 @@ Verifies every generated claim deterministically in code without calling a model
 - If a document loses every claim (or abstained), its section is dropped.
 - Citation metadata (`document_name`, `publisher`, `year`, `source_url`, and
   `section_heading`) is copied strictly from the retrieved `Chunk` metadata,
-  ignoring anything the model text might state. `source_url` is always the
-  dataset page (`config.source_url`).
+  ignoring anything the model text might state. `source_url` is that document's
+  official publication page, stored on the chunk at ingest.
 """
 
 from collections.abc import Sequence
 
-from src import config
 from src.schemas import Chunk, Claim, DocumentGeneration, Section
 
 
@@ -78,7 +77,7 @@ def verify_document_claims(
         document_name=ref_chunk.document_name,
         publisher=ref_chunk.publisher,
         year=ref_chunk.year,
-        source_url=config.source_url,
+        source_url=ref_chunk.source_url,
         claims=valid_claims,
     )
 

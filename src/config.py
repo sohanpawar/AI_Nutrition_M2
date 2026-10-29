@@ -11,6 +11,7 @@ PARSED_DIR = CORPUS_DIR / "parsed"
 INDEX_DIR = CORPUS_DIR / "index"
 
 corpus_url: str = "https://raw.githubusercontent.com/saksham20189575/health-data/main/blocks.jsonl"
+# Fallback only. Each document's citation link is its official page in corpus/manifest.yaml.
 source_url: str = "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl"
 
 score_floor: float = 0.22

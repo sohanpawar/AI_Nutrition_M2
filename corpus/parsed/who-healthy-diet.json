@@ -1,14 +1,14 @@
 {
   "doc_id": "who-healthy-diet",
-  "document_name": "WHO Healthy diet, Fact sheet N°394",
+  "document_name": "WHO Healthy diet, Fact sheet N\u00b0394",
   "publisher": "World Health Organization",
   "year": 2020,
-  "source_url": "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl",
+  "source_url": "https://www.who.int/publications/m/item/healthy-diet-factsheet394",
   "retrieval_date": "2026-10-27",
   "aliases": [
     "WHO healthy diet",
     "fact sheet 394",
-    "fact sheet n°394",
+    "fact sheet n\u00b0394",
     "fact sheet no 394"
   ],
   "blocks": [
@@ -16,9 +16,9 @@
       "document_id": "who-healthy-diet",
       "ordinal": 0,
       "type": "heading",
-      "text": "FACT SHEET N°394",
+      "text": "FACT SHEET N\u00b0394",
       "heading_path": [
-        "FACT SHEET N°394"
+        "FACT SHEET N\u00b0394"
       ],
       "page": 1,
       "level": 4,
@@ -84,7 +84,7 @@
       "document_id": "who-healthy-diet",
       "ordinal": 5,
       "type": "list_item",
-      "text": "Healthy dietary practices start early in life – breastfeeding fosters healthy growth and improves cognitive development, and may have longer term health benefits such as reducing the risk of becoming overweight or obese and developing NCDs later in life.",
+      "text": "Healthy dietary practices start early in life \u2013 breastfeeding fosters healthy growth and improves cognitive development, and may have longer term health benefits such as reducing the risk of becoming overweight or obese and developing NCDs later in life.",
       "heading_path": [
         "Healthy diet",
         "KEY FACTS"
@@ -140,7 +140,7 @@
       "document_id": "who-healthy-diet",
       "ordinal": 9,
       "type": "list_item",
-      "text": "WHO Member States have agreed to reduce the global population’s intake of salt by 30% by 2025; they have also agreed to halt the rise in diabetes and obesity in adults and adolescents as well as in childhood over-weight by 2025 (9, 10).",
+      "text": "WHO Member States have agreed to reduce the global population\u2019s intake of salt by 30% by 2025; they have also agreed to halt the rise in diabetes and obesity in adults and adolescents as well as in childhood over-weight by 2025 (9, 10).",
       "heading_path": [
         "Healthy diet",
         "KEY FACTS"
@@ -308,7 +308,7 @@
       "document_id": "who-healthy-diet",
       "ordinal": 21,
       "type": "paragraph",
-      "text": "In the first 2 years of a child’s life, optimal nutrition fosters healthy growth and improves cognitive development. It also reduces the risk of becoming overweight or obese and developing NCDs later in life.",
+      "text": "In the first 2 years of a child\u2019s life, optimal nutrition fosters healthy growth and improves cognitive development. It also reduces the risk of becoming overweight or obese and developing NCDs later in life.",
       "heading_path": [
         "Healthy diet",
         "FOR INFANTS AND YOUNG CHILDREN"
@@ -557,7 +557,7 @@
       "document_id": "who-healthy-diet",
       "ordinal": 38,
       "type": "list_item",
-      "text": "replacing both saturated fats and trans-fats with unsaturated fats (2, 3) – in particular, with polyunsaturated fats.",
+      "text": "replacing both saturated fats and trans-fats with unsaturated fats (2, 3) \u2013 in particular, with polyunsaturated fats.",
       "heading_path": [
         "Healthy diet",
         "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
@@ -662,7 +662,7 @@
       "document_id": "who-healthy-diet",
       "ordinal": 45,
       "type": "paragraph",
-      "text": "Most people consume too much sodium through salt (consuming an average of 9–12 g of salt per day) and not enough potassium (less than 3.5 g). High sodium intake and insufficient potassium intake contribute to high blood pressure, which in turn increases the risk of heart disease and stroke (8, 11).",
+      "text": "Most people consume too much sodium through salt (consuming an average of 9\u201312 g of salt per day) and not enough potassium (less than 3.5 g). High sodium intake and insufficient potassium intake contribute to high blood pressure, which in turn increases the risk of heart disease and stroke (8, 11).",
       "heading_path": [
         "Healthy diet",
         "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
@@ -872,7 +872,7 @@
       "document_id": "who-healthy-diet",
       "ordinal": 59,
       "type": "list_item",
-      "text": "limiting the consumption of foods and drinks containing high amounts of sugars, such as sugary snacks, candies and sugar-sweetened beverages (i.e. all types of beverages containing free sugars – these include car-bonated or non-carbonated soft drinks, fruit or vegetable juices and drinks, liquid and powder concentrates, flavoured water, energy and sports drinks, ready-to-drink tea, ready-to-drink coffee and flavoured milk drinks); and",
+      "text": "limiting the consumption of foods and drinks containing high amounts of sugars, such as sugary snacks, candies and sugar-sweetened beverages (i.e. all types of beverages containing free sugars \u2013 these include car-bonated or non-carbonated soft drinks, fruit or vegetable juices and drinks, liquid and powder concentrates, flavoured water, energy and sports drinks, ready-to-drink tea, ready-to-drink coffee and flavoured milk drinks); and",
       "heading_path": [
         "Healthy diet",
         "PRACTICAL ADVICE ON MAINTAINING A HEALTHY DIET",
@@ -916,7 +916,7 @@
       "document_id": "who-healthy-diet",
       "ordinal": 62,
       "type": "paragraph",
-      "text": "Diet evolves over time, being influenced by many social and economic factors that interact in a complex manner to shape individual dietary patterns. These factors include income, food prices (which will affect the availability and affordability of healthy foods), individual preferences and beliefs, cultural traditions, and geographical and environmental aspects (including climate change). Therefore, promoting a healthy food environment – including food systems that promote a diversified, balanced and healthy diet – requires the involvement of multiple sectors and stakeholders, including government, and the public and private sectors.",
+      "text": "Diet evolves over time, being influenced by many social and economic factors that interact in a complex manner to shape individual dietary patterns. These factors include income, food prices (which will affect the availability and affordability of healthy foods), individual preferences and beliefs, cultural traditions, and geographical and environmental aspects (including climate change). Therefore, promoting a healthy food environment \u2013 including food systems that promote a diversified, balanced and healthy diet \u2013 requires the involvement of multiple sectors and stakeholders, including government, and the public and private sectors.",
       "heading_path": [
         "Healthy diet",
         "HOW TO PROMOTE HEALTHY DIETS"
@@ -944,7 +944,7 @@
       "document_id": "who-healthy-diet",
       "ordinal": 64,
       "type": "list_item",
-      "text": "Creating coherence in national policies and investment plans – including trade, food and agricultural policies",
+      "text": "Creating coherence in national policies and investment plans \u2013 including trade, food and agricultural policies",
       "heading_path": [
         "Healthy diet",
         "HOW TO PROMOTE HEALTHY DIETS"
@@ -1056,7 +1056,7 @@
       "document_id": "who-healthy-diet",
       "ordinal": 72,
       "type": "list_item",
-      "text": "encouraging transnational, national and local food services and catering outlets to improve the nutritional quality of their foods – ensuring the availability and affordability of healthy choices – and review portion sizes and pricing.",
+      "text": "encouraging transnational, national and local food services and catering outlets to improve the nutritional quality of their foods \u2013 ensuring the availability and affordability of healthy choices \u2013 and review portion sizes and pricing.",
       "heading_path": [
         "Healthy diet",
         "HOW TO PROMOTE HEALTHY DIETS"
@@ -1238,7 +1238,7 @@
       "document_id": "who-healthy-diet",
       "ordinal": 85,
       "type": "paragraph",
-      "text": "The “WHO Global Strategy on Diet, Physical Activity and Health” (14) was adopted in 2004 by the Health Assembly. The strategy called on governments, WHO, international partners, the private sector and civil society to take action at global, regional and local levels to support healthy diets and physical activity.",
+      "text": "The \u201cWHO Global Strategy on Diet, Physical Activity and Health\u201d (14) was adopted in 2004 by the Health Assembly. The strategy called on governments, WHO, international partners, the private sector and civil society to take action at global, regional and local levels to support healthy diets and physical activity.",
       "heading_path": [
         "Healthy diet",
         "WHO RESPONSE"
@@ -1266,7 +1266,7 @@
       "document_id": "who-healthy-diet",
       "ordinal": 87,
       "type": "paragraph",
-      "text": "In 2012, the Health Assembly adopted a “Comprehensive Implementation Plan on Maternal, Infant and Young Child Nutrition” and six global nutrition targets to be achieved by 2025, including the reduction of stunting, wasting and overweight in children, the improvement of breastfeeding, and the reduction of anaemia and low birthweight (9).",
+      "text": "In 2012, the Health Assembly adopted a \u201cComprehensive Implementation Plan on Maternal, Infant and Young Child Nutrition\u201d and six global nutrition targets to be achieved by 2025, including the reduction of stunting, wasting and overweight in children, the improvement of breastfeeding, and the reduction of anaemia and low birthweight (9).",
       "heading_path": [
         "Healthy diet",
         "WHO RESPONSE"
@@ -1280,7 +1280,7 @@
       "document_id": "who-healthy-diet",
       "ordinal": 88,
       "type": "paragraph",
-      "text": "In 2013, the Health Assembly agreed to nine global voluntary targets for the prevention and control of NCDs. These targets include a halt to the rise in diabetes and obesity, and a 30% relative reduction in the intake of salt by 2025. The “Global Action Plan for the Prevention and Control of Noncommunicable Diseases 2013–2020” (10) provides guidance and policy options for Member States, WHO and other United Nations agencies to achieve the targets.",
+      "text": "In 2013, the Health Assembly agreed to nine global voluntary targets for the prevention and control of NCDs. These targets include a halt to the rise in diabetes and obesity, and a 30% relative reduction in the intake of salt by 2025. The \u201cGlobal Action Plan for the Prevention and Control of Noncommunicable Diseases 2013\u20132020\u201d (10) provides guidance and policy options for Member States, WHO and other United Nations agencies to achieve the targets.",
       "heading_path": [
         "Healthy diet",
         "WHO RESPONSE"
@@ -1322,7 +1322,7 @@
       "document_id": "who-healthy-diet",
       "ordinal": 91,
       "type": "paragraph",
-      "text": "In May 2018, the Health Assembly approved the 13th General Programme of Work (GPW13), which will guide the work of WHO in 2019–2023 (19). Reduction of salt/sodium intake and elimination of industrially-produced trans-fats from the food supply are identified in GPW13 as part of WHO’s priority actions to achieve the aims of ensuring healthy lives and promote well-being for all at all ages. To support Member States in taking necessary actions to eliminate industrially-produced trans-fats, WHO has developed a roadmap for countries (the REPLACE action package) to help accelerate actions (6).",
+      "text": "In May 2018, the Health Assembly approved the 13th General Programme of Work (GPW13), which will guide the work of WHO in 2019\u20132023 (19). Reduction of salt/sodium intake and elimination of industrially-produced trans-fats from the food supply are identified in GPW13 as part of WHO\u2019s priority actions to achieve the aims of ensuring healthy lives and promote well-being for all at all ages. To support Member States in taking necessary actions to eliminate industrially-produced trans-fats, WHO has developed a roadmap for countries (the REPLACE action package) to help accelerate actions (6).",
       "heading_path": [
         "Healthy diet",
         "WHO RESPONSE"

@@ -173,7 +173,7 @@ def group_and_write_documents(
             document_name=entry["document_name"],
             publisher=entry["publisher"],
             year=entry["year"],
-            source_url=dataset_source_url,
+            source_url=entry.get("source_url") or dataset_source_url,
             retrieval_date=ingest_day,
             aliases=list(entry.get("aliases") or []),
             blocks=ordered_blocks,

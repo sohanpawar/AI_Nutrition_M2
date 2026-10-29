@@ -3,7 +3,7 @@
   "document_name": "What are healthy diets?",
   "publisher": "FAO and WHO",
   "year": 2024,
-  "source_url": "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl",
+  "source_url": "https://www.who.int/publications/i/item/9789240101876",
   "retrieval_date": "2026-10-27",
   "aliases": [
     "what are healthy diets",
@@ -236,7 +236,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 16,
       "type": "paragraph",
-      "text": "The body is unable to synthesize most essential nutrients, and therefore they must be obtained from the diet. These include essential amino acids, essential fatty acids and most vitamins and minerals. Essential nutrients are involved in all bodily functions from growth and brain development in the fetus and young infant, to organ and muscle functioning throughout life. Inadequate intake of essential nutrients can lead to specific deficiency syndromes for single nutrients (such as scurvy for vitamin C deficiency, rickets for vitamin D deficiency, goiter for iodine deficiency), many of which are now uncommon in most parts of the world. However, many other conditions – such as, among others, impaired growth, brain development and immune system function – are affected by several causes, including multiple nutrient deficiencies.",
+      "text": "The body is unable to synthesize most essential nutrients, and therefore they must be obtained from the diet. These include essential amino acids, essential fatty acids and most vitamins and minerals. Essential nutrients are involved in all bodily functions from growth and brain development in the fetus and young infant, to organ and muscle functioning throughout life. Inadequate intake of essential nutrients can lead to specific deficiency syndromes for single nutrients (such as scurvy for vitamin C deficiency, rickets for vitamin D deficiency, goiter for iodine deficiency), many of which are now uncommon in most parts of the world. However, many other conditions \u2013 such as, among others, impaired growth, brain development and immune system function \u2013 are affected by several causes, including multiple nutrient deficiencies.",
       "heading_path": [
         "What are healthy diets?",
         "1. Principles of healthy diets",
@@ -596,7 +596,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 40,
       "type": "paragraph",
-      "text": "Proteins provide the building blocks for much of the structural elements of the body, such as muscle, as well as functional molecules such as hormones and enzymes. To meet the body’s needs, 10–15% of calories consumed per day should be from protein (6). This might be slightly more during adolescence, and for athletes, body builders and others actively building and/or maintaining significant amounts of muscle mass. Consuming excessive amounts of protein however can place a metabolic burden on the body, particularly the kidneys (14). Protein can come from a mix of animal and plant sources, and digestibility and quality should also be considered, particularly in childhood and adolescence. For adults, in some contexts, switching to more plant-based sources of protein may be preferable to decrease risk of cardiometabolic diseases (15). In other contexts, consumption of animal source foods is still important to favour nutrient intakes.",
+      "text": "Proteins provide the building blocks for much of the structural elements of the body, such as muscle, as well as functional molecules such as hormones and enzymes. To meet the body\u2019s needs, 10\u201315% of calories consumed per day should be from protein (6). This might be slightly more during adolescence, and for athletes, body builders and others actively building and/or maintaining significant amounts of muscle mass. Consuming excessive amounts of protein however can place a metabolic burden on the body, particularly the kidneys (14). Protein can come from a mix of animal and plant sources, and digestibility and quality should also be considered, particularly in childhood and adolescence. For adults, in some contexts, switching to more plant-based sources of protein may be preferable to decrease risk of cardiometabolic diseases (15). In other contexts, consumption of animal source foods is still important to favour nutrient intakes.",
       "heading_path": [
         "What are healthy diets?",
         "1. Principles of healthy diets",
@@ -611,7 +611,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 41,
       "type": "paragraph",
-      "text": "Fat is an essential nutrient for proper functioning of cells in the body, and two fatty acids – linoleic acid and α-linolenic acid – can only be obtained from the diet. Therefore, in adults, a minimum of 15–30% of calories consumed per day should be from fat (7). High intakes of fat may lead to excess energy intake and limiting intake to 30% or less may help to reduce the risk of unhealthy weight gain (9). Because a likely mechanism by which fat intake impacts body weight is through an increased intake of calories, intakes of fat higher than 30% of calories consumed per day are possible, provided that energy balance is maintained and fat quality recommendations are also met. Fat consumed should be primarily unsaturated fatty acids, with 6–10% of total energy intake coming from polyunsaturated fats including linoleic acid, α-linolenic acid and long chain polyunsaturated fatty acids (10). Monounsaturated fatty acids from plant sources should make up the remainder of fat intake, after taking into consideration the amounts of polyunsaturated, saturated and trans-fat consumed (see 1.3 Moderate).",
+      "text": "Fat is an essential nutrient for proper functioning of cells in the body, and two fatty acids \u2013 linoleic acid and \u03b1-linolenic acid \u2013 can only be obtained from the diet. Therefore, in adults, a minimum of 15\u201330% of calories consumed per day should be from fat (7). High intakes of fat may lead to excess energy intake and limiting intake to 30% or less may help to reduce the risk of unhealthy weight gain (9). Because a likely mechanism by which fat intake impacts body weight is through an increased intake of calories, intakes of fat higher than 30% of calories consumed per day are possible, provided that energy balance is maintained and fat quality recommendations are also met. Fat consumed should be primarily unsaturated fatty acids, with 6\u201310% of total energy intake coming from polyunsaturated fats including linoleic acid, \u03b1-linolenic acid and long chain polyunsaturated fatty acids (10). Monounsaturated fatty acids from plant sources should make up the remainder of fat intake, after taking into consideration the amounts of polyunsaturated, saturated and trans-fat consumed (see 1.3 Moderate).",
       "heading_path": [
         "What are healthy diets?",
         "1. Principles of healthy diets",
@@ -731,7 +731,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 49,
       "type": "paragraph",
-      "text": "Moderation refers also to the avoidance of, or moderation in the consumption of, foods that may have negative health effects, particularly if consumed in high quantities. This relationship may be because they are sources of nutrients to limit, such as saturated fat and free sugars, or because they contain other compounds that may be detrimental to health. Two key considerations in this regard are red and processed meats and highly processed or “ultra-processed” foods.",
+      "text": "Moderation refers also to the avoidance of, or moderation in the consumption of, foods that may have negative health effects, particularly if consumed in high quantities. This relationship may be because they are sources of nutrients to limit, such as saturated fat and free sugars, or because they contain other compounds that may be detrimental to health. Two key considerations in this regard are red and processed meats and highly processed or \u201cultra-processed\u201d foods.",
       "heading_path": [
         "What are healthy diets?",
         "1. Principles of healthy diets",
@@ -761,7 +761,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 51,
       "type": "paragraph",
-      "text": "A large and growing body of evidence suggests that consumption of highly processed foods described as “ultra-processed” foods (UPF) by the NOVA classification scheme (NOVA classification group 4) (23) is associated with negative health outcomes. These include risk of premature mortality, cancer, cardiovascular diseases, overweight, obesity and type 2 diabetes, as well as impaired mental, respiratory and gastrointestinal health (24). The term UPF refers to a wide range of foods and beverages with a variety of characteristics.",
+      "text": "A large and growing body of evidence suggests that consumption of highly processed foods described as \u201cultra-processed\u201d foods (UPF) by the NOVA classification scheme (NOVA classification group 4) (23) is associated with negative health outcomes. These include risk of premature mortality, cancer, cardiovascular diseases, overweight, obesity and type 2 diabetes, as well as impaired mental, respiratory and gastrointestinal health (24). The term UPF refers to a wide range of foods and beverages with a variety of characteristics.",
       "heading_path": [
         "What are healthy diets?",
         "1. Principles of healthy diets",
@@ -821,7 +821,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 55,
       "type": "paragraph",
-      "text": "Diverse diets, based on a wide variety of foods, between and within food groups, are associated with a greater likelihood of meeting vitamin and mineral requirements (25–32). The only exception to this is during the first six months of life when infants should receive only breastmilk.",
+      "text": "Diverse diets, based on a wide variety of foods, between and within food groups, are associated with a greater likelihood of meeting vitamin and mineral requirements (25\u201332). The only exception to this is during the first six months of life when infants should receive only breastmilk.",
       "heading_path": [
         "What are healthy diets?",
         "1. Principles of healthy diets",
@@ -836,7 +836,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 56,
       "type": "paragraph",
-      "text": "Distinct food groups and foods within them differ in the content and density of essential nutrients and many other bioactive components (33–36). Several prospective studies have reported lower mortality and diet-related NCD rates among participants with higher food group diversity (37, 38), greater diversity within specific food groups (e.g., fruit and vegetables) (39) and higher species diversity of whole dietary patterns (40).",
+      "text": "Distinct food groups and foods within them differ in the content and density of essential nutrients and many other bioactive components (33\u201336). Several prospective studies have reported lower mortality and diet-related NCD rates among participants with higher food group diversity (37, 38), greater diversity within specific food groups (e.g., fruit and vegetables) (39) and higher species diversity of whole dietary patterns (40).",
       "heading_path": [
         "What are healthy diets?",
         "1. Principles of healthy diets",
@@ -851,7 +851,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 57,
       "type": "paragraph",
-      "text": "Dietary diversity is, therefore, a fundamental element of healthy diets and a long-standing public health principle widely accepted and advocated for in food-based dietary guidelines (41), FAO and WHO’s guiding principles for sustainable healthy diets (42), WHO recommendations for children aged 6–23 months (4) and the technical report on healthy diet metrics from WHO, FAO and UNICEF (43). It is possible for people to have a sufficiently diverse diet across different ages, food environments, seasons, dietary restrictions (e.g., vegetarian) or cultural preferences (see In conclusion: celebrating healthy dietary patterns).",
+      "text": "Dietary diversity is, therefore, a fundamental element of healthy diets and a long-standing public health principle widely accepted and advocated for in food-based dietary guidelines (41), FAO and WHO\u2019s guiding principles for sustainable healthy diets (42), WHO recommendations for children aged 6\u201323 months (4) and the technical report on healthy diet metrics from WHO, FAO and UNICEF (43). It is possible for people to have a sufficiently diverse diet across different ages, food environments, seasons, dietary restrictions (e.g., vegetarian) or cultural preferences (see In conclusion: celebrating healthy dietary patterns).",
       "heading_path": [
         "What are healthy diets?",
         "1. Principles of healthy diets",
@@ -866,7 +866,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 58,
       "type": "paragraph",
-      "text": "Dietary diversity is conventionally measured by a count of food groups consumed over a given reference period, with or without minimum food group intake criteria (25, 44, 45). The variety of possible dietary patterns is often reflected in the questionnaire. For example, Minimum Dietary Diversity for Women (MDD-W) is one indicator that uses intake of food groups to reflect dietary diversity. While the 10 food groups used for MDD-W are universal (e.g., “milk and milk products”), when the questionnaire is administered at a local level, the food groups are populated with examples of locally available, commonly consumed foods that best represent the food group (e.g., kefir in one context, camel milk in another) (27). This consistent structure allows for the capture of locally relevant dietary diversity data that is generalizable and comparable across contexts – essential for national and global monitoring of diets.",
+      "text": "Dietary diversity is conventionally measured by a count of food groups consumed over a given reference period, with or without minimum food group intake criteria (25, 44, 45). The variety of possible dietary patterns is often reflected in the questionnaire. For example, Minimum Dietary Diversity for Women (MDD-W) is one indicator that uses intake of food groups to reflect dietary diversity. While the 10 food groups used for MDD-W are universal (e.g., \u201cmilk and milk products\u201d), when the questionnaire is administered at a local level, the food groups are populated with examples of locally available, commonly consumed foods that best represent the food group (e.g., kefir in one context, camel milk in another) (27). This consistent structure allows for the capture of locally relevant dietary diversity data that is generalizable and comparable across contexts \u2013 essential for national and global monitoring of diets.",
       "heading_path": [
         "What are healthy diets?",
         "1. Principles of healthy diets",
@@ -910,7 +910,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 61,
       "type": "paragraph",
-      "text": "While the principles of healthy diets are universal, dietary patterns – the combinations of foods and beverages consumed over time – are highly contextual. Dietary patterns are determined by a wide variety of social, economic and environmental factors including individual preferences and beliefs, culture, traditions, religion, income and the availability and affordability of foods.",
+      "text": "While the principles of healthy diets are universal, dietary patterns \u2013 the combinations of foods and beverages consumed over time \u2013 are highly contextual. Dietary patterns are determined by a wide variety of social, economic and environmental factors including individual preferences and beliefs, culture, traditions, religion, income and the availability and affordability of foods.",
       "heading_path": [
         "What are healthy diets?",
         "In conclusion: celebrating healthy dietary patterns"
@@ -938,7 +938,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 63,
       "type": "paragraph",
-      "text": "Dietary patterns also have important implications for the environment through their impact on agrifood systems, including greenhouse gas emissions and use of natural resources (land and water, biodiversity and deforestation). Dietary patterns are also impacted and shaped by agrifood systems that, in many contexts, are constrained to provide enough nutritious food for all because of the overuse of natural resources compounded by antimicrobial resistance, zoonoses, biodiversity loss, greenhouse gas emissions, air and water pollution and other issues. Shifts to healthy dietary patterns must therefore be an important pillar of agrifood systems’ transformation and can contribute to overcoming the current inequities in access to healthy diets.",
+      "text": "Dietary patterns also have important implications for the environment through their impact on agrifood systems, including greenhouse gas emissions and use of natural resources (land and water, biodiversity and deforestation). Dietary patterns are also impacted and shaped by agrifood systems that, in many contexts, are constrained to provide enough nutritious food for all because of the overuse of natural resources compounded by antimicrobial resistance, zoonoses, biodiversity loss, greenhouse gas emissions, air and water pollution and other issues. Shifts to healthy dietary patterns must therefore be an important pillar of agrifood systems\u2019 transformation and can contribute to overcoming the current inequities in access to healthy diets.",
       "heading_path": [
         "What are healthy diets?",
         "In conclusion: celebrating healthy dietary patterns"
@@ -952,7 +952,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 64,
       "type": "paragraph",
-      "text": "Food-based dietary guidelines have long been used by countries to characterize healthy diets in context, and to inform consumer education. Such guidelines have the potential for utilization far beyond consumer education, and to bring the environmental, socio-cultural and economic considerations needed to enable healthy diets for all to the forefront in characterizing healthy diets from sustainable agrifood systems in context. Taking these aspects into consideration, a new methodology for the development of dietary guidelines with an agrifood systems’ lens will soon be published by FAO (46).",
+      "text": "Food-based dietary guidelines have long been used by countries to characterize healthy diets in context, and to inform consumer education. Such guidelines have the potential for utilization far beyond consumer education, and to bring the environmental, socio-cultural and economic considerations needed to enable healthy diets for all to the forefront in characterizing healthy diets from sustainable agrifood systems in context. Taking these aspects into consideration, a new methodology for the development of dietary guidelines with an agrifood systems\u2019 lens will soon be published by FAO (46).",
       "heading_path": [
         "What are healthy diets?",
         "In conclusion: celebrating healthy dietary patterns"
@@ -966,7 +966,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 65,
       "type": "paragraph",
-      "text": "With this statement we urge consistency in framing of healthy diets based on the four core principles outlined here, and comprised of safe foods and water. We also encourage everyone, everywhere, to recognize and celebrate the diversity of healthy dietary patterns and the sustainable agrifood systems that can promote and protect human and planetary health. We urge all governments to develop (or update) and use dietary guidelines developed with an agrifood systems’ lens to inform policies and programmes that promote and enable healthy dietary patterns from sustainable agrifood systems for all.",
+      "text": "With this statement we urge consistency in framing of healthy diets based on the four core principles outlined here, and comprised of safe foods and water. We also encourage everyone, everywhere, to recognize and celebrate the diversity of healthy dietary patterns and the sustainable agrifood systems that can promote and protect human and planetary health. We urge all governments to develop (or update) and use dietary guidelines developed with an agrifood systems\u2019 lens to inform policies and programmes that promote and enable healthy dietary patterns from sustainable agrifood systems for all.",
       "heading_path": [
         "What are healthy diets?",
         "In conclusion: celebrating healthy dietary patterns"
@@ -1201,7 +1201,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 80,
       "type": "list_item",
-      "text": "2–5 years old, at least 250 grams per day",
+      "text": "2\u20135 years old, at least 250 grams per day",
       "heading_path": [
         "What are healthy diets?",
         "ANNEX 2",
@@ -1217,7 +1217,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 81,
       "type": "list_item",
-      "text": "6–9 years old, at least 350 grams per day",
+      "text": "6\u20139 years old, at least 350 grams per day",
       "heading_path": [
         "What are healthy diets?",
         "ANNEX 2",
@@ -1313,7 +1313,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 87,
       "type": "list_item",
-      "text": "2–5 years old, at least 15 grams per day",
+      "text": "2\u20135 years old, at least 15 grams per day",
       "heading_path": [
         "What are healthy diets?",
         "ANNEX 2",
@@ -1329,7 +1329,7 @@
       "document_id": "fao-who-healthy-diets",
       "ordinal": 88,
       "type": "list_item",
-      "text": "6–9 years old, at least 22 grams per day",
+      "text": "6\u20139 years old, at least 22 grams per day",
       "heading_path": [
         "What are healthy diets?",
         "ANNEX 2",

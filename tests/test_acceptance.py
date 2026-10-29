@@ -58,7 +58,13 @@ class TestAcceptanceSet(unittest.TestCase):
         self.assertGreater(len(body["sections"]), 0)
 
         for sec in body["sections"]:
-            self.assertEqual(sec["source_url"], config.source_url)
+            expected_url = next(
+                entry["source_url"]
+                for entry in load_manifest(config.MANIFEST_PATH)
+                if entry["doc_id"] == sec["doc_id"]
+            )
+            self.assertEqual(sec["source_url"], expected_url)
+            self.assertNotIn("blocks.jsonl", sec["source_url"])
             self.assertTrue(sec["document_name"])
             self.assertTrue(sec["publisher"])
             self.assertIsInstance(sec["year"], int)

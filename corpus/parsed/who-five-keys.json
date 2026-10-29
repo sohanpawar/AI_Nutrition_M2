@@ -3,7 +3,7 @@
   "document_name": "Five Keys to Safer Food",
   "publisher": "World Health Organization",
   "year": 2006,
-  "source_url": "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl",
+  "source_url": "https://www.who.int/publications/i/item/9789241594639",
   "retrieval_date": "2026-10-27",
   "aliases": [
     "five keys",
@@ -114,7 +114,7 @@
       "document_id": "who-five-keys",
       "ordinal": 7,
       "type": "paragraph",
-      "text": "The core messages of the Five Keys to Safer Food are: (1) keep clean; (2) separate raw and cooked; (3) cook thoroughly; (4) keep food at safe temperatures; and (5) use safe water and raw materials. The poster has been translated into more than 40 languages and is being used to spread WHO’s food hygiene message throughout the world.",
+      "text": "The core messages of the Five Keys to Safer Food are: (1) keep clean; (2) separate raw and cooked; (3) cook thoroughly; (4) keep food at safe temperatures; and (5) use safe water and raw materials. The poster has been translated into more than 40 languages and is being used to spread WHO\u2019s food hygiene message throughout the world.",
       "heading_path": [
         "Introduction",
         "Food safety is a significant public health issue",
@@ -189,7 +189,7 @@
       "document_id": "who-five-keys",
       "ordinal": 12,
       "type": "paragraph",
-      "text": "In both sections information is divided into two columns. The first column contains basic information that should be presented to all audiences. The second column contains additional information which is not designed to be presented to the audience, but is designed to aid the trainer in answering questions. For some sections, the manual also presents “Considerations and suggestions for the trainer”, i.e. ways to adapt the material for different audiences and different locations.",
+      "text": "In both sections information is divided into two columns. The first column contains basic information that should be presented to all audiences. The second column contains additional information which is not designed to be presented to the audience, but is designed to aid the trainer in answering questions. For some sections, the manual also presents \u201cConsiderations and suggestions for the trainer\u201d, i.e. ways to adapt the material for different audiences and different locations.",
       "heading_path": [
         "Introduction",
         "Food safety is a significant public health issue",
@@ -264,7 +264,7 @@
       "document_id": "who-five-keys",
       "ordinal": 17,
       "type": "list_item",
-      "text": "Is the material of an appropriate length to capture and hold the audience’s attention?",
+      "text": "Is the material of an appropriate length to capture and hold the audience\u2019s attention?",
       "heading_path": [
         "Introduction",
         "Food safety is a significant public health issue",
@@ -612,7 +612,7 @@
       "document_id": "who-five-keys",
       "ordinal": 41,
       "type": "paragraph",
-      "text": "For simpler language, use the terms “germ” for microorganisms and “poisons” for toxic chemicals.",
+      "text": "For simpler language, use the terms \u201cgerm\u201d for microorganisms and \u201cpoisons\u201d for toxic chemicals.",
       "heading_path": [
         "Section One: Background material",
         "Considerations and suggestions for the trainer"
@@ -724,7 +724,7 @@
       "document_id": "who-five-keys",
       "ordinal": 49,
       "type": "paragraph",
-      "text": "Dangerous microorganisms make people sick and can even kill. These are called “pathogens”. Most of these microorganisms do not change the appearance of the food.",
+      "text": "Dangerous microorganisms make people sick and can even kill. These are called \u201cpathogens\u201d. Most of these microorganisms do not change the appearance of the food.",
       "heading_path": [
         "Section One: Background material",
         "What are microorganisms?"
@@ -822,7 +822,7 @@
       "document_id": "who-five-keys",
       "ordinal": 56,
       "type": "list_item",
-      "text": "Viruses – Hepatitis A, Norovirus.",
+      "text": "Viruses \u2013 Hepatitis A, Norovirus.",
       "heading_path": [
         "Section One: Background material",
         "What are microorganisms?"
@@ -1032,7 +1032,7 @@
       "document_id": "who-five-keys",
       "ordinal": 71,
       "type": "paragraph",
-      "text": "Microorganisms rely on someone or something to move them around. The transfer of microorganisms from one surface to another is called “contamination”.",
+      "text": "Microorganisms rely on someone or something to move them around. The transfer of microorganisms from one surface to another is called \u201ccontamination\u201d.",
       "heading_path": [
         "Section One: Background material",
         "How do microorganisms move?"
@@ -1172,7 +1172,7 @@
       "document_id": "who-five-keys",
       "ordinal": 81,
       "type": "paragraph",
-      "text": "Most microorganisms “grow” by multiplication. To multiply, microorganisms need:",
+      "text": "Most microorganisms \u201cgrow\u201d by multiplication. To multiply, microorganisms need:",
       "heading_path": [
         "Section One: Background material",
         "How do microorganisms grow?"
@@ -1774,7 +1774,7 @@
       "document_id": "who-five-keys",
       "ordinal": 124,
       "type": "paragraph",
-      "text": "“Poisoning” is a term used to describe sickness resulting from chemical contamination.",
+      "text": "\u201cPoisoning\u201d is a term used to describe sickness resulting from chemical contamination.",
       "heading_path": [
         "Section One: Background material",
         "Chemicals should not be forgotten"
@@ -1788,7 +1788,7 @@
       "document_id": "who-five-keys",
       "ordinal": 125,
       "type": "paragraph",
-      "text": "Some “natural” toxins (e.g. aflatoxin) are caused by moulds growing on the food.",
+      "text": "Some \u201cnatural\u201d toxins (e.g. aflatoxin) are caused by moulds growing on the food.",
       "heading_path": [
         "Section One: Background material",
         "Chemicals should not be forgotten"
@@ -2189,7 +2189,7 @@
       "document_id": "who-five-keys",
       "ordinal": 153,
       "type": "paragraph",
-      "text": "Danger zone The temperature range 5 °C to 60 °C, in which microorganisms grow and multiply very fast.",
+      "text": "Danger zone The temperature range 5 \u00b0C to 60 \u00b0C, in which microorganisms grow and multiply very fast.",
       "heading_path": [
         "Glossary"
       ],
@@ -2267,7 +2267,7 @@
       "document_id": "who-five-keys",
       "ordinal": 159,
       "type": "paragraph",
-      "text": "Foodborne disease A general term used to describe any disease or illness caused by eating contaminated food or drink. Traditionally referred to as “food poisoning”.",
+      "text": "Foodborne disease A general term used to describe any disease or illness caused by eating contaminated food or drink. Traditionally referred to as \u201cfood poisoning\u201d.",
       "heading_path": [
         "Glossary"
       ],
@@ -2358,7 +2358,7 @@
       "document_id": "who-five-keys",
       "ordinal": 166,
       "type": "paragraph",
-      "text": "Pathogen Any disease-causing microorganism such as a bacterium, virus or parasite. Often referred to as a “germ” or “bug”.",
+      "text": "Pathogen Any disease-causing microorganism such as a bacterium, virus or parasite. Often referred to as a \u201cgerm\u201d or \u201cbug\u201d.",
       "heading_path": [
         "Glossary"
       ],

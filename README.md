@@ -17,7 +17,7 @@ Prototype retrieval-augmented chatbot that answers food, nutrition, and food-saf
 
 ## Repository Structure
 
-- `corpus/manifest.yaml`: Closed manifest of the seven guidance documents, publishers, years, shared `source_url`, and document aliases.
+- `corpus/manifest.yaml`: Closed manifest of the seven guidance documents, publishers, years, official publication URLs, and document aliases.
 - `corpus/parsed/`: Grouped document blocks (`<doc_id>.json`) and structure-aware chunks (`<doc_id>.chunks.jsonl`).
 - `corpus/index/`: Persisted vector index (`vectors.sqlite3`).
 - `src/schemas.py`: Shared Pydantic models (`Block`, `Document`, `Chunk`, `Claim`, `Section`, `SearchedDocument`, `AskRequest`, `AskResponse`).

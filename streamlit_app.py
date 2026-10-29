@@ -265,7 +265,8 @@ def render_response_card(turn: dict) -> None:
                 f'<article class="sp-section" style="--accent:{accent}">'
                 f'<p class="sp-doc-title">{escape(sec.document_name)}</p>'
                 f'<p class="sp-meta">{escape(sec.publisher)}, {sec.year}</p>'
-                f'<p class="sp-link"><a href="{escape(sec.source_url)}" target="_blank" rel="noopener noreferrer">{escape(sec.source_url)}</a></p>'
+                f'<p class="sp-link"><a href="{escape(sec.source_url)}" target="_blank" rel="noopener noreferrer">Official source</a></p>'
+                f'<p class="sp-meta">{escape(sec.source_url)}</p>'
                 f'{"".join(claims)}'
                 "</article>"
             )

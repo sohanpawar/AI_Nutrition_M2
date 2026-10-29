@@ -3,7 +3,7 @@
   "document_name": "How to chill, freeze and defrost food safely",
   "publisher": "UK Food Standards Agency",
   "year": 2024,
-  "source_url": "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl",
+  "source_url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely",
   "retrieval_date": "2026-10-27",
   "aliases": [
     "FSA chill",
@@ -54,7 +54,7 @@
       "document_id": "fsa-chill",
       "ordinal": 3,
       "type": "list_item",
-      "text": "your fridge should be between 0 and 5°C and your freezer should be around -18°C",
+      "text": "your fridge should be between 0 and 5\u00b0C and your freezer should be around -18\u00b0C",
       "heading_path": [
         "How to chill, freeze and defrost food safely"
       ],
@@ -80,7 +80,7 @@
       "document_id": "fsa-chill",
       "ordinal": 5,
       "type": "list_item",
-      "text": "eat leftovers within two days or freeze if you think this won’t be possible",
+      "text": "eat leftovers within two days or freeze if you think this won\u2019t be possible",
       "heading_path": [
         "How to chill, freeze and defrost food safely"
       ],
@@ -107,7 +107,7 @@
       "document_id": "fsa-chill",
       "ordinal": 7,
       "type": "paragraph",
-      "text": "Your fridge should be set between 0 and 5°C. Using a fridge thermometer is the best way to do this and we would recommend checking once a week.",
+      "text": "Your fridge should be set between 0 and 5\u00b0C. Using a fridge thermometer is the best way to do this and we would recommend checking once a week.",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "1. Chilling food"
@@ -121,7 +121,7 @@
       "document_id": "fsa-chill",
       "ordinal": 8,
       "type": "paragraph",
-      "text": "To make sure your fridge is running safely you can use the built-in dial or gauge inside the fridge to change the power setting. Check the manufacturer’s instructions on how to do this correctly.",
+      "text": "To make sure your fridge is running safely you can use the built-in dial or gauge inside the fridge to change the power setting. Check the manufacturer\u2019s instructions on how to do this correctly.",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "1. Chilling food"
@@ -135,7 +135,7 @@
       "document_id": "fsa-chill",
       "ordinal": 9,
       "type": "paragraph",
-      "text": "You should always store any food with a ‘use by’ date, as well as cooked dishes, salads and dairy products, in your fridge. Follow storage instructions on packaging, including the best before and use-by dates .",
+      "text": "You should always store any food with a \u2018use by\u2019 date, as well as cooked dishes, salads and dairy products, in your fridge. Follow storage instructions on packaging, including the best before and use-by dates .",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "1. Chilling food"
@@ -149,7 +149,7 @@
       "document_id": "fsa-chill",
       "ordinal": 10,
       "type": "paragraph",
-      "text": "Keep chilled food out of the fridge for the shortest time possible during preparation (a maximum of four hours). And don’t leave the fridge door open for long periods of time, as your fridge then has to work harder to lower the temperature.",
+      "text": "Keep chilled food out of the fridge for the shortest time possible during preparation (a maximum of four hours). And don\u2019t leave the fridge door open for long periods of time, as your fridge then has to work harder to lower the temperature.",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "1. Chilling food"
@@ -163,7 +163,7 @@
       "document_id": "fsa-chill",
       "ordinal": 11,
       "type": "paragraph",
-      "text": "Don’t place hot or warm food in your fridge. Instead, cool cooked food at room temperature and place in the fridge within one to two hours. To cool food quickly, divide food into smaller portions in containers or freezer bags before putting in the fridge or freezer.",
+      "text": "Don\u2019t place hot or warm food in your fridge. Instead, cool cooked food at room temperature and place in the fridge within one to two hours. To cool food quickly, divide food into smaller portions in containers or freezer bags before putting in the fridge or freezer.",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "1. Chilling food"
@@ -177,7 +177,7 @@
       "document_id": "fsa-chill",
       "ordinal": 12,
       "type": "paragraph",
-      "text": "Leftovers can be eaten cold if they have been cooked properly, cooled, and put in the fridge within two hours. Putting food in the fridge slows bacterial growth so it is safe to eat. Eat leftovers within 48 hours or freeze them if you think this won’t be possible. For more information see the ‘Using your leftovers’ section on our ‘ Cooking your food ’ page.",
+      "text": "Leftovers can be eaten cold if they have been cooked properly, cooled, and put in the fridge within two hours. Putting food in the fridge slows bacterial growth so it is safe to eat. Eat leftovers within 48 hours or freeze them if you think this won\u2019t be possible. For more information see the \u2018Using your leftovers\u2019 section on our \u2018 Cooking your food \u2019 page.",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "1. Chilling food"
@@ -205,7 +205,7 @@
       "document_id": "fsa-chill",
       "ordinal": 14,
       "type": "paragraph",
-      "text": "A freezer acts as a pause button - food in a freezer won’t go bad and most bacteria cannot grow in it. It’s OK to freeze most foods as long as you check packet instructions to ensure that foods are suitable for freezing.",
+      "text": "A freezer acts as a pause button - food in a freezer won\u2019t go bad and most bacteria cannot grow in it. It\u2019s OK to freeze most foods as long as you check packet instructions to ensure that foods are suitable for freezing.",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "2. Freezing Food"
@@ -219,7 +219,7 @@
       "document_id": "fsa-chill",
       "ordinal": 15,
       "type": "paragraph",
-      "text": "Here’s our top tips on freezing your food safely:",
+      "text": "Here\u2019s our top tips on freezing your food safely:",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "2. Freezing Food"
@@ -233,7 +233,7 @@
       "document_id": "fsa-chill",
       "ordinal": 16,
       "type": "list_item",
-      "text": "your freezer should be around -18°C",
+      "text": "your freezer should be around -18\u00b0C",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "2. Freezing Food"
@@ -261,7 +261,7 @@
       "document_id": "fsa-chill",
       "ordinal": 18,
       "type": "list_item",
-      "text": "you can freeze food right up until midnight on the ‘use by’ date printed on the label",
+      "text": "you can freeze food right up until midnight on the \u2018use by\u2019 date printed on the label",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "2. Freezing Food"
@@ -359,7 +359,7 @@
       "document_id": "fsa-chill",
       "ordinal": 25,
       "type": "list_item",
-      "text": "label food you freeze so you don’t end up with Unidentified Frozen Objects (UFOs)",
+      "text": "label food you freeze so you don\u2019t end up with Unidentified Frozen Objects (UFOs)",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "2. Freezing Food"
@@ -373,7 +373,7 @@
       "document_id": "fsa-chill",
       "ordinal": 26,
       "type": "paragraph",
-      "text": "FSA Explains: Freezer burn Freezer burn is when foods in the freezer are exposed to cold, dry air, which causes them to dehydrate and form ice crystals over time. This process affects the quality of the foods, rather than the safety. Freezer burn can be avoided by carefully packaging foods in the freezer and checking foods aren’t kept for too long. Meats are usually best eaten within 2-3 months. Baked goods, fruit and veg are best between 3-4 months. Love Food Hate Waste have information on freezing leftovers, including recipe ideas.",
+      "text": "FSA Explains: Freezer burn Freezer burn is when foods in the freezer are exposed to cold, dry air, which causes them to dehydrate and form ice crystals over time. This process affects the quality of the foods, rather than the safety. Freezer burn can be avoided by carefully packaging foods in the freezer and checking foods aren\u2019t kept for too long. Meats are usually best eaten within 2-3 months. Baked goods, fruit and veg are best between 3-4 months. Love Food Hate Waste have information on freezing leftovers, including recipe ideas.",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "2. Freezing Food"
@@ -401,7 +401,7 @@
       "document_id": "fsa-chill",
       "ordinal": 28,
       "type": "paragraph",
-      "text": "You should defrost your food in the fridge so that it doesn’t get too warm, see our Danger Zone info below for why this is important. It’s also important to use food within 24 hours after it’s been fully defrosted – it will go bad in the same way as if it were fresh.",
+      "text": "You should defrost your food in the fridge so that it doesn\u2019t get too warm, see our Danger Zone info below for why this is important. It\u2019s also important to use food within 24 hours after it\u2019s been fully defrosted \u2013 it will go bad in the same way as if it were fresh.",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "3. Defrosting Food"
@@ -429,7 +429,7 @@
       "document_id": "fsa-chill",
       "ordinal": 30,
       "type": "paragraph",
-      "text": "When defrosting food in the fridge use a container big enough to catch any drips. If this isn’t possible, use a microwave on the defrost setting directly before cooking. Check the guidance on food packaging and allow enough time for your food to defrost properly.",
+      "text": "When defrosting food in the fridge use a container big enough to catch any drips. If this isn\u2019t possible, use a microwave on the defrost setting directly before cooking. Check the guidance on food packaging and allow enough time for your food to defrost properly.",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "3. Defrosting Food"
@@ -471,7 +471,7 @@
       "document_id": "fsa-chill",
       "ordinal": 33,
       "type": "list_item",
-      "text": "you can freeze food again once cooked, but you’ll only be able to reheat it once after that",
+      "text": "you can freeze food again once cooked, but you\u2019ll only be able to reheat it once after that",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "3. Defrosting Food"
@@ -527,7 +527,7 @@
       "document_id": "fsa-chill",
       "ordinal": 37,
       "type": "paragraph",
-      "text": "It’s especially important to store meat, fish and poultry safely to stop bacteria from spreading and to avoid food poisoning:",
+      "text": "It\u2019s especially important to store meat, fish and poultry safely to stop bacteria from spreading and to avoid food poisoning:",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "4. How to stock your fridge"
@@ -541,7 +541,7 @@
       "document_id": "fsa-chill",
       "ordinal": 38,
       "type": "list_item",
-      "text": "store raw meat, poultry and fish in their packaging or in clean sealed containers on the bottom shelf of the fridge, so they can’t touch or drip onto other food",
+      "text": "store raw meat, poultry and fish in their packaging or in clean sealed containers on the bottom shelf of the fridge, so they can\u2019t touch or drip onto other food",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "4. How to stock your fridge"
@@ -555,7 +555,7 @@
       "document_id": "fsa-chill",
       "ordinal": 39,
       "type": "list_item",
-      "text": "follow any storage instructions on the label and don’t eat meat after its use-by date.",
+      "text": "follow any storage instructions on the label and don\u2019t eat meat after its use-by date.",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "4. How to stock your fridge"
@@ -569,7 +569,7 @@
       "document_id": "fsa-chill",
       "ordinal": 40,
       "type": "list_item",
-      "text": "when you have cooked meat and you’re not going to eat it straight away, cool it and then put it in the fridge or freezer within 1-2 hours - remember to keep cooked meat separate from raw meat",
+      "text": "when you have cooked meat and you\u2019re not going to eat it straight away, cool it and then put it in the fridge or freezer within 1-2 hours - remember to keep cooked meat separate from raw meat",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "4. How to stock your fridge"
@@ -583,7 +583,7 @@
       "document_id": "fsa-chill",
       "ordinal": 41,
       "type": "list_item",
-      "text": "store eggs away from other foods - it’s a good idea to use your fridge’s egg tray, if you have one, because this helps to keep eggs separate.",
+      "text": "store eggs away from other foods - it\u2019s a good idea to use your fridge\u2019s egg tray, if you have one, because this helps to keep eggs separate.",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "4. How to stock your fridge"
@@ -597,7 +597,7 @@
       "document_id": "fsa-chill",
       "ordinal": 42,
       "type": "list_item",
-      "text": "remember that some types of food might need to be kept in the fridge once you’ve opened them – follow any storage instructions on the label",
+      "text": "remember that some types of food might need to be kept in the fridge once you\u2019ve opened them \u2013 follow any storage instructions on the label",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "4. How to stock your fridge"
@@ -611,7 +611,7 @@
       "document_id": "fsa-chill",
       "ordinal": 43,
       "type": "paragraph",
-      "text": "Also, you should not store food in an opened tin can. When a can has been opened and the food is exposed to the air, the tin from the can could transfer more quickly to the food inside. After opening a can of food, if you aren’t going to use it all right away, empty the contents into a storage container, cover and refrigerate.",
+      "text": "Also, you should not store food in an opened tin can. When a can has been opened and the food is exposed to the air, the tin from the can could transfer more quickly to the food inside. After opening a can of food, if you aren\u2019t going to use it all right away, empty the contents into a storage container, cover and refrigerate.",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "4. How to stock your fridge"
@@ -625,7 +625,7 @@
       "document_id": "fsa-chill",
       "ordinal": 44,
       "type": "paragraph",
-      "text": "FSA Explains: The Danger Zone The cold temperatures of a domestic freezer (-18°C) delay chemical reactions within foods and put any bacteria that may be present on pause. The bacteria haven’t been killed, and they may be revived as the food defrosts. Defrost food in the fridge to prevent it sitting in between 8 - 63°C, which is the Danger Zone. Between these temperatures the bacteria may grow and make you ill. Generally, the colder the temperature, the slower bacteria will grow - but cold temperatures don’t stop bacteria growing altogether (for example, listeria monocytogenes ). That’s why we advise that the safest way to defrost food is in the fridge overnight. By defrosting in the fridge, your food should never enter the ‘Danger Zone’.",
+      "text": "FSA Explains: The Danger Zone The cold temperatures of a domestic freezer (-18\u00b0C) delay chemical reactions within foods and put any bacteria that may be present on pause. The bacteria haven\u2019t been killed, and they may be revived as the food defrosts. Defrost food in the fridge to prevent it sitting in between 8 - 63\u00b0C, which is the Danger Zone. Between these temperatures the bacteria may grow and make you ill. Generally, the colder the temperature, the slower bacteria will grow - but cold temperatures don\u2019t stop bacteria growing altogether (for example, listeria monocytogenes ). That\u2019s why we advise that the safest way to defrost food is in the fridge overnight. By defrosting in the fridge, your food should never enter the \u2018Danger Zone\u2019.",
       "heading_path": [
         "How to chill, freeze and defrost food safely",
         "4. How to stock your fridge"

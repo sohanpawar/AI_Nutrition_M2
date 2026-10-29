@@ -3,7 +3,7 @@
   "document_name": "Kitchen Companion",
   "publisher": "USDA Food Safety and Inspection Service",
   "year": 2008,
-  "source_url": "https://github.com/saksham20189575/health-data/blob/main/blocks.jsonl",
+  "source_url": "https://www.fsis.usda.gov/news-events/publications/kitchen-companion-your-safe-food-handbook",
   "retrieval_date": "2026-10-27",
   "aliases": [
     "kitchen companion"
@@ -54,7 +54,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 3,
       "type": "list_item",
-      "text": "in other words, to “spoil.” With spoil age bacteria, the food looks or smells funny or bad, so you know to throw it out. These bacteria can grow at lower temperatures — even in the refrigerator. But while they can make food unap pealing and inedible.They do not usually cause illness.",
+      "text": "in other words, to \u201cspoil.\u201d With spoil age bacteria, the food looks or smells funny or bad, so you know to throw it out. These bacteria can grow at lower temperatures \u2014 even in the refrigerator. But while they can make food unap pealing and inedible.They do not usually cause illness.",
       "heading_path": [
         "Foodborne Bacteria",
         "Spoilage Bacteria"
@@ -82,7 +82,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 5,
       "type": "paragraph",
-      "text": "These are the ones you need to watch out for; in fact, it’s pathogenic bacteria and the toxins or poisons they produce that the food safety precautions",
+      "text": "These are the ones you need to watch out for; in fact, it\u2019s pathogenic bacteria and the toxins or poisons they produce that the food safety precautions",
       "heading_path": [
         "Foodborne Bacteria",
         "Pathogenic Bacteria"
@@ -110,7 +110,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 7,
       "type": "paragraph",
-      "text": "Often called “food poisoning,” food-borne illness comes from a food you eat. It’s caused by ingesting pathogenic bacteria or the poisons they produce.",
+      "text": "Often called \u201cfood poisoning,\u201d food-borne illness comes from a food you eat. It\u2019s caused by ingesting pathogenic bacteria or the poisons they produce.",
       "heading_path": [
         "Foodborne Bacteria",
         "Foodborne Illness"
@@ -124,7 +124,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 8,
       "type": "paragraph",
-      "text": "There are two kinds of foodborne bacteria: one that spoils your food and one that makes you sick. It’s good to be familiar with both, but it’s critical that you follow safe food handling practices to keep the second one at bay.",
+      "text": "There are two kinds of foodborne bacteria: one that spoils your food and one that makes you sick. It\u2019s good to be familiar with both, but it\u2019s critical that you follow safe food handling practices to keep the second one at bay.",
       "heading_path": [
         "Foodborne Bacteria",
         "Foodborne Illness"
@@ -180,7 +180,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 12,
       "type": "paragraph",
-      "text": "Since foodborne illness can be serious — or even fatal, it is important for you to know and practice safe food handling behaviors to help reduce your risk of accidentally getting sick from contaminated food.",
+      "text": "Since foodborne illness can be serious \u2014 or even fatal, it is important for you to know and practice safe food handling behaviors to help reduce your risk of accidentally getting sick from contaminated food.",
       "heading_path": [
         "Foodborne Bacteria",
         "Foodborne Illness in the United States"
@@ -194,7 +194,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 13,
       "type": "paragraph",
-      "text": "throughout this handbook are intended to prevent. You can’t see, smell, or taste these pathogens, and this makes them dif ficult to detect. What’s more, they cause a variety of foodborne illnesses and can make you really, really sick.",
+      "text": "throughout this handbook are intended to prevent. You can\u2019t see, smell, or taste these pathogens, and this makes them dif ficult to detect. What\u2019s more, they cause a variety of foodborne illnesses and can make you really, really sick.",
       "heading_path": [
         "Foodborne Bacteria",
         "Foodborne Illness in the United States"
@@ -253,7 +253,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 17,
       "type": "paragraph",
-      "text": "For example, Salmonella is most often found in poultry or eggs, whereas E. coli is more typically found in or on meats and vegetables. Meanwhile, Staphylococcus aureus and Clostridium perfringens are frequently present on people’s hands and even in buffet lines.",
+      "text": "For example, Salmonella is most often found in poultry or eggs, whereas E. coli is more typically found in or on meats and vegetables. Meanwhile, Staphylococcus aureus and Clostridium perfringens are frequently present on people\u2019s hands and even in buffet lines.",
       "heading_path": [
         "Foodborne Bacteria",
         "Foodborne Illness in the United States",
@@ -268,7 +268,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 18,
       "type": "list_item",
-      "text": "Throughout this handbook, you’ll find effective strategies for preventing illness from pathogenic bacteria. Food safety is extremely important and should be practiced with every meal you eat or prepare. The Major Pathogens chart (on pages 6-7) gives greater detail regarding the most common foodborne bacteria, where they are found, and what they can do if ingested. Foodborne Illness: Know the Signs and Symptoms . . . and Take Action The signs and symptoms of foodborne illness range from upset stomach, diarrhea, fever, vomiting, abdominal cramps, and dehydration to more severe illness—even death. If you become ill and believe your illness is due to a food product:",
+      "text": "Throughout this handbook, you\u2019ll find effective strategies for preventing illness from pathogenic bacteria. Food safety is extremely important and should be practiced with every meal you eat or prepare. The Major Pathogens chart (on pages 6-7) gives greater detail regarding the most common foodborne bacteria, where they are found, and what they can do if ingested. Foodborne Illness: Know the Signs and Symptoms . . . and Take Action The signs and symptoms of foodborne illness range from upset stomach, diarrhea, fever, vomiting, abdominal cramps, and dehydration to more severe illness\u2014even death. If you become ill and believe your illness is due to a food product:",
       "heading_path": [
         "Foodborne Bacteria",
         "Foodborne Illness in the United States",
@@ -283,7 +283,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 19,
       "type": "list_item",
-      "text": "Seek treatment as necessary. Contact your doctor—especially if symptoms persist or become severe (bloody diarrhea, excessive nausea and vomiting, or high fever). For victims in an at-risk group (pregnant women and their unborn babies, newborns, young children, older adults, and people with weakened immune systems), seek medical care immediately.",
+      "text": "Seek treatment as necessary. Contact your doctor\u2014especially if symptoms persist or become severe (bloody diarrhea, excessive nausea and vomiting, or high fever). For victims in an at-risk group (pregnant women and their unborn babies, newborns, young children, older adults, and people with weakened immune systems), seek medical care immediately.",
       "heading_path": [
         "Foodborne Bacteria",
         "Foodborne Illness in the United States",
@@ -343,7 +343,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 23,
       "type": "list_item",
-      "text": "Report complaints online to USDA’s Consumer Complaint Monitoring System (CCMS). Go to “Report a Problem with Food” at",
+      "text": "Report complaints online to USDA\u2019s Consumer Complaint Monitoring System (CCMS). Go to \u201cReport a Problem with Food\u201d at",
       "heading_path": [
         "Foodborne Bacteria",
         "Foodborne Illness in the United States",
@@ -373,7 +373,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 25,
       "type": "paragraph",
-      "text": "Molds are not bacteria. To learn about mold on food, read the fact sheet “Molds on Food: Are They Dangerous?” at www.fsis.usda.gov.",
+      "text": "Molds are not bacteria. To learn about mold on food, read the fact sheet \u201cMolds on Food: Are They Dangerous?\u201d at www.fsis.usda.gov.",
       "heading_path": [
         "Foodborne Bacteria",
         "Foodborne Illness in the United States",
@@ -401,7 +401,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 27,
       "type": "paragraph",
-      "text": "For consumers, food safety most likely begins in the supermarket aisle. Whether you’re doing a quick trip to pick up dinner ingredients or tackling a week’s worth of grocery shopping all at once, there are a few easy steps you can follow to ensure that the food you bring home will arrive there safely.",
+      "text": "For consumers, food safety most likely begins in the supermarket aisle. Whether you\u2019re doing a quick trip to pick up dinner ingredients or tackling a week\u2019s worth of grocery shopping all at once, there are a few easy steps you can follow to ensure that the food you bring home will arrive there safely.",
       "heading_path": [
         "Shopping for Food"
       ],
@@ -442,7 +442,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 30,
       "type": "list_item",
-      "text": "Read the label. Don’t buy food that is past the “Sell-By,” “Use-By,” or other expiration dates. (See About Food Labels on page 10.)",
+      "text": "Read the label. Don\u2019t buy food that is past the \u201cSell-By,\u201d \u201cUse-By,\u201d or other expiration dates. (See About Food Labels on page 10.)",
       "heading_path": [
         "Shopping for Food",
         "At the Store"
@@ -470,7 +470,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 32,
       "type": "list_item",
-      "text": "Buy clean eggs. At the store, choose refrigerated Grade A or AA eggs with clean, uncracked shells before the “Sell-By” or “EXP” (expiration) date on the carton. When purchasing egg products or substitutes, look for containers that are tightly sealed.",
+      "text": "Buy clean eggs. At the store, choose refrigerated Grade A or AA eggs with clean, uncracked shells before the \u201cSell-By\u201d or \u201cEXP\u201d (expiration) date on the carton. When purchasing egg products or substitutes, look for containers that are tightly sealed.",
       "heading_path": [
         "Shopping for Food",
         "At the Store"
@@ -484,7 +484,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 33,
       "type": "list_item",
-      "text": "Inspect fresh produce. Don’t buy fresh fruits or vegetables that are bruised or damaged. Make sure fresh-cut fruits and vegetables are displayed in refrigerated cases at the store. If not, don’t buy them.",
+      "text": "Inspect fresh produce. Don\u2019t buy fresh fruits or vegetables that are bruised or damaged. Make sure fresh-cut fruits and vegetables are displayed in refrigerated cases at the store. If not, don\u2019t buy them.",
       "heading_path": [
         "Shopping for Food",
         "At the Store"
@@ -498,7 +498,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 34,
       "type": "list_item",
-      "text": "Place meat, poultry, and seafood in plastic bags. By bagging these foods before placing them in your cart, you’ll guard against cross-contamination",
+      "text": "Place meat, poultry, and seafood in plastic bags. By bagging these foods before placing them in your cart, you\u2019ll guard against cross-contamination",
       "heading_path": [
         "Shopping for Food",
         "At the Store"
@@ -582,7 +582,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 40,
       "type": "paragraph",
-      "text": "Once your groceries are packed for the trek home, there are some easy “timing” tips you should follow to continue to maintain their safety.",
+      "text": "Once your groceries are packed for the trek home, there are some easy \u201ctiming\u201d tips you should follow to continue to maintain their safety.",
       "heading_path": [
         "Shopping for Food",
         "Transporting Groceries"
@@ -596,7 +596,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 41,
       "type": "list_item",
-      "text": "Go straight home. Plan to drive directly home from the grocery store. Don’t leave groceries in the car while you run other errands. The key is to always refrigerate perishable food within 2 hours. This is true of all per ishable food and in all situations and is known as the “2-Hour Rule.”",
+      "text": "Go straight home. Plan to drive directly home from the grocery store. Don\u2019t leave groceries in the car while you run other errands. The key is to always refrigerate perishable food within 2 hours. This is true of all per ishable food and in all situations and is known as the \u201c2-Hour Rule.\u201d",
       "heading_path": [
         "Shopping for Food",
         "Transporting Groceries"
@@ -610,7 +610,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 42,
       "type": "list_item",
-      "text": "Do a “Weather Check.” When the outside temperature is above 90 °F (32.2 °C), you should refrigerate your purchased perishables more quickly",
+      "text": "Do a \u201cWeather Check.\u201d When the outside temperature is above 90 \u00b0F (32.2 \u00b0C), you should refrigerate your purchased perishables more quickly",
       "heading_path": [
         "Shopping for Food",
         "Transporting Groceries"
@@ -652,7 +652,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 45,
       "type": "paragraph",
-      "text": "When you get home, don’t get caught up reading the mail! Unload your groceries right away to keep them safe, and refrigerate or freeze all perishables.",
+      "text": "When you get home, don\u2019t get caught up reading the mail! Unload your groceries right away to keep them safe, and refrigerate or freeze all perishables.",
       "heading_path": [
         "Shopping for Food",
         "Arriving Home"
@@ -666,10 +666,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 46,
       "type": "heading",
-      "text": "Focus on: The “Danger Zone”",
+      "text": "Focus on: The \u201cDanger Zone\u201d",
       "heading_path": [
         "Shopping for Food",
-        "Focus on: The “Danger Zone”"
+        "Focus on: The \u201cDanger Zone\u201d"
       ],
       "page": 11,
       "level": 3,
@@ -680,10 +680,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 47,
       "type": "paragraph",
-      "text": "Throughout the Kitchen Companion, there are references to keeping food out of the “Danger Zone.” Understanding the “Danger Zone” is critical because bacteria can multiply rapidly in any perishable food that is left in the “Danger Zone” between 40 and 140 °F (4.4 and 60 °C) for more than 2 hours (1 hour if above 90 °F or 32.2 °C). (See Remember the 2-Hour Rule on page 35.) The “Danger Zone” is a potential risk for cold food that goes above 40 °F (4.4 °C) and hot food that falls below 140 °F (60 °C). However, it’s easy to avoid the “Danger Zone”: just keep hot food hot and cold food cold!",
+      "text": "Throughout the Kitchen Companion, there are references to keeping food out of the \u201cDanger Zone.\u201d Understanding the \u201cDanger Zone\u201d is critical because bacteria can multiply rapidly in any perishable food that is left in the \u201cDanger Zone\u201d between 40 and 140 \u00b0F (4.4 and 60 \u00b0C) for more than 2 hours (1 hour if above 90 \u00b0F or 32.2 \u00b0C). (See Remember the 2-Hour Rule on page 35.) The \u201cDanger Zone\u201d is a potential risk for cold food that goes above 40 \u00b0F (4.4 \u00b0C) and hot food that falls below 140 \u00b0F (60 \u00b0C). However, it\u2019s easy to avoid the \u201cDanger Zone\u201d: just keep hot food hot and cold food cold!",
       "heading_path": [
         "Shopping for Food",
-        "Focus on: The “Danger Zone”"
+        "Focus on: The \u201cDanger Zone\u201d"
       ],
       "page": 11,
       "level": null,
@@ -697,7 +697,7 @@
       "text": "About Food Labels",
       "heading_path": [
         "Shopping for Food",
-        "Focus on: The “Danger Zone”",
+        "Focus on: The \u201cDanger Zone\u201d",
         "About Food Labels"
       ],
       "page": 12,
@@ -709,10 +709,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 49,
       "type": "paragraph",
-      "text": "Product Dating Except for infant formula, food product dating is not generally required by Fed eral regulations. However, dating of some foods is required by more than 20 states. Here’s what the dates mean.",
+      "text": "Product Dating Except for infant formula, food product dating is not generally required by Fed eral regulations. However, dating of some foods is required by more than 20 states. Here\u2019s what the dates mean.",
       "heading_path": [
         "Shopping for Food",
-        "Focus on: The “Danger Zone”",
+        "Focus on: The \u201cDanger Zone\u201d",
         "About Food Labels"
       ],
       "page": 12,
@@ -724,10 +724,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 50,
       "type": "paragraph",
-      "text": "“Sell By” date: Tells the store how long to display the product for sale. You should buy the product before the date expires.",
+      "text": "\u201cSell By\u201d date: Tells the store how long to display the product for sale. You should buy the product before the date expires.",
       "heading_path": [
         "Shopping for Food",
-        "Focus on: The “Danger Zone”",
+        "Focus on: The \u201cDanger Zone\u201d",
         "About Food Labels"
       ],
       "page": 12,
@@ -739,10 +739,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 51,
       "type": "paragraph",
-      "text": "“Best If Used By” (or Before) date: Recommended for best flavor or quality. It is not a purchase or safety date.",
+      "text": "\u201cBest If Used By\u201d (or Before) date: Recommended for best flavor or quality. It is not a purchase or safety date.",
       "heading_path": [
         "Shopping for Food",
-        "Focus on: The “Danger Zone”",
+        "Focus on: The \u201cDanger Zone\u201d",
         "About Food Labels"
       ],
       "page": 12,
@@ -754,10 +754,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 52,
       "type": "paragraph",
-      "text": "“Use-By” date: The last recommended date for the use of the product while at peak quality. The date has been deter mined by the product’s manufacturer.",
+      "text": "\u201cUse-By\u201d date: The last recommended date for the use of the product while at peak quality. The date has been deter mined by the product\u2019s manufacturer.",
       "heading_path": [
         "Shopping for Food",
-        "Focus on: The “Danger Zone”",
+        "Focus on: The \u201cDanger Zone\u201d",
         "About Food Labels"
       ],
       "page": 12,
@@ -769,10 +769,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 53,
       "type": "paragraph",
-      "text": "Closed or Coded dates: Packing numbers for use by the manufacturer. If a product is not “dated,” consume per ishable food by the times on page 13.",
+      "text": "Closed or Coded dates: Packing numbers for use by the manufacturer. If a product is not \u201cdated,\u201d consume per ishable food by the times on page 13.",
       "heading_path": [
         "Shopping for Food",
-        "Focus on: The “Danger Zone”",
+        "Focus on: The \u201cDanger Zone\u201d",
         "About Food Labels"
       ],
       "page": 12,
@@ -784,10 +784,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 54,
       "type": "heading",
-      "text": "What is “Organic”?",
+      "text": "What is \u201cOrganic\u201d?",
       "heading_path": [
         "Shopping for Food",
-        "What is “Organic”?"
+        "What is \u201cOrganic\u201d?"
       ],
       "page": 12,
       "level": 3,
@@ -801,7 +801,7 @@
       "text": "Organic meat, poultry, eggs, and dairy products come from animals that are given no antibiotics or growth hormones and must meet many other criteria to comply with USDA organic standards.",
       "heading_path": [
         "Shopping for Food",
-        "What is “Organic”?"
+        "What is \u201cOrganic\u201d?"
       ],
       "page": 12,
       "level": null,
@@ -812,10 +812,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 56,
       "type": "list_item",
-      "text": "For more information about the National Organic Program, visit USDA’s Agricultural Marketing Service at Sample food label.",
+      "text": "For more information about the National Organic Program, visit USDA\u2019s Agricultural Marketing Service at Sample food label.",
       "heading_path": [
         "Shopping for Food",
-        "What is “Organic”?"
+        "What is \u201cOrganic\u201d?"
       ],
       "page": 12,
       "level": null,
@@ -829,7 +829,7 @@
       "text": "Safe Handling Instructions These guidelines on raw meat and poul try provide specific information for han dling and preparation. Following these instructions is particularly important for consumers in at-risk groups.",
       "heading_path": [
         "Shopping for Food",
-        "What is “Organic”?"
+        "What is \u201cOrganic\u201d?"
       ],
       "page": 12,
       "level": null,
@@ -840,11 +840,11 @@
       "document_id": "kitchen-companion",
       "ordinal": 58,
       "type": "heading",
-      "text": "Ready to Eat—or Not?",
+      "text": "Ready to Eat\u2014or Not?",
       "heading_path": [
         "Shopping for Food",
-        "What is “Organic”?",
-        "Ready to Eat—or Not?"
+        "What is \u201cOrganic\u201d?",
+        "Ready to Eat\u2014or Not?"
       ],
       "page": 12,
       "level": 6,
@@ -855,11 +855,11 @@
       "document_id": "kitchen-companion",
       "ordinal": 59,
       "type": "paragraph",
-      "text": "Check labels carefully. Some products may appear to be precooked or browned but are raw and not ready to eat. Cook these foods to the safe minimum internal temperature of 165 °F (73.9 °C). Unless a product is labeled as “fully cooked,” the food should be handled and prepared no differently than raw products.",
+      "text": "Check labels carefully. Some products may appear to be precooked or browned but are raw and not ready to eat. Cook these foods to the safe minimum internal temperature of 165 \u00b0F (73.9 \u00b0C). Unless a product is labeled as \u201cfully cooked,\u201d the food should be handled and prepared no differently than raw products.",
       "heading_path": [
         "Shopping for Food",
-        "What is “Organic”?",
-        "Ready to Eat—or Not?"
+        "What is \u201cOrganic\u201d?",
+        "Ready to Eat\u2014or Not?"
       ],
       "page": 12,
       "level": null,
@@ -870,11 +870,11 @@
       "document_id": "kitchen-companion",
       "ordinal": 60,
       "type": "paragraph",
-      "text": "All containers of meat, poultry, and egg products must be labeled with the USDA mark of inspection and the plant’s estab lishment (EST) number. The numbers following EST (or P for poultry) tell where the product was made.",
+      "text": "All containers of meat, poultry, and egg products must be labeled with the USDA mark of inspection and the plant\u2019s estab lishment (EST) number. The numbers following EST (or P for poultry) tell where the product was made.",
       "heading_path": [
         "Shopping for Food",
-        "What is “Organic”?",
-        "Ready to Eat—or Not?"
+        "What is \u201cOrganic\u201d?",
+        "Ready to Eat\u2014or Not?"
       ],
       "page": 12,
       "level": null,
@@ -898,7 +898,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 62,
       "type": "paragraph",
-      "text": "It’s a Date!",
+      "text": "It\u2019s a Date!",
       "heading_path": [
         "Storing Food"
       ],
@@ -937,7 +937,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 65,
       "type": "list_item",
-      "text": "Place newer items in the back of the refrigerator or freezer. That way, you’ll use the older ones first.",
+      "text": "Place newer items in the back of the refrigerator or freezer. That way, you\u2019ll use the older ones first.",
       "heading_path": [
         "Storing Food"
       ],
@@ -950,7 +950,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 66,
       "type": "paragraph",
-      "text": "The food you store falls into three basic “storage categories.”",
+      "text": "The food you store falls into three basic \u201cstorage categories.\u201d",
       "heading_path": [
         "Storing Food"
       ],
@@ -963,7 +963,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 67,
       "type": "list_item",
-      "text": "Perishable food: in the refrigerator (read the label if you’re not sure)",
+      "text": "Perishable food: in the refrigerator (read the label if you\u2019re not sure)",
       "heading_path": [
         "Storing Food"
       ],
@@ -1016,7 +1016,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 71,
       "type": "paragraph",
-      "text": "Food safety is the best reason ever to “chill out”! Follow these basic guidelines to protect your perishables — and yourself and your family. And remember: always refrigerate perishable food within 2 hours—1 hour when the temperature is above 90 °F (32.2 °C).",
+      "text": "Food safety is the best reason ever to \u201cchill out\u201d! Follow these basic guidelines to protect your perishables \u2014 and yourself and your family. And remember: always refrigerate perishable food within 2 hours\u20141 hour when the temperature is above 90 \u00b0F (32.2 \u00b0C).",
       "heading_path": [
         "Storing Food",
         "Refrigerated Perishable Food"
@@ -1030,7 +1030,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 72,
       "type": "list_item",
-      "text": "Raw Meat, Poultry, and Seafood: Place in containers or sealed plastic bags to prevent their juices from dripping onto other food in the refrigerator. This could cause cross-contamination (see inset box, page 8). If you’re not planning to use the food within a day or two, freeze it.",
+      "text": "Raw Meat, Poultry, and Seafood: Place in containers or sealed plastic bags to prevent their juices from dripping onto other food in the refrigerator. This could cause cross-contamination (see inset box, page 8). If you\u2019re not planning to use the food within a day or two, freeze it.",
       "heading_path": [
         "Storing Food",
         "Refrigerated Perishable Food"
@@ -1058,7 +1058,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 74,
       "type": "list_item",
-      "text": "Eggs: Store in the original carton and place in the main compartment of the refrigerator — not in the door. When ready to use, do not wash them. (Read more about Eggs on page 28.)",
+      "text": "Eggs: Store in the original carton and place in the main compartment of the refrigerator \u2014 not in the door. When ready to use, do not wash them. (Read more about Eggs on page 28.)",
       "heading_path": [
         "Storing Food",
         "Refrigerated Perishable Food"
@@ -1114,7 +1114,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 78,
       "type": "paragraph",
-      "text": "It’s common to assume that your refrigerator’s temperature control dial keeps food cold enough, but this isn’t necessarily true. “Built-in” temperature control dials may not be effective, and if your refrigerator isn’t cooling to 40 °F (4.4 °C) or below, you’re providing a haven for bacteria to grow.",
+      "text": "It\u2019s common to assume that your refrigerator\u2019s temperature control dial keeps food cold enough, but this isn\u2019t necessarily true. \u201cBuilt-in\u201d temperature control dials may not be effective, and if your refrigerator isn\u2019t cooling to 40 \u00b0F (4.4 \u00b0C) or below, you\u2019re providing a haven for bacteria to grow.",
       "heading_path": [
         "Storing Food",
         "Your Refrigerator and Freezer: Take Their Temperatures!"
@@ -1142,7 +1142,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 80,
       "type": "list_item",
-      "text": "If the refrigerator thermometer shows a temperature that’s too high (above 40 °F/4.4 °C), adjust the refrigerator’s control dial.",
+      "text": "If the refrigerator thermometer shows a temperature that\u2019s too high (above 40 \u00b0F/4.4 \u00b0C), adjust the refrigerator\u2019s control dial.",
       "heading_path": [
         "Storing Food",
         "Your Refrigerator and Freezer: Take Their Temperatures!"
@@ -1156,7 +1156,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 81,
       "type": "list_item",
-      "text": "Use the thermometer to check the freezer, too. It should read 0 °F (-17.8 °C) or below. If not, adjust the dial.",
+      "text": "Use the thermometer to check the freezer, too. It should read 0 \u00b0F (-17.8 \u00b0C) or below. If not, adjust the dial.",
       "heading_path": [
         "Storing Food",
         "Your Refrigerator and Freezer: Take Their Temperatures!"
@@ -1185,7 +1185,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 83,
       "type": "paragraph",
-      "text": "For long-term storage of many perishable foods, rely on the freezer. Food stored constantly at 0 °F (-17.8 °C) or below will always be safe. Only the quality suffers with lengthy freezer storage.",
+      "text": "For long-term storage of many perishable foods, rely on the freezer. Food stored constantly at 0 \u00b0F (-17.8 \u00b0C) or below will always be safe. Only the quality suffers with lengthy freezer storage.",
       "heading_path": [
         "Storing Food",
         "Your Refrigerator and Freezer: Take Their Temperatures!",
@@ -1215,7 +1215,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 85,
       "type": "list_item",
-      "text": "Preventing Freezer Burn: Freezer burn — white, dried-out patches on the surface of meat — won’t make you sick, but it does make meat tough and tasteless. Here’s how to avoid it:",
+      "text": "Preventing Freezer Burn: Freezer burn \u2014 white, dried-out patches on the surface of meat \u2014 won\u2019t make you sick, but it does make meat tough and tasteless. Here\u2019s how to avoid it:",
       "heading_path": [
         "Storing Food",
         "Your Refrigerator and Freezer: Take Their Temperatures!",
@@ -1260,7 +1260,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 88,
       "type": "list_item",
-      "text": "Place new items toward the back of the freezer; that way, older items are easier to access and you’ll use them first.",
+      "text": "Place new items toward the back of the freezer; that way, older items are easier to access and you\u2019ll use them first.",
       "heading_path": [
         "Storing Food",
         "Your Refrigerator and Freezer: Take Their Temperatures!",
@@ -1320,7 +1320,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 92,
       "type": "table",
-      "text": "Cold Storage Chart\n| Product | Refrigerator (40 °F/4.4 °C) | Freezer (0 °F/-17.8 °C) |\n| --- | --- | --- |\n| Salads – Egg, chicken, ham, tuna & macaroni salads | 3 to 5 days | Does not freeze well |\n| Hot dogs – Opened package | 1 week | 1 to 2 months |\n| Hot dogs – Unopened package | 2 weeks | 1 to 2 months |\n| Luncheon meat – Opened package or deli sliced | 3 to 5 days | 1 to 2 months |\n| Luncheon meat – Unopened package | 2 weeks | 1 to 2 months |\n| Bacon & Sausage – Bacon | 7 days | 1 month |\n| Bacon & Sausage – Sausage, raw — from chicken, turkey, pork, beef | 1 to 2 days | 1 to 2 months |\n| Hamburger & Other Ground Meats – Hamburger, ground beef, turkey, veal, pork, lamb, & mixtures of them | 1 to 2 days | 3 to 4 months |\n| Fresh Beef, Veal, Lamb & Pork – Steaks | 3 to 5 days | 6 to 12 months |\n| Fresh Beef, Veal, Lamb & Pork – Chops | 3 to 5 days | 4 to 6 months |\n| Fresh Beef, Veal, Lamb & Pork – Roasts | 3 to 5 days | 4 to 12 months |\n| Fresh Poultry – Chicken or turkey, whole | 1 to 2 days | 1 year |\n| Fresh Poultry – Chicken or turkey, pieces | 1 to 2 days | 9 months |\n| Soups & Stews – Vegetable or meat added | 3 to 4 days | 2 to 3 months |\n| Leftovers – Cooked meat or poultry | 3 to 4 days | 2 to 6 months |\n| Leftovers – Chicken nuggets or patties | 3 to 4 days | 1 to 3 months |\n| Leftovers – Pizza | 3 to 4 days | 1 to 2 months |",
+      "text": "Cold Storage Chart\n| Product | Refrigerator (40 \u00b0F/4.4 \u00b0C) | Freezer (0 \u00b0F/-17.8 \u00b0C) |\n| --- | --- | --- |\n| Salads \u2013 Egg, chicken, ham, tuna & macaroni salads | 3 to 5 days | Does not freeze well |\n| Hot dogs \u2013 Opened package | 1 week | 1 to 2 months |\n| Hot dogs \u2013 Unopened package | 2 weeks | 1 to 2 months |\n| Luncheon meat \u2013 Opened package or deli sliced | 3 to 5 days | 1 to 2 months |\n| Luncheon meat \u2013 Unopened package | 2 weeks | 1 to 2 months |\n| Bacon & Sausage \u2013 Bacon | 7 days | 1 month |\n| Bacon & Sausage \u2013 Sausage, raw \u2014 from chicken, turkey, pork, beef | 1 to 2 days | 1 to 2 months |\n| Hamburger & Other Ground Meats \u2013 Hamburger, ground beef, turkey, veal, pork, lamb, & mixtures of them | 1 to 2 days | 3 to 4 months |\n| Fresh Beef, Veal, Lamb & Pork \u2013 Steaks | 3 to 5 days | 6 to 12 months |\n| Fresh Beef, Veal, Lamb & Pork \u2013 Chops | 3 to 5 days | 4 to 6 months |\n| Fresh Beef, Veal, Lamb & Pork \u2013 Roasts | 3 to 5 days | 4 to 12 months |\n| Fresh Poultry \u2013 Chicken or turkey, whole | 1 to 2 days | 1 year |\n| Fresh Poultry \u2013 Chicken or turkey, pieces | 1 to 2 days | 9 months |\n| Soups & Stews \u2013 Vegetable or meat added | 3 to 4 days | 2 to 3 months |\n| Leftovers \u2013 Cooked meat or poultry | 3 to 4 days | 2 to 6 months |\n| Leftovers \u2013 Chicken nuggets or patties | 3 to 4 days | 1 to 3 months |\n| Leftovers \u2013 Pizza | 3 to 4 days | 1 to 2 months |",
       "heading_path": [
         "Storing Food",
         "Your Refrigerator and Freezer: Take Their Temperatures!",
@@ -1330,92 +1330,92 @@
       "level": null,
       "header": [
         "Product",
-        "Refrigerator (40 °F/4.4 °C)",
-        "Freezer (0 °F/-17.8 °C)"
+        "Refrigerator (40 \u00b0F/4.4 \u00b0C)",
+        "Freezer (0 \u00b0F/-17.8 \u00b0C)"
       ],
       "rows": [
         [
-          "Salads – Egg, chicken, ham, tuna & macaroni salads",
+          "Salads \u2013 Egg, chicken, ham, tuna & macaroni salads",
           "3 to 5 days",
           "Does not freeze well"
         ],
         [
-          "Hot dogs – Opened package",
+          "Hot dogs \u2013 Opened package",
           "1 week",
           "1 to 2 months"
         ],
         [
-          "Hot dogs – Unopened package",
+          "Hot dogs \u2013 Unopened package",
           "2 weeks",
           "1 to 2 months"
         ],
         [
-          "Luncheon meat – Opened package or deli sliced",
+          "Luncheon meat \u2013 Opened package or deli sliced",
           "3 to 5 days",
           "1 to 2 months"
         ],
         [
-          "Luncheon meat – Unopened package",
+          "Luncheon meat \u2013 Unopened package",
           "2 weeks",
           "1 to 2 months"
         ],
         [
-          "Bacon & Sausage – Bacon",
+          "Bacon & Sausage \u2013 Bacon",
           "7 days",
           "1 month"
         ],
         [
-          "Bacon & Sausage – Sausage, raw — from chicken, turkey, pork, beef",
+          "Bacon & Sausage \u2013 Sausage, raw \u2014 from chicken, turkey, pork, beef",
           "1 to 2 days",
           "1 to 2 months"
         ],
         [
-          "Hamburger & Other Ground Meats – Hamburger, ground beef, turkey, veal, pork, lamb, & mixtures of them",
+          "Hamburger & Other Ground Meats \u2013 Hamburger, ground beef, turkey, veal, pork, lamb, & mixtures of them",
           "1 to 2 days",
           "3 to 4 months"
         ],
         [
-          "Fresh Beef, Veal, Lamb & Pork – Steaks",
+          "Fresh Beef, Veal, Lamb & Pork \u2013 Steaks",
           "3 to 5 days",
           "6 to 12 months"
         ],
         [
-          "Fresh Beef, Veal, Lamb & Pork – Chops",
+          "Fresh Beef, Veal, Lamb & Pork \u2013 Chops",
           "3 to 5 days",
           "4 to 6 months"
         ],
         [
-          "Fresh Beef, Veal, Lamb & Pork – Roasts",
+          "Fresh Beef, Veal, Lamb & Pork \u2013 Roasts",
           "3 to 5 days",
           "4 to 12 months"
         ],
         [
-          "Fresh Poultry – Chicken or turkey, whole",
+          "Fresh Poultry \u2013 Chicken or turkey, whole",
           "1 to 2 days",
           "1 year"
         ],
         [
-          "Fresh Poultry – Chicken or turkey, pieces",
+          "Fresh Poultry \u2013 Chicken or turkey, pieces",
           "1 to 2 days",
           "9 months"
         ],
         [
-          "Soups & Stews – Vegetable or meat added",
+          "Soups & Stews \u2013 Vegetable or meat added",
           "3 to 4 days",
           "2 to 3 months"
         ],
         [
-          "Leftovers – Cooked meat or poultry",
+          "Leftovers \u2013 Cooked meat or poultry",
           "3 to 4 days",
           "2 to 6 months"
         ],
         [
-          "Leftovers – Chicken nuggets or patties",
+          "Leftovers \u2013 Chicken nuggets or patties",
           "3 to 4 days",
           "1 to 3 months"
         ],
         [
-          "Leftovers – Pizza",
+          "Leftovers \u2013 Pizza",
           "3 to 4 days",
           "1 to 2 months"
         ]
@@ -1440,7 +1440,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 94,
       "type": "paragraph",
-      "text": "Food that doesn’t need to be refrigerated or frozen must still be stored with care. Follow these basic guidelines and you’ll have food safety in the bag (or can)!",
+      "text": "Food that doesn\u2019t need to be refrigerated or frozen must still be stored with care. Follow these basic guidelines and you\u2019ll have food safety in the bag (or can)!",
       "heading_path": [
         "Storing Food",
         "Your Refrigerator and Freezer: Take Their Temperatures!",
@@ -1485,7 +1485,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 97,
       "type": "list_item",
-      "text": "Care and Cautions for Cans: Discard cans that are dented, leaking, bulging, or rusted. Can linings might discolor or corrode when metal reacts with high-acid food, such as tomatoes or pineapple, but as long as the outside of the can is in good shape, the contents should be safe to eat. Keep in mind, though, that the taste, texture, and nutritional value of the food can diminish over time. (Also see Floods on page 41.) Botulism Alert The greatest danger in canned goods is a toxin produced by the Clostridium botulinum bacteria. Never use food from containers that show possible “botulism” warnings:",
+      "text": "Care and Cautions for Cans: Discard cans that are dented, leaking, bulging, or rusted. Can linings might discolor or corrode when metal reacts with high-acid food, such as tomatoes or pineapple, but as long as the outside of the can is in good shape, the contents should be safe to eat. Keep in mind, though, that the taste, texture, and nutritional value of the food can diminish over time. (Also see Floods on page 41.) Botulism Alert The greatest danger in canned goods is a toxin produced by the Clostridium botulinum bacteria. Never use food from containers that show possible \u201cbotulism\u201d warnings:",
       "heading_path": [
         "Storing Food",
         "Your Refrigerator and Freezer: Take Their Temperatures!",
@@ -1545,7 +1545,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 101,
       "type": "list_item",
-      "text": "Any container that spurts liquid or foam when opened. Play it safe — and never taste it. Even a tiny amount of botulinum toxin can be deadly. Double bag the cans and jars in plastic bags that are tightly closed. Then place in a trash receptacle for non-recyclable trash outside of the home. Keep out of reach of humans and pets.",
+      "text": "Any container that spurts liquid or foam when opened. Play it safe \u2014 and never taste it. Even a tiny amount of botulinum toxin can be deadly. Double bag the cans and jars in plastic bags that are tightly closed. Then place in a trash receptacle for non-recyclable trash outside of the home. Keep out of reach of humans and pets.",
       "heading_path": [
         "Storing Food",
         "Your Refrigerator and Freezer: Take Their Temperatures!",
@@ -1574,7 +1574,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 103,
       "type": "paragraph",
-      "text": "If you’re not sure how old a food is, or fear that it may not have been properly refrigerated or has been left out too long, don’t taste it! Instead, remember the “golden rule” of food storage:",
+      "text": "If you\u2019re not sure how old a food is, or fear that it may not have been properly refrigerated or has been left out too long, don\u2019t taste it! Instead, remember the \u201cgolden rule\u201d of food storage:",
       "heading_path": [
         "Storing Food",
         "Common Sense Caution"
@@ -1671,7 +1671,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 110,
       "type": "paragraph",
-      "text": "Harmful bacteria can spread throughout the kitchen and get onto cutting boards, utensils, and countertops causing “cross-contamination.” (See inset box on page 8.) Keep raw meat, poultry, fish, and their juices away from other food — especially ready-to-eat food.",
+      "text": "Harmful bacteria can spread throughout the kitchen and get onto cutting boards, utensils, and countertops causing \u201ccross-contamination.\u201d (See inset box on page 8.) Keep raw meat, poultry, fish, and their juices away from other food \u2014 especially ready-to-eat food.",
       "heading_path": [
         "Food Preparation",
         "Surfaces and Utensils"
@@ -1727,7 +1727,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 114,
       "type": "paragraph",
-      "text": "Proper cutting board care is a key component of preventing cross-contamination. Here’s how:",
+      "text": "Proper cutting board care is a key component of preventing cross-contamination. Here\u2019s how:",
       "heading_path": [
         "Food Preparation",
         "Cutting Boards"
@@ -1839,7 +1839,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 122,
       "type": "paragraph",
-      "text": "Food safety doesn’t end with buying, transporting, and storing food safely. In fact, once you have food home, the safety of your food is, literally, in your hands. Follow these basic guidelines — and remember, safe food preparation always begins with “clean.”",
+      "text": "Food safety doesn\u2019t end with buying, transporting, and storing food safely. In fact, once you have food home, the safety of your food is, literally, in your hands. Follow these basic guidelines \u2014 and remember, safe food preparation always begins with \u201cclean.\u201d",
       "heading_path": [
         "Food Preparation",
         "Kitchen Cleanup"
@@ -1867,7 +1867,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 124,
       "type": "paragraph",
-      "text": "Fresh fruits and veggies are nutritional mainstays. Here’s how to make sure they’re safe.",
+      "text": "Fresh fruits and veggies are nutritional mainstays. Here\u2019s how to make sure they\u2019re safe.",
       "heading_path": [
         "Food Preparation",
         "Preparation Tips for Produce"
@@ -1895,7 +1895,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 126,
       "type": "list_item",
-      "text": "Don’t wash fruits and vegetables with detergent or soap. These products are not approved for use on food. You could ingest residues from soap or detergent absorbed by the produce.",
+      "text": "Don\u2019t wash fruits and vegetables with detergent or soap. These products are not approved for use on food. You could ingest residues from soap or detergent absorbed by the produce.",
       "heading_path": [
         "Food Preparation",
         "Preparation Tips for Produce"
@@ -1937,7 +1937,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 129,
       "type": "paragraph",
-      "text": "Going from “frozen to thawed” needs to be accomplished safely! There are three ways to thaw — and because bacteria can multiply rapidly at room temperature, none of these methods involve the kitchen counter.",
+      "text": "Going from \u201cfrozen to thawed\u201d needs to be accomplished safely! There are three ways to thaw \u2014 and because bacteria can multiply rapidly at room temperature, none of these methods involve the kitchen counter.",
       "heading_path": [
         "Food Preparation",
         "Thawing"
@@ -1979,7 +1979,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 132,
       "type": "paragraph",
-      "text": "In the Microwave: Follow instructions from the oven’s manufacturer or owner’s manual. Cook immediately after thawing in the microwave. NOTE: Frozen meat and poultry can be cooked without thawing. Just add 50% to the cooking time.",
+      "text": "In the Microwave: Follow instructions from the oven\u2019s manufacturer or owner\u2019s manual. Cook immediately after thawing in the microwave. NOTE: Frozen meat and poultry can be cooked without thawing. Just add 50% to the cooking time.",
       "heading_path": [
         "Food Preparation",
         "Thawing"
@@ -2048,7 +2048,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 137,
       "type": "paragraph",
-      "text": "Cooking food to a safe temperature is the best way to ensure safety. That’s because when food reaches a safe minimum internal temperature, bacteria that may be lurking are destroyed. Sound complicated? It’s not. It’s as easy as using a food thermometer.",
+      "text": "Cooking food to a safe temperature is the best way to ensure safety. That\u2019s because when food reaches a safe minimum internal temperature, bacteria that may be lurking are destroyed. Sound complicated? It\u2019s not. It\u2019s as easy as using a food thermometer.",
       "heading_path": [
         "Cooking Food Safely"
       ],
@@ -2089,7 +2089,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 140,
       "type": "paragraph",
-      "text": "The only accurate way to know if food is cooked safely is to measure the internal temperature of cooked meat, poultry, and egg products with a food thermometer. You can’t tell by looking",
+      "text": "The only accurate way to know if food is cooked safely is to measure the internal temperature of cooked meat, poultry, and egg products with a food thermometer. You can\u2019t tell by looking",
       "heading_path": [
         "Cooking Food Safely",
         "About Food Thermometers"
@@ -2145,7 +2145,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 144,
       "type": "list_item",
-      "text": "Make sure it’s not touching bone, fat, or gristle.",
+      "text": "Make sure it\u2019s not touching bone, fat, or gristle.",
       "heading_path": [
         "Cooking Food Safely",
         "How to Use a Food Thermometer"
@@ -2229,7 +2229,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 150,
       "type": "list_item",
-      "text": "Don’t taste food while it’s cooking. To ensure safety, food should not be tasted until it reaches a safe minimum internal temperature.",
+      "text": "Don\u2019t taste food while it\u2019s cooking. To ensure safety, food should not be tasted until it reaches a safe minimum internal temperature.",
       "heading_path": [
         "Cooking Food Safely",
         "How to Use a Food Thermometer"
@@ -2285,7 +2285,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 154,
       "type": "list_item",
-      "text": "Place 2 to 21/2” deep in thickest part of food",
+      "text": "Place 2 to 21/2\u201d deep in thickest part of food",
       "heading_path": [
         "Cooking Food Safely",
         "How to Use a Food Thermometer"
@@ -2341,7 +2341,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 158,
       "type": "list_item",
-      "text": "Place at least 1/2” deep",
+      "text": "Place at least 1/2\u201d deep",
       "heading_path": [
         "Cooking Food Safely",
         "How to Use a Food Thermometer"
@@ -2397,7 +2397,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 162,
       "type": "list_item",
-      "text": "Place 2 to 21/2” deep in thickest part of food",
+      "text": "Place 2 to 21/2\u201d deep in thickest part of food",
       "heading_path": [
         "Cooking Food Safely",
         "How to Use a Food Thermometer"
@@ -2439,7 +2439,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 165,
       "type": "list_item",
-      "text": "Place approximately 1/2” deep (follow manufacturer’s directions)",
+      "text": "Place approximately 1/2\u201d deep (follow manufacturer\u2019s directions)",
       "heading_path": [
         "Cooking Food Safely",
         "How to Use a Food Thermometer"
@@ -2523,7 +2523,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 171,
       "type": "paragraph",
-      "text": "Webster’s Dictionary defines “doneness” as the condition of being cooked to the desired degree. This includes subjective qualities, like a food’s appearance, texture, and optimum flavor.",
+      "text": "Webster\u2019s Dictionary defines \u201cdoneness\u201d as the condition of being cooked to the desired degree. This includes subjective qualities, like a food\u2019s appearance, texture, and optimum flavor.",
       "heading_path": [
         "Cooking Food Safely",
         "Done Versus Safe: What You Need to Know"
@@ -2537,7 +2537,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 172,
       "type": "paragraph",
-      "text": "But whether a food is cooked to a “safe” degree is another story. The standard that ensures “safety” is not subjective at all. It’s a simple matter of cooking food until the internal temperature reaches the level that ensures destruction of any potential pathogens, as measured with a food thermometer.",
+      "text": "But whether a food is cooked to a \u201csafe\u201d degree is another story. The standard that ensures \u201csafety\u201d is not subjective at all. It\u2019s a simple matter of cooking food until the internal temperature reaches the level that ensures destruction of any potential pathogens, as measured with a food thermometer.",
       "heading_path": [
         "Cooking Food Safely",
         "Done Versus Safe: What You Need to Know"
@@ -2551,7 +2551,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 173,
       "type": "paragraph",
-      "text": "Visual signs of doneness should only be taken into consideration after the food has reached a safe temperature. And if you’re thinking about leaving the food thermometer in the drawer, consider this: According to USDA research, 1 out of every 4 hamburgers turns brown before it reaches a safe internal temperature!",
+      "text": "Visual signs of doneness should only be taken into consideration after the food has reached a safe temperature. And if you\u2019re thinking about leaving the food thermometer in the drawer, consider this: According to USDA research, 1 out of every 4 hamburgers turns brown before it reaches a safe internal temperature!",
       "heading_path": [
         "Cooking Food Safely",
         "Done Versus Safe: What You Need to Know"
@@ -2595,7 +2595,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 176,
       "type": "paragraph",
-      "text": "Avoid the “Danger Zone”— Keep Hot Food Hot After Cooking",
+      "text": "Avoid the \u201cDanger Zone\u201d\u2014 Keep Hot Food Hot After Cooking",
       "heading_path": [
         "Cooking Food Safely",
         "Done Versus Safe: What You Need to Know",
@@ -2625,7 +2625,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 178,
       "type": "table",
-      "text": "| Food | °F (°C) |\n| --- | --- |\n| Beef, Pork, Veal, and Lamb (roast, steaks, and chops) | 145 °F (62.8 °C) with a 3-minute “rest time” after removal from the heat source |\n| Ground Meats | 160 °F (71.1 °C) |\n| Poultry (whole, parts, or ground) | 165 °F (73.9 °C) |\n| Eggs and egg dishes | 160 °F (71.1 °C) Cook eggs until both the yolk and the white are firm. Scrambled eggs should not be runny. |\n| Leftovers | 165 °F (73.9 °C) |\n| Fin Fish | 145 °F (62.8 °C) |",
+      "text": "| Food | \u00b0F (\u00b0C) |\n| --- | --- |\n| Beef, Pork, Veal, and Lamb (roast, steaks, and chops) | 145 \u00b0F (62.8 \u00b0C) with a 3-minute \u201crest time\u201d after removal from the heat source |\n| Ground Meats | 160 \u00b0F (71.1 \u00b0C) |\n| Poultry (whole, parts, or ground) | 165 \u00b0F (73.9 \u00b0C) |\n| Eggs and egg dishes | 160 \u00b0F (71.1 \u00b0C) Cook eggs until both the yolk and the white are firm. Scrambled eggs should not be runny. |\n| Leftovers | 165 \u00b0F (73.9 \u00b0C) |\n| Fin Fish | 145 \u00b0F (62.8 \u00b0C) |",
       "heading_path": [
         "Cooking Food Safely",
         "Done Versus Safe: What You Need to Know",
@@ -2635,32 +2635,32 @@
       "level": null,
       "header": [
         "Food",
-        "°F (°C)"
+        "\u00b0F (\u00b0C)"
       ],
       "rows": [
         [
           "Beef, Pork, Veal, and Lamb (roast, steaks, and chops)",
-          "145 °F (62.8 °C) with a 3-minute “rest time” after removal from the heat source"
+          "145 \u00b0F (62.8 \u00b0C) with a 3-minute \u201crest time\u201d after removal from the heat source"
         ],
         [
           "Ground Meats",
-          "160 °F (71.1 °C)"
+          "160 \u00b0F (71.1 \u00b0C)"
         ],
         [
           "Poultry (whole, parts, or ground)",
-          "165 °F (73.9 °C)"
+          "165 \u00b0F (73.9 \u00b0C)"
         ],
         [
           "Eggs and egg dishes",
-          "160 °F (71.1 °C) Cook eggs until both the yolk and the white are firm. Scrambled eggs should not be runny."
+          "160 \u00b0F (71.1 \u00b0C) Cook eggs until both the yolk and the white are firm. Scrambled eggs should not be runny."
         ],
         [
           "Leftovers",
-          "165 °F (73.9 °C)"
+          "165 \u00b0F (73.9 \u00b0C)"
         ],
         [
           "Fin Fish",
-          "145 °F (62.8 °C)"
+          "145 \u00b0F (62.8 \u00b0C)"
         ]
       ]
     },
@@ -2668,7 +2668,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 179,
       "type": "paragraph",
-      "text": "greater when food cools because the drop in temperature allows bacteria to thrive. There are two ways to keep cooked food from entering the “Danger Zone”:",
+      "text": "greater when food cools because the drop in temperature allows bacteria to thrive. There are two ways to keep cooked food from entering the \u201cDanger Zone\u201d:",
       "heading_path": [
         "Cooking Food Safely",
         "Done Versus Safe: What You Need to Know",
@@ -2683,7 +2683,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 180,
       "type": "list_item",
-      "text": "Don’t Interrupt Cooking: Interrupted cooking allows partially cooked food to cool down . . . and may encourage bacterial growth before cooking is complete. To avoid this, make sure to cook food all the way through the first time.",
+      "text": "Don\u2019t Interrupt Cooking: Interrupted cooking allows partially cooked food to cool down . . . and may encourage bacterial growth before cooking is complete. To avoid this, make sure to cook food all the way through the first time.",
       "heading_path": [
         "Cooking Food Safely",
         "Done Versus Safe: What You Need to Know",
@@ -2698,7 +2698,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 181,
       "type": "list_item",
-      "text": "Hold Hot Food at 140 ºF (60 °C): If you aren’t going to serve food right away, it’s important to keep it at 140 ºF (60 °C) or above. Once food is safely cooked on the stovetop, in the oven, or in a microwave oven, keep food hot by using a heat source. Place food in chafing dishes, on warming trays, or in slow cookers. Check the temperature frequently to make sure food stays at or above 140 ºF (60 °C).",
+      "text": "Hold Hot Food at 140 \u00baF (60 \u00b0C): If you aren\u2019t going to serve food right away, it\u2019s important to keep it at 140 \u00baF (60 \u00b0C) or above. Once food is safely cooked on the stovetop, in the oven, or in a microwave oven, keep food hot by using a heat source. Place food in chafing dishes, on warming trays, or in slow cookers. Check the temperature frequently to make sure food stays at or above 140 \u00baF (60 \u00b0C).",
       "heading_path": [
         "Cooking Food Safely",
         "Done Versus Safe: What You Need to Know",
@@ -2713,7 +2713,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 182,
       "type": "paragraph",
-      "text": "(Also see Focus On: The “Danger Zone” on page 9 and Special Guidelines for Certain Food beginning on page 20.)",
+      "text": "(Also see Focus On: The \u201cDanger Zone\u201d on page 9 and Special Guidelines for Certain Food beginning on page 20.)",
       "heading_path": [
         "Cooking Food Safely",
         "Done Versus Safe: What You Need to Know",
@@ -2756,7 +2756,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 185,
       "type": "paragraph",
-      "text": "In addition to the basic cooking guidelines (see Cooking Food Safely beginning on page 17) — there are some food-specific tips that can help you take special care with your culinary favorites.",
+      "text": "In addition to the basic cooking guidelines (see Cooking Food Safely beginning on page 17) \u2014 there are some food-specific tips that can help you take special care with your culinary favorites.",
       "heading_path": [
         "Special Guidelines for Certain Food"
       ],
@@ -2839,7 +2839,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 191,
       "type": "paragraph",
-      "text": "Even though it is cured—smoked ham, for example, can still contain foodborne bacte ria. Follow these tips to keep it safe:",
+      "text": "Even though it is cured\u2014smoked ham, for example, can still contain foodborne bacte ria. Follow these tips to keep it safe:",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Ham"
@@ -2883,7 +2883,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 194,
       "type": "list_item",
-      "text": "Store all perishable ham in the refrigerator at 40 °F (4.4 °C) or below. Country ham is shelf stable.",
+      "text": "Store all perishable ham in the refrigerator at 40 \u00b0F (4.4 \u00b0C) or below. Country ham is shelf stable.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Ham",
@@ -2928,7 +2928,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 197,
       "type": "list_item",
-      "text": "Observe “Use-By” dates on hams sealed at the plant; use store-wrapped cooked ham portions within 3 to 5 days.",
+      "text": "Observe \u201cUse-By\u201d dates on hams sealed at the plant; use store-wrapped cooked ham portions within 3 to 5 days.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Ham",
@@ -2988,7 +2988,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 201,
       "type": "list_item",
-      "text": "“Fully cooked” ham can be served “as is” — hot or cold. If reheating, cook to 140 °F (60 °C).",
+      "text": "\u201cFully cooked\u201d ham can be served \u201cas is\u201d \u2014 hot or cold. If reheating, cook to 140 \u00b0F (60 \u00b0C).",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Ham",
@@ -3003,7 +3003,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 202,
       "type": "list_item",
-      "text": "Fresh ham (labeled “Cook before eating”) and other fresh pork must be cooked to 145 °F (62.8 °C) with a 3-minute rest time.",
+      "text": "Fresh ham (labeled \u201cCook before eating\u201d) and other fresh pork must be cooked to 145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Ham",
@@ -3048,7 +3048,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 205,
       "type": "paragraph",
-      "text": "To roast, meat is placed on a rack in a shallow, uncovered pan and is cooked by the indirect, dry heat of an oven. To keep the meat tender and minimize shrinkage due to the evaporation of moisture, an oven temperature of 325 °F (162.8 °C) should be used.",
+      "text": "To roast, meat is placed on a rack in a shallow, uncovered pan and is cooked by the indirect, dry heat of an oven. To keep the meat tender and minimize shrinkage due to the evaporation of moisture, an oven temperature of 325 \u00b0F (162.8 \u00b0C) should be used.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Ham",
@@ -3063,7 +3063,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 206,
       "type": "list_item",
-      "text": "Boned and rolled meat require more cooking time per pound than bone-in cuts because it takes longer for the heat to penetrate through the solid meat. Rolled, tenderized, or scored cuts of meat should be cooked to 145 °F (62.8 °C) with a 3-minute rest time.",
+      "text": "Boned and rolled meat require more cooking time per pound than bone-in cuts because it takes longer for the heat to penetrate through the solid meat. Rolled, tenderized, or scored cuts of meat should be cooked to 145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Ham",
@@ -3078,7 +3078,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 207,
       "type": "list_item",
-      "text": "USDA does not recommend cooking meat and poultry at oven temperatures lower than 325 °F (162.8 °C). This can cause food to remain in the “Danger Zone” for too long—temperatures between 40 to 140 °F (4.4 to 60 °C)—allowing bacteria to multiply rapidly.",
+      "text": "USDA does not recommend cooking meat and poultry at oven temperatures lower than 325 \u00b0F (162.8 \u00b0C). This can cause food to remain in the \u201cDanger Zone\u201d for too long\u2014temperatures between 40 to 140 \u00b0F (4.4 to 60 \u00b0C)\u2014allowing bacteria to multiply rapidly.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Ham",
@@ -3122,7 +3122,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 210,
       "type": "paragraph",
-      "text": "Sit-down dinners and special occasions aren’t only about turkey! There are many other types of roasts that become the stars of the dinner table. Use these guidelines to “make the most of your roast” . . . safely.",
+      "text": "Sit-down dinners and special occasions aren\u2019t only about turkey! There are many other types of roasts that become the stars of the dinner table. Use these guidelines to \u201cmake the most of your roast\u201d . . . safely.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Roasts"
@@ -3151,7 +3151,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 212,
       "type": "paragraph",
-      "text": "Fat content (or a lack of it) affects the cooking times of a variety of meats — so keep a close eye on your roast to avoid overcooking, and use a food thermometer. And remember",
+      "text": "Fat content (or a lack of it) affects the cooking times of a variety of meats \u2014 so keep a close eye on your roast to avoid overcooking, and use a food thermometer. And remember",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Roasts",
@@ -3181,7 +3181,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 214,
       "type": "table",
-      "text": "Roasting Chart\n| Meat | Oven Temperature °F (°C) | Timing (Approximate) | Safe Minimum Internal Temperature °F (°C) |\n| --- | --- | --- | --- |\n| BEEF, FRESH – Rib roast, bone in 4 to 6 pounds | 325 °F (163 °C) | 23 to 25 minutes per lb. | 145 °F (62.8 °C) with a 3-minute rest time |\n| BEEF, FRESH – Rib roast, boneless, rolled 4 to 6 pounds | 325 °F (163 °C) | 28 to 33 minutes per lb. | 145 °F (62.8 °C) with a 3-minute rest time |\n| BEEF, FRESH – Round or rump roast 2 ½ to 4 pounds | 325 °F (163 °C) | 30 to 35 minutes per lb. | 145 °F (62.8 °C) with a 3-minute rest time |\n| BEEF, FRESH – Tenderloin, whole 4 to 6 pounds | 425 °F (218 °C) | 45 to 60 minutes per lb. | 145 °F (62.8 °C) with a 3-minute rest time |\n| LAMB, FRESH – Leg, bone in 5 to 7 pounds 7 to 9 pounds | 325 °F (163 °C) 325 °F (163 °C) | 20 to 25 minutes per lb. | 145 °F (62.8 °C) with a 3-minute rest time |\n| LAMB, FRESH – Leg, boneless, rolled 4 to 7 pounds | 325 °F (163 °C) | 25 to 30 minutes per lb. | 145 °F (62.8 °C) with a 3-minute rest time |\n| VEAL, FRESH – Shoulder roast, boneless 3 to 5 pounds | 325 °F (163 °C) | 35 to 40 minutes per lb. | 145 °F (62.8 °C) with a 3-minute rest time |\n| VEAL, FRESH – Leg rump or round roast, boneless, 3 to 5 pounds | 325 °F (163 °C) | 35 to 40 minutes per lb. | 145 °F (62.8 °C) with a 3-minute rest time |",
+      "text": "Roasting Chart\n| Meat | Oven Temperature \u00b0F (\u00b0C) | Timing (Approximate) | Safe Minimum Internal Temperature \u00b0F (\u00b0C) |\n| --- | --- | --- | --- |\n| BEEF, FRESH \u2013 Rib roast, bone in 4 to 6 pounds | 325 \u00b0F (163 \u00b0C) | 23 to 25 minutes per lb. | 145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time |\n| BEEF, FRESH \u2013 Rib roast, boneless, rolled 4 to 6 pounds | 325 \u00b0F (163 \u00b0C) | 28 to 33 minutes per lb. | 145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time |\n| BEEF, FRESH \u2013 Round or rump roast 2 \u00bd to 4 pounds | 325 \u00b0F (163 \u00b0C) | 30 to 35 minutes per lb. | 145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time |\n| BEEF, FRESH \u2013 Tenderloin, whole 4 to 6 pounds | 425 \u00b0F (218 \u00b0C) | 45 to 60 minutes per lb. | 145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time |\n| LAMB, FRESH \u2013 Leg, bone in 5 to 7 pounds 7 to 9 pounds | 325 \u00b0F (163 \u00b0C) 325 \u00b0F (163 \u00b0C) | 20 to 25 minutes per lb. | 145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time |\n| LAMB, FRESH \u2013 Leg, boneless, rolled 4 to 7 pounds | 325 \u00b0F (163 \u00b0C) | 25 to 30 minutes per lb. | 145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time |\n| VEAL, FRESH \u2013 Shoulder roast, boneless 3 to 5 pounds | 325 \u00b0F (163 \u00b0C) | 35 to 40 minutes per lb. | 145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time |\n| VEAL, FRESH \u2013 Leg rump or round roast, boneless, 3 to 5 pounds | 325 \u00b0F (163 \u00b0C) | 35 to 40 minutes per lb. | 145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time |",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Roasts",
@@ -3191,58 +3191,58 @@
       "level": null,
       "header": [
         "Meat",
-        "Oven Temperature °F (°C)",
+        "Oven Temperature \u00b0F (\u00b0C)",
         "Timing (Approximate)",
-        "Safe Minimum Internal Temperature °F (°C)"
+        "Safe Minimum Internal Temperature \u00b0F (\u00b0C)"
       ],
       "rows": [
         [
-          "BEEF, FRESH – Rib roast, bone in 4 to 6 pounds",
-          "325 °F (163 °C)",
+          "BEEF, FRESH \u2013 Rib roast, bone in 4 to 6 pounds",
+          "325 \u00b0F (163 \u00b0C)",
           "23 to 25 minutes per lb.",
-          "145 °F (62.8 °C) with a 3-minute rest time"
+          "145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time"
         ],
         [
-          "BEEF, FRESH – Rib roast, boneless, rolled 4 to 6 pounds",
-          "325 °F (163 °C)",
+          "BEEF, FRESH \u2013 Rib roast, boneless, rolled 4 to 6 pounds",
+          "325 \u00b0F (163 \u00b0C)",
           "28 to 33 minutes per lb.",
-          "145 °F (62.8 °C) with a 3-minute rest time"
+          "145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time"
         ],
         [
-          "BEEF, FRESH – Round or rump roast 2 ½ to 4 pounds",
-          "325 °F (163 °C)",
+          "BEEF, FRESH \u2013 Round or rump roast 2 \u00bd to 4 pounds",
+          "325 \u00b0F (163 \u00b0C)",
           "30 to 35 minutes per lb.",
-          "145 °F (62.8 °C) with a 3-minute rest time"
+          "145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time"
         ],
         [
-          "BEEF, FRESH – Tenderloin, whole 4 to 6 pounds",
-          "425 °F (218 °C)",
+          "BEEF, FRESH \u2013 Tenderloin, whole 4 to 6 pounds",
+          "425 \u00b0F (218 \u00b0C)",
           "45 to 60 minutes per lb.",
-          "145 °F (62.8 °C) with a 3-minute rest time"
+          "145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time"
         ],
         [
-          "LAMB, FRESH – Leg, bone in 5 to 7 pounds 7 to 9 pounds",
-          "325 °F (163 °C) 325 °F (163 °C)",
+          "LAMB, FRESH \u2013 Leg, bone in 5 to 7 pounds 7 to 9 pounds",
+          "325 \u00b0F (163 \u00b0C) 325 \u00b0F (163 \u00b0C)",
           "20 to 25 minutes per lb.",
-          "145 °F (62.8 °C) with a 3-minute rest time"
+          "145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time"
         ],
         [
-          "LAMB, FRESH – Leg, boneless, rolled 4 to 7 pounds",
-          "325 °F (163 °C)",
+          "LAMB, FRESH \u2013 Leg, boneless, rolled 4 to 7 pounds",
+          "325 \u00b0F (163 \u00b0C)",
           "25 to 30 minutes per lb.",
-          "145 °F (62.8 °C) with a 3-minute rest time"
+          "145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time"
         ],
         [
-          "VEAL, FRESH – Shoulder roast, boneless 3 to 5 pounds",
-          "325 °F (163 °C)",
+          "VEAL, FRESH \u2013 Shoulder roast, boneless 3 to 5 pounds",
+          "325 \u00b0F (163 \u00b0C)",
           "35 to 40 minutes per lb.",
-          "145 °F (62.8 °C) with a 3-minute rest time"
+          "145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time"
         ],
         [
-          "VEAL, FRESH – Leg rump or round roast, boneless, 3 to 5 pounds",
-          "325 °F (163 °C)",
+          "VEAL, FRESH \u2013 Leg rump or round roast, boneless, 3 to 5 pounds",
+          "325 \u00b0F (163 \u00b0C)",
           "35 to 40 minutes per lb.",
-          "145 °F (62.8 °C) with a 3-minute rest time"
+          "145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time"
         ]
       ]
     },
@@ -3265,7 +3265,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 216,
       "type": "table",
-      "text": "| Meat | Oven Temperature °F (°C) | Timing (Approximate) | Safe Minimum Internal Temperature °F (°C) |\n| --- | --- | --- | --- |\n| CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) – Whole roasting hen 5 to 7 pounds | 350 °F (177 °C) | 2 to 2 ¼ hours | 165 °F (73.9 °C) |\n| CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) – Breast, halves, bone-in 6 to 8 ounces | 350 °F (177 °C) | 30 to 40 minutes | 165 °F (73.9 °C) |\n| CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) – Breast, halves, boneless 4 ounces | 350 °F (177 °C) | 20 to 30 minutes | 165 °F (73.9 °C) |\n| CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) – Legs or thighs 4 to 8 ounces | 350 °F (177 °C) | 40 to 50 minutes | 165 °F (73.9 °C) |\n| PORK, FRESH (Tip: When cooking to safe temperatures, fresh pork may still be pink inside – but it will be safe.) – Loin roast, bone-in or boneless 2 to 5 pounds | 325 °F (163 °C) | 20 to 30 minutes per lb. | 145 °F (62.8 °C) with a 3-minute rest time |\n| PORK, FRESH (Tip: When cooking to safe temperatures, fresh pork may still be pink inside – but it will be safe.) – Crown roast, 4 to 6 pounds | 325 °F (163 °C) | 20 to 30 minutes per lb. | 145 °F (62.8 °C) with a 3-minute rest time |\n| PORK, FRESH (Tip: When cooking to safe temperatures, fresh pork may still be pink inside – but it will be safe.) – Tenderloin ½ to 1 ½ pounds | 425 °F (218 °C) | 20 to 30 minutes total | 145 °F (62.8 °C) with a 3-minute rest time |\n| HAM, SMOKED – Fresh, cook-before-eating, bone-in whole, 10 to 14 pounds half, 5 to 7 pounds | 325 °F (163 °C) 325 °F (163 °C) | 18 to 20 minutes per lb. 22 to 25 minutes per lb. | 145 °F (60 °C) 145 °F (60 °C) |\n| HAM, SMOKED – Fully cooked, bone-in Whole, 10 to 14 pounds Half, 5 to 7 pounds | 325 °F (163 °C) 325 °F (163 °C) | 15 to 18 minutes per lb. 18 to 24 minutes per lb. | 140 °F (60 °C) 140 °F (60 °C) |\n| HAM, SMOKED – Fully cooked, spiral cut, whole or half, 7 to 9 pounds | 325 °F (163 °C) | 10 to 18 minutes per lb. | 140 °F (60 °C) |\n| HAM, SMOKED – Country, dried, whole or half | Soak 4 to 12 hours in refrigerator. Cover with water, then boil 20 to 25 minutes per pound. Drain, glaze, and brown at 400 °F (204 °C) for 15 minutes. |  |  |",
+      "text": "| Meat | Oven Temperature \u00b0F (\u00b0C) | Timing (Approximate) | Safe Minimum Internal Temperature \u00b0F (\u00b0C) |\n| --- | --- | --- | --- |\n| CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) \u2013 Whole roasting hen 5 to 7 pounds | 350 \u00b0F (177 \u00b0C) | 2 to 2 \u00bc hours | 165 \u00b0F (73.9 \u00b0C) |\n| CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) \u2013 Breast, halves, bone-in 6 to 8 ounces | 350 \u00b0F (177 \u00b0C) | 30 to 40 minutes | 165 \u00b0F (73.9 \u00b0C) |\n| CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) \u2013 Breast, halves, boneless 4 ounces | 350 \u00b0F (177 \u00b0C) | 20 to 30 minutes | 165 \u00b0F (73.9 \u00b0C) |\n| CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) \u2013 Legs or thighs 4 to 8 ounces | 350 \u00b0F (177 \u00b0C) | 40 to 50 minutes | 165 \u00b0F (73.9 \u00b0C) |\n| PORK, FRESH (Tip: When cooking to safe temperatures, fresh pork may still be pink inside \u2013 but it will be safe.) \u2013 Loin roast, bone-in or boneless 2 to 5 pounds | 325 \u00b0F (163 \u00b0C) | 20 to 30 minutes per lb. | 145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time |\n| PORK, FRESH (Tip: When cooking to safe temperatures, fresh pork may still be pink inside \u2013 but it will be safe.) \u2013 Crown roast, 4 to 6 pounds | 325 \u00b0F (163 \u00b0C) | 20 to 30 minutes per lb. | 145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time |\n| PORK, FRESH (Tip: When cooking to safe temperatures, fresh pork may still be pink inside \u2013 but it will be safe.) \u2013 Tenderloin \u00bd to 1 \u00bd pounds | 425 \u00b0F (218 \u00b0C) | 20 to 30 minutes total | 145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time |\n| HAM, SMOKED \u2013 Fresh, cook-before-eating, bone-in whole, 10 to 14 pounds half, 5 to 7 pounds | 325 \u00b0F (163 \u00b0C) 325 \u00b0F (163 \u00b0C) | 18 to 20 minutes per lb. 22 to 25 minutes per lb. | 145 \u00b0F (60 \u00b0C) 145 \u00b0F (60 \u00b0C) |\n| HAM, SMOKED \u2013 Fully cooked, bone-in Whole, 10 to 14 pounds Half, 5 to 7 pounds | 325 \u00b0F (163 \u00b0C) 325 \u00b0F (163 \u00b0C) | 15 to 18 minutes per lb. 18 to 24 minutes per lb. | 140 \u00b0F (60 \u00b0C) 140 \u00b0F (60 \u00b0C) |\n| HAM, SMOKED \u2013 Fully cooked, spiral cut, whole or half, 7 to 9 pounds | 325 \u00b0F (163 \u00b0C) | 10 to 18 minutes per lb. | 140 \u00b0F (60 \u00b0C) |\n| HAM, SMOKED \u2013 Country, dried, whole or half | Soak 4 to 12 hours in refrigerator. Cover with water, then boil 20 to 25 minutes per pound. Drain, glaze, and brown at 400 \u00b0F (204 \u00b0C) for 15 minutes. |  |  |",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Roasts",
@@ -3275,74 +3275,74 @@
       "level": null,
       "header": [
         "Meat",
-        "Oven Temperature °F (°C)",
+        "Oven Temperature \u00b0F (\u00b0C)",
         "Timing (Approximate)",
-        "Safe Minimum Internal Temperature °F (°C)"
+        "Safe Minimum Internal Temperature \u00b0F (\u00b0C)"
       ],
       "rows": [
         [
-          "CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) – Whole roasting hen 5 to 7 pounds",
-          "350 °F (177 °C)",
-          "2 to 2 ¼ hours",
-          "165 °F (73.9 °C)"
+          "CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) \u2013 Whole roasting hen 5 to 7 pounds",
+          "350 \u00b0F (177 \u00b0C)",
+          "2 to 2 \u00bc hours",
+          "165 \u00b0F (73.9 \u00b0C)"
         ],
         [
-          "CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) – Breast, halves, bone-in 6 to 8 ounces",
-          "350 °F (177 °C)",
+          "CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) \u2013 Breast, halves, bone-in 6 to 8 ounces",
+          "350 \u00b0F (177 \u00b0C)",
           "30 to 40 minutes",
-          "165 °F (73.9 °C)"
+          "165 \u00b0F (73.9 \u00b0C)"
         ],
         [
-          "CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) – Breast, halves, boneless 4 ounces",
-          "350 °F (177 °C)",
+          "CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) \u2013 Breast, halves, boneless 4 ounces",
+          "350 \u00b0F (177 \u00b0C)",
           "20 to 30 minutes",
-          "165 °F (73.9 °C)"
+          "165 \u00b0F (73.9 \u00b0C)"
         ],
         [
-          "CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) – Legs or thighs 4 to 8 ounces",
-          "350 °F (177 °C)",
+          "CHICKEN, FRESH (Turkey Cooking Charts can be found on page 26.) \u2013 Legs or thighs 4 to 8 ounces",
+          "350 \u00b0F (177 \u00b0C)",
           "40 to 50 minutes",
-          "165 °F (73.9 °C)"
+          "165 \u00b0F (73.9 \u00b0C)"
         ],
         [
-          "PORK, FRESH (Tip: When cooking to safe temperatures, fresh pork may still be pink inside – but it will be safe.) – Loin roast, bone-in or boneless 2 to 5 pounds",
-          "325 °F (163 °C)",
+          "PORK, FRESH (Tip: When cooking to safe temperatures, fresh pork may still be pink inside \u2013 but it will be safe.) \u2013 Loin roast, bone-in or boneless 2 to 5 pounds",
+          "325 \u00b0F (163 \u00b0C)",
           "20 to 30 minutes per lb.",
-          "145 °F (62.8 °C) with a 3-minute rest time"
+          "145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time"
         ],
         [
-          "PORK, FRESH (Tip: When cooking to safe temperatures, fresh pork may still be pink inside – but it will be safe.) – Crown roast, 4 to 6 pounds",
-          "325 °F (163 °C)",
+          "PORK, FRESH (Tip: When cooking to safe temperatures, fresh pork may still be pink inside \u2013 but it will be safe.) \u2013 Crown roast, 4 to 6 pounds",
+          "325 \u00b0F (163 \u00b0C)",
           "20 to 30 minutes per lb.",
-          "145 °F (62.8 °C) with a 3-minute rest time"
+          "145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time"
         ],
         [
-          "PORK, FRESH (Tip: When cooking to safe temperatures, fresh pork may still be pink inside – but it will be safe.) – Tenderloin ½ to 1 ½ pounds",
-          "425 °F (218 °C)",
+          "PORK, FRESH (Tip: When cooking to safe temperatures, fresh pork may still be pink inside \u2013 but it will be safe.) \u2013 Tenderloin \u00bd to 1 \u00bd pounds",
+          "425 \u00b0F (218 \u00b0C)",
           "20 to 30 minutes total",
-          "145 °F (62.8 °C) with a 3-minute rest time"
+          "145 \u00b0F (62.8 \u00b0C) with a 3-minute rest time"
         ],
         [
-          "HAM, SMOKED – Fresh, cook-before-eating, bone-in whole, 10 to 14 pounds half, 5 to 7 pounds",
-          "325 °F (163 °C) 325 °F (163 °C)",
+          "HAM, SMOKED \u2013 Fresh, cook-before-eating, bone-in whole, 10 to 14 pounds half, 5 to 7 pounds",
+          "325 \u00b0F (163 \u00b0C) 325 \u00b0F (163 \u00b0C)",
           "18 to 20 minutes per lb. 22 to 25 minutes per lb.",
-          "145 °F (60 °C) 145 °F (60 °C)"
+          "145 \u00b0F (60 \u00b0C) 145 \u00b0F (60 \u00b0C)"
         ],
         [
-          "HAM, SMOKED – Fully cooked, bone-in Whole, 10 to 14 pounds Half, 5 to 7 pounds",
-          "325 °F (163 °C) 325 °F (163 °C)",
+          "HAM, SMOKED \u2013 Fully cooked, bone-in Whole, 10 to 14 pounds Half, 5 to 7 pounds",
+          "325 \u00b0F (163 \u00b0C) 325 \u00b0F (163 \u00b0C)",
           "15 to 18 minutes per lb. 18 to 24 minutes per lb.",
-          "140 °F (60 °C) 140 °F (60 °C)"
+          "140 \u00b0F (60 \u00b0C) 140 \u00b0F (60 \u00b0C)"
         ],
         [
-          "HAM, SMOKED – Fully cooked, spiral cut, whole or half, 7 to 9 pounds",
-          "325 °F (163 °C)",
+          "HAM, SMOKED \u2013 Fully cooked, spiral cut, whole or half, 7 to 9 pounds",
+          "325 \u00b0F (163 \u00b0C)",
           "10 to 18 minutes per lb.",
-          "140 °F (60 °C)"
+          "140 \u00b0F (60 \u00b0C)"
         ],
         [
-          "HAM, SMOKED – Country, dried, whole or half",
-          "Soak 4 to 12 hours in refrigerator. Cover with water, then boil 20 to 25 minutes per pound. Drain, glaze, and brown at 400 °F (204 °C) for 15 minutes.",
+          "HAM, SMOKED \u2013 Country, dried, whole or half",
+          "Soak 4 to 12 hours in refrigerator. Cover with water, then boil 20 to 25 minutes per pound. Drain, glaze, and brown at 400 \u00b0F (204 \u00b0C) for 15 minutes.",
           "",
           ""
         ]
@@ -3381,7 +3381,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 219,
       "type": "paragraph",
-      "text": "No doubt about it, millions of Americans view holiday time as “turkey time.” Of the millions of turkeys produced every year, 30 percent are served at Thanksgiving and Christmas. But no matter when you are preparing and serving your turkey, gobble up these important facts first!",
+      "text": "No doubt about it, millions of Americans view holiday time as \u201cturkey time.\u201d Of the millions of turkeys produced every year, 30 percent are served at Thanksgiving and Christmas. But no matter when you are preparing and serving your turkey, gobble up these important facts first!",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Turkey"
@@ -3515,7 +3515,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 228,
       "type": "list_item",
-      "text": "In the Microwave: Check the manufacturer’s instructions for the size turkey that will fit into your oven, the minutes per pound, and the power level for thawing. Remove any outside wrapping and place it on a microwave-safe dish to catch any dripping juices. Cook immediately after thawing.",
+      "text": "In the Microwave: Check the manufacturer\u2019s instructions for the size turkey that will fit into your oven, the minutes per pound, and the power level for thawing. Remove any outside wrapping and place it on a microwave-safe dish to catch any dripping juices. Cook immediately after thawing.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Turkey",
@@ -3530,7 +3530,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 229,
       "type": "list_item",
-      "text": "For Frozen Turkeys: Forget to thaw? It’s safe to cook a turkey from the frozen state. Keep in mind that cooking will take at least 50 percent longer than with a fully thawed turkey.",
+      "text": "For Frozen Turkeys: Forget to thaw? It\u2019s safe to cook a turkey from the frozen state. Keep in mind that cooking will take at least 50 percent longer than with a fully thawed turkey.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Turkey",
@@ -3630,7 +3630,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 234,
       "type": "list_item",
-      "text": "For more even cooking, cook your stuffing outside the bird in a casserole dish. Use a food thermometer to check the internal temperature of the stuffing. The center should reach 165 °F (73.9 °C).",
+      "text": "For more even cooking, cook your stuffing outside the bird in a casserole dish. Use a food thermometer to check the internal temperature of the stuffing. The center should reach 165 \u00b0F (73.9 \u00b0C).",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Turkey",
@@ -3690,7 +3690,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 238,
       "type": "list_item",
-      "text": "Cook the turkey immediately. Use a food thermometer to make sure the center of the stuffing reaches 165 °F (73.9 °C).",
+      "text": "Cook the turkey immediately. Use a food thermometer to make sure the center of the stuffing reaches 165 \u00b0F (73.9 \u00b0C).",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Turkey",
@@ -3705,7 +3705,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 239,
       "type": "list_item",
-      "text": "If stuffing does not reach this tem perature when the meat itself is done, continue to cook the whole, stuffed bird until the stuffing reaches 165 °F (73.9 °C).",
+      "text": "If stuffing does not reach this tem perature when the meat itself is done, continue to cook the whole, stuffed bird until the stuffing reaches 165 \u00b0F (73.9 \u00b0C).",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Turkey",
@@ -3735,7 +3735,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 241,
       "type": "list_item",
-      "text": "Set your oven temperature no lower than 325 °F (163 °C). Place your turkey or turkey breast on a rack in a shallow roasting pan, and use the Turkey Roasting Chart on page 26 as a guide.",
+      "text": "Set your oven temperature no lower than 325 \u00b0F (163 \u00b0C). Place your turkey or turkey breast on a rack in a shallow roasting pan, and use the Turkey Roasting Chart on page 26 as a guide.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Turkey",
@@ -3750,7 +3750,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 242,
       "type": "list_item",
-      "text": "If you’re using an oven roasting bag, follow the manufacturer’s instructions!",
+      "text": "If you\u2019re using an oven roasting bag, follow the manufacturer\u2019s instructions!",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Turkey",
@@ -3765,7 +3765,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 243,
       "type": "list_item",
-      "text": "Cook to a safe minimum internal temperature of 165 °F (73.9 °C) throughout the bird.",
+      "text": "Cook to a safe minimum internal temperature of 165 \u00b0F (73.9 \u00b0C) throughout the bird.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Turkey",
@@ -3810,7 +3810,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 246,
       "type": "list_item",
-      "text": "If your turkey has a “pop-up” temperature indicator, also check the internal temperature of the whole poultry in the innermost part of the thigh and wing and the thickest part of the breast to make sure it has reached at least 165 °F (73.9 °C).",
+      "text": "If your turkey has a \u201cpop-up\u201d temperature indicator, also check the internal temperature of the whole poultry in the innermost part of the thigh and wing and the thickest part of the breast to make sure it has reached at least 165 \u00b0F (73.9 \u00b0C).",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Turkey",
@@ -3884,7 +3884,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 251,
       "type": "paragraph",
-      "text": "Turkey isn’t just about roasting anymore. There are several other ways to prepare the bird. Use the chart on page 26 for at-a-glance guidelines.",
+      "text": "Turkey isn\u2019t just about roasting anymore. There are several other ways to prepare the bird. Use the chart on page 26 for at-a-glance guidelines.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "A Note About Other Cooking Methods"
@@ -3898,7 +3898,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 252,
       "type": "table",
-      "text": "Turkey Roasting Chart: Approximate Times Fresh or Thawed Turkey • Set oven at 325 °F (163 °C) • Cook to 165 °F (73.9 °C)\n| Size of Turkey | Unstuffed | Stuffed |\n| --- | --- | --- |\n| 4 to 6 pounds (breast) | 1 1/2 to 2 1/4 hours | Not usually applicable |\n| 6 to 8 pounds (breast) | 2 1/4 to 3 1/4 hours | 2 1/2 to 3 1/2 hours |\n| 8 to 12 pounds | 2 3/4 to 3 hours | 3 to 3 1/2 hours |\n| 12 to 14 pounds | 3 to 3 3/4 hours | 3 1/2 to 4 hours |\n| 14 to 18 pounds | 3 3/4 to 4 1/4 hours | 4 to 4 1/4 hours |\n| 18 to 20 pounds | 4 1/4 to 4 1/2 hours | 4 1/4 to 4 3/4 hours |\n| 20 to 24 pounds | 4 1/2 to 5 hours | 4 3/4 to 5 1/4 hours |",
+      "text": "Turkey Roasting Chart: Approximate Times Fresh or Thawed Turkey \u2022 Set oven at 325 \u00b0F (163 \u00b0C) \u2022 Cook to 165 \u00b0F (73.9 \u00b0C)\n| Size of Turkey | Unstuffed | Stuffed |\n| --- | --- | --- |\n| 4 to 6 pounds (breast) | 1 1/2 to 2 1/4 hours | Not usually applicable |\n| 6 to 8 pounds (breast) | 2 1/4 to 3 1/4 hours | 2 1/2 to 3 1/2 hours |\n| 8 to 12 pounds | 2 3/4 to 3 hours | 3 to 3 1/2 hours |\n| 12 to 14 pounds | 3 to 3 3/4 hours | 3 1/2 to 4 hours |\n| 14 to 18 pounds | 3 3/4 to 4 1/4 hours | 4 to 4 1/4 hours |\n| 18 to 20 pounds | 4 1/4 to 4 1/2 hours | 4 1/4 to 4 3/4 hours |\n| 20 to 24 pounds | 4 1/2 to 5 hours | 4 3/4 to 5 1/4 hours |",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "A Note About Other Cooking Methods"
@@ -3966,7 +3966,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 254,
       "type": "table",
-      "text": "Alternate Ways to Cook Turkey Note: Always make sure whole turkeys reach a safe minimum internal temperature of 165 °F (73.9 °C) as measured in the innermost part of the thigh and wing and the thickest part of the breast.\n| Method | Size | Estimated Cooking Time | Notes |\n| --- | --- | --- | --- |\n| Electric Roaster Oven | 8 to 24 lbs. | Generally same times as for oven roasting (see above). | Minimum oven temperature 325 °F (163 °C). Check appliance manual. |\n| Grilling: Covered Charcoal Grill or Covered Gas Grill | 8 to 16 lbs. | 15 to 18 minutes per pound. DO NOT STUFF. | Air in the grill must maintain 225 to 300 °F (107 to 149 °C); use drip pan. |\n| Smoking | 8 to 12 lbs. | 20 to 30 minutes per pound. DO NOT STUFF. | Air in the smoker must maintain 225 to 300 °F (107 to 149 °C); use drip pan with liquid. |\n| Deep Fat Frying | 8 to 12 lbs. | 3 to 5 minutes per pound. DO NOT STUFF. | Oil must maintain 350 °F. (177 °C). Follow manufacturer’s instructions. |\n| Microwaving | 8 to 14 lbs. | 9 to 10 minutes per pound on medium (50%) power. DO NOT STUFF. | Use oven cooking bag. Rotate during cooking. |",
+      "text": "Alternate Ways to Cook Turkey Note: Always make sure whole turkeys reach a safe minimum internal temperature of 165 \u00b0F (73.9 \u00b0C) as measured in the innermost part of the thigh and wing and the thickest part of the breast.\n| Method | Size | Estimated Cooking Time | Notes |\n| --- | --- | --- | --- |\n| Electric Roaster Oven | 8 to 24 lbs. | Generally same times as for oven roasting (see above). | Minimum oven temperature 325 \u00b0F (163 \u00b0C). Check appliance manual. |\n| Grilling: Covered Charcoal Grill or Covered Gas Grill | 8 to 16 lbs. | 15 to 18 minutes per pound. DO NOT STUFF. | Air in the grill must maintain 225 to 300 \u00b0F (107 to 149 \u00b0C); use drip pan. |\n| Smoking | 8 to 12 lbs. | 20 to 30 minutes per pound. DO NOT STUFF. | Air in the smoker must maintain 225 to 300 \u00b0F (107 to 149 \u00b0C); use drip pan with liquid. |\n| Deep Fat Frying | 8 to 12 lbs. | 3 to 5 minutes per pound. DO NOT STUFF. | Oil must maintain 350 \u00b0F. (177 \u00b0C). Follow manufacturer\u2019s instructions. |\n| Microwaving | 8 to 14 lbs. | 9 to 10 minutes per pound on medium (50%) power. DO NOT STUFF. | Use oven cooking bag. Rotate during cooking. |",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "A Note About Other Cooking Methods"
@@ -3984,25 +3984,25 @@
           "Electric Roaster Oven",
           "8 to 24 lbs.",
           "Generally same times as for oven roasting (see above).",
-          "Minimum oven temperature 325 °F (163 °C). Check appliance manual."
+          "Minimum oven temperature 325 \u00b0F (163 \u00b0C). Check appliance manual."
         ],
         [
           "Grilling: Covered Charcoal Grill or Covered Gas Grill",
           "8 to 16 lbs.",
           "15 to 18 minutes per pound. DO NOT STUFF.",
-          "Air in the grill must maintain 225 to 300 °F (107 to 149 °C); use drip pan."
+          "Air in the grill must maintain 225 to 300 \u00b0F (107 to 149 \u00b0C); use drip pan."
         ],
         [
           "Smoking",
           "8 to 12 lbs.",
           "20 to 30 minutes per pound. DO NOT STUFF.",
-          "Air in the smoker must maintain 225 to 300 °F (107 to 149 °C); use drip pan with liquid."
+          "Air in the smoker must maintain 225 to 300 \u00b0F (107 to 149 \u00b0C); use drip pan with liquid."
         ],
         [
           "Deep Fat Frying",
           "8 to 12 lbs.",
           "3 to 5 minutes per pound. DO NOT STUFF.",
-          "Oil must maintain 350 °F. (177 °C). Follow manufacturer’s instructions."
+          "Oil must maintain 350 \u00b0F. (177 \u00b0C). Follow manufacturer\u2019s instructions."
         ],
         [
           "Microwaving",
@@ -4045,7 +4045,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 257,
       "type": "paragraph",
-      "text": "What’s for dinner tonight? There’s a good chance it’s chicken—now the number one species consumed by Americans.",
+      "text": "What\u2019s for dinner tonight? There\u2019s a good chance it\u2019s chicken\u2014now the number one species consumed by Americans.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "A Note About Other Cooking Methods",
@@ -4092,7 +4092,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 260,
       "type": "paragraph",
-      "text": "At home, immediately place chicken in a refrigerator that maintains a temperature of 40 °F (4.4 °C) or below. Use it within 1 or 2 days, or freeze it at 0 °F (-17.8 °C). If kept frozen continuously, it will be safe indefinitely. Chicken may be frozen in its original packaging or repackaged.",
+      "text": "At home, immediately place chicken in a refrigerator that maintains a temperature of 40 \u00b0F (4.4 \u00b0C) or below. Use it within 1 or 2 days, or freeze it at 0 \u00b0F (-17.8 \u00b0C). If kept frozen continuously, it will be safe indefinitely. Chicken may be frozen in its original packaging or repackaged.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "A Note About Other Cooking Methods",
@@ -4124,7 +4124,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 262,
       "type": "paragraph",
-      "text": "Washing raw poultry before cooking is not recommended. Bacteria in raw meat and poultry juices can be spread to other foods, utensils, and surfaces. This is called cross-contamination. Rinsing or soaking chicken does not destroy bacteria—only cooking does.",
+      "text": "Washing raw poultry before cooking is not recommended. Bacteria in raw meat and poultry juices can be spread to other foods, utensils, and surfaces. This is called cross-contamination. Rinsing or soaking chicken does not destroy bacteria\u2014only cooking does.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "A Note About Other Cooking Methods",
@@ -4188,7 +4188,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 266,
       "type": "paragraph",
-      "text": "Cook whole chicken to a safe minimum internal temperature of 165 °F (73.9 °C) as measured using a food thermometer. Check the internal temperature in the innermost part of the thigh and wing and the thickest part of the breast.",
+      "text": "Cook whole chicken to a safe minimum internal temperature of 165 \u00b0F (73.9 \u00b0C) as measured using a food thermometer. Check the internal temperature in the innermost part of the thigh and wing and the thickest part of the breast.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "A Note About Other Cooking Methods",
@@ -4204,7 +4204,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 267,
       "type": "paragraph",
-      "text": "In a 350 °F (177 °C) oven, a whole 4-pound chicken will take approximately 1 1/2 hours; a 4-ounce boneless chicken breast, approximately 20 to 30 minutes. For more cooking methods, see page 23 or the chart in “Chicken from Farm to Table” at www.fsis.usda.gov.",
+      "text": "In a 350 \u00b0F (177 \u00b0C) oven, a whole 4-pound chicken will take approximately 1 1/2 hours; a 4-ounce boneless chicken breast, approximately 20 to 30 minutes. For more cooking methods, see page 23 or the chart in \u201cChicken from Farm to Table\u201d at www.fsis.usda.gov.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "A Note About Other Cooking Methods",
@@ -4316,7 +4316,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 274,
       "type": "list_item",
-      "text": "Place them on a refrigerator shelf, not in the door, where they’d be exposed to warm air every time the door is opened.",
+      "text": "Place them on a refrigerator shelf, not in the door, where they\u2019d be exposed to warm air every time the door is opened.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "A Note About Other Cooking Methods",
@@ -4348,7 +4348,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 276,
       "type": "list_item",
-      "text": "Keep Easter/Decorated Eggs Refrigerated, Too. Even with egg hunts, the 2-Hour Rule still applies — make sure your “hide-and-seek” activities occur within 2 hours (1 hour when the temperature is above 90 °F/32.2 °C), and then re-refrigerate the eggs.",
+      "text": "Keep Easter/Decorated Eggs Refrigerated, Too. Even with egg hunts, the 2-Hour Rule still applies \u2014 make sure your \u201chide-and-seek\u201d activities occur within 2 hours (1 hour when the temperature is above 90 \u00b0F/32.2 \u00b0C), and then re-refrigerate the eggs.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "A Note About Other Cooking Methods",
@@ -4396,7 +4396,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 279,
       "type": "list_item",
-      "text": "Cook Thoroughly. To ensure safety, eggs must be cooked until yolks are firm. Scrambled eggs should not be runny. —Raw eggs and other ingredients, combined according to recipe directions, should be cooked immediately or refrigerated and cooked within 24 hours. —Casseroles and other dishes containing eggs should be cooked to 160 °F (71.1 °C) as measured with a food thermometer. —Serve cooked eggs and dishes containing eggs immediately after cooking, or place in shallow containers for quick cooling and refrigerate at once for later use. Use within 3 to 4 days.",
+      "text": "Cook Thoroughly. To ensure safety, eggs must be cooked until yolks are firm. Scrambled eggs should not be runny. \u2014Raw eggs and other ingredients, combined according to recipe directions, should be cooked immediately or refrigerated and cooked within 24 hours. \u2014Casseroles and other dishes containing eggs should be cooked to 160 \u00b0F (71.1 \u00b0C) as measured with a food thermometer. \u2014Serve cooked eggs and dishes containing eggs immediately after cooking, or place in shallow containers for quick cooling and refrigerate at once for later use. Use within 3 to 4 days.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "A Note About Other Cooking Methods",
@@ -4428,7 +4428,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 281,
       "type": "list_item",
-      "text": "Never Eat Raw Eggs. This includes “health-food” milk shakes with raw eggs, Caesar salad, Hollandaise sauce, homemade mayonnaise, ice cream, or eggnog, and any other food made from recipes in which the raw egg ingredients are not cooked.",
+      "text": "Never Eat Raw Eggs. This includes \u201chealth-food\u201d milk shakes with raw eggs, Caesar salad, Hollandaise sauce, homemade mayonnaise, ice cream, or eggnog, and any other food made from recipes in which the raw egg ingredients are not cooked.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "A Note About Other Cooking Methods",
@@ -4475,7 +4475,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 284,
       "type": "paragraph",
-      "text": "Eggs can be part of a healthy diet. However, they are perishable just like raw meat, poultry, and seafood — and just like these foods, they must be properly refrigerated and cooked for safety. So get cracking!",
+      "text": "Eggs can be part of a healthy diet. However, they are perishable just like raw meat, poultry, and seafood \u2014 and just like these foods, they must be properly refrigerated and cooked for safety. So get cracking!",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "A Note About Other Cooking Methods",
@@ -4490,7 +4490,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 285,
       "type": "table",
-      "text": "Egg Storage Chart\n| Product | Refrigerator | Freezer |\n| --- | --- | --- |\n| Raw eggs in shell | 3 to 5 weeks | Do not freeze. Instead, beat yolks and whites together; then freeze. |\n| Raw egg whites | 2 to 4 days | 12 months |\n| Raw egg yolks | 2 to 4 days | Yolks do not freeze well. |\n| Raw egg accidentally frozen in shell | Use immediately after thawing. | Keep frozen; then thaw in the refrigerator. |\n| Hard-cooked eggs | 1 week | Do not freeze. |\n| Egg substitutes, liquid Unopened Opened | 10 days | 12 months |\n| Egg substitutes, liquid Unopened Opened | 3 days | Do not freeze. |\n| Egg substitutes, frozen Unopened Opened | After thawing, 7 days, or refer to “Use-By” date | 12 months |\n| Egg substitutes, frozen Unopened Opened | After thawing, 3 days, or refer to “Use-By” date | Do not freeze. |\n| Casseroles with eggs | 3 to 4 days | After baking, 2 to 3 months. |\n| Eggnog Commercial Homemade | 3 to 5 days or “Use-By” date | 6 months |\n| Eggnog Commercial Homemade | 2 to 4 days | Do not freeze. |\n| Pies Pumpkin or pecan Custard and chiffon i | 3 to 4 days | After baking, 1 to 2 months. |\n| Pies Pumpkin or pecan Custard and chiffon i | 3 to 4 days | Do not freeze. |\n| Quiche with filling | 3 to 4 days | After baking, 1 to 2 months. |",
+      "text": "Egg Storage Chart\n| Product | Refrigerator | Freezer |\n| --- | --- | --- |\n| Raw eggs in shell | 3 to 5 weeks | Do not freeze. Instead, beat yolks and whites together; then freeze. |\n| Raw egg whites | 2 to 4 days | 12 months |\n| Raw egg yolks | 2 to 4 days | Yolks do not freeze well. |\n| Raw egg accidentally frozen in shell | Use immediately after thawing. | Keep frozen; then thaw in the refrigerator. |\n| Hard-cooked eggs | 1 week | Do not freeze. |\n| Egg substitutes, liquid Unopened Opened | 10 days | 12 months |\n| Egg substitutes, liquid Unopened Opened | 3 days | Do not freeze. |\n| Egg substitutes, frozen Unopened Opened | After thawing, 7 days, or refer to \u201cUse-By\u201d date | 12 months |\n| Egg substitutes, frozen Unopened Opened | After thawing, 3 days, or refer to \u201cUse-By\u201d date | Do not freeze. |\n| Casseroles with eggs | 3 to 4 days | After baking, 2 to 3 months. |\n| Eggnog Commercial Homemade | 3 to 5 days or \u201cUse-By\u201d date | 6 months |\n| Eggnog Commercial Homemade | 2 to 4 days | Do not freeze. |\n| Pies Pumpkin or pecan Custard and chiffon i | 3 to 4 days | After baking, 1 to 2 months. |\n| Pies Pumpkin or pecan Custard and chiffon i | 3 to 4 days | Do not freeze. |\n| Quiche with filling | 3 to 4 days | After baking, 1 to 2 months. |",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "A Note About Other Cooking Methods",
@@ -4541,12 +4541,12 @@
         ],
         [
           "Egg substitutes, frozen Unopened Opened",
-          "After thawing, 7 days, or refer to “Use-By” date",
+          "After thawing, 7 days, or refer to \u201cUse-By\u201d date",
           "12 months"
         ],
         [
           "Egg substitutes, frozen Unopened Opened",
-          "After thawing, 3 days, or refer to “Use-By” date",
+          "After thawing, 3 days, or refer to \u201cUse-By\u201d date",
           "Do not freeze."
         ],
         [
@@ -4556,7 +4556,7 @@
         ],
         [
           "Eggnog Commercial Homemade",
-          "3 to 5 days or “Use-By” date",
+          "3 to 5 days or \u201cUse-By\u201d date",
           "6 months"
         ],
         [
@@ -4599,7 +4599,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 287,
       "type": "list_item",
-      "text": "Egg mixtures are safe if they reach 160 °F (71.1 °C).",
+      "text": "Egg mixtures are safe if they reach 160 \u00b0F (71.1 \u00b0C).",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Egg Recipes: Playing it Safe"
@@ -4613,7 +4613,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 288,
       "type": "list_item",
-      "text": "Homemade ice cream and eggnog are safe if made from a cooked egg-milk mixture. Heat it gently and use a food thermometer to ensure that it reaches 160 °F (71.1 °C).",
+      "text": "Homemade ice cream and eggnog are safe if made from a cooked egg-milk mixture. Heat it gently and use a food thermometer to ensure that it reaches 160 \u00b0F (71.1 \u00b0C).",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Egg Recipes: Playing it Safe"
@@ -4627,7 +4627,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 289,
       "type": "list_item",
-      "text": "Dry meringue shells, divinity candy, and 7-minute frosting are safe — these are made by combining hot sugar syrup with beaten egg whites. However, avoid icing recipes using uncooked eggs or egg whites.",
+      "text": "Dry meringue shells, divinity candy, and 7-minute frosting are safe \u2014 these are made by combining hot sugar syrup with beaten egg whites. However, avoid icing recipes using uncooked eggs or egg whites.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Egg Recipes: Playing it Safe"
@@ -4641,7 +4641,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 290,
       "type": "list_item",
-      "text": "Meringue-topped pies should be safe if baked at 350 °F (177 °C ) for about 15 minutes. But avoid chiffon pies and fruit whips made with raw, beaten egg whites — instead, substi tute pasteurized dried egg whites, whipped cream, or a whipped topping.",
+      "text": "Meringue-topped pies should be safe if baked at 350 \u00b0F (177 \u00b0C ) for about 15 minutes. But avoid chiffon pies and fruit whips made with raw, beaten egg whites \u2014 instead, substi tute pasteurized dried egg whites, whipped cream, or a whipped topping.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Egg Recipes: Playing it Safe"
@@ -4655,7 +4655,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 291,
       "type": "list_item",
-      "text": "Adapting Recipes: If your recipe calls for uncooked eggs, make it safe by heating the eggs in one of the recipe’s other liquid ingredients over low heat, stirring constantly, until the mixture reaches 160 °F (71.1 °C). Then, combine it with the other ingredients and complete the recipe.",
+      "text": "Adapting Recipes: If your recipe calls for uncooked eggs, make it safe by heating the eggs in one of the recipe\u2019s other liquid ingredients over low heat, stirring constantly, until the mixture reaches 160 \u00b0F (71.1 \u00b0C). Then, combine it with the other ingredients and complete the recipe.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Egg Recipes: Playing it Safe"
@@ -4669,7 +4669,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 292,
       "type": "list_item",
-      "text": "Use a Food Thermometer: To determine safety in egg dishes, such as quiche and casseroles, the center of the mixture should reach 160 °F (71.1 °C) when measured with a food thermometer.",
+      "text": "Use a Food Thermometer: To determine safety in egg dishes, such as quiche and casseroles, the center of the mixture should reach 160 \u00b0F (71.1 \u00b0C) when measured with a food thermometer.",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Egg Recipes: Playing it Safe"
@@ -4773,7 +4773,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 299,
       "type": "paragraph",
-      "text": "Leftovers are a staple in the kitchen. But they also need special care to ensure safe storage and reheating. These guidelines will help ensure their safety the “second time around.”",
+      "text": "Leftovers are a staple in the kitchen. But they also need special care to ensure safe storage and reheating. These guidelines will help ensure their safety the \u201csecond time around.\u201d",
       "heading_path": [
         "Special Guidelines for Certain Food",
         "Egg Recipes: Playing it Safe",
@@ -4818,10 +4818,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 302,
       "type": "heading",
-      "text": "A Note for Those “At Risk”",
+      "text": "A Note for Those \u201cAt Risk\u201d",
       "heading_path": [
         "Special Guidelines for Certain Food",
-        "A Note for Those “At Risk”"
+        "A Note for Those \u201cAt Risk\u201d"
       ],
       "page": 32,
       "level": 3,
@@ -4835,7 +4835,7 @@
       "text": "Those at increased risk of foodborne illness should reheat hot dogs and luncheon meat until steaming hot before eating, due to the threat of listeriosis.",
       "heading_path": [
         "Special Guidelines for Certain Food",
-        "A Note for Those “At Risk”"
+        "A Note for Those \u201cAt Risk\u201d"
       ],
       "page": 32,
       "level": null,
@@ -4849,7 +4849,7 @@
       "text": "Storing:",
       "heading_path": [
         "Special Guidelines for Certain Food",
-        "A Note for Those “At Risk”",
+        "A Note for Those \u201cAt Risk\u201d",
         "Storing:"
       ],
       "page": 32,
@@ -4861,10 +4861,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 305,
       "type": "list_item",
-      "text": "Keep unopened hot dogs and prepackaged cold cuts in the refrigerator in their original vacuum-sealed package for up to 2 weeks. For quality reasons, use hot dogs no later than 1 week after the “Sell-By” date.",
+      "text": "Keep unopened hot dogs and prepackaged cold cuts in the refrigerator in their original vacuum-sealed package for up to 2 weeks. For quality reasons, use hot dogs no later than 1 week after the \u201cSell-By\u201d date.",
       "heading_path": [
         "Special Guidelines for Certain Food",
-        "A Note for Those “At Risk”",
+        "A Note for Those \u201cAt Risk\u201d",
         "Storing:"
       ],
       "page": 32,
@@ -4879,7 +4879,7 @@
       "text": "Once opened, rewrap well and use within 3 to 5 days or freeze.",
       "heading_path": [
         "Special Guidelines for Certain Food",
-        "A Note for Those “At Risk”",
+        "A Note for Those \u201cAt Risk\u201d",
         "Storing:"
       ],
       "page": 32,
@@ -4894,7 +4894,7 @@
       "text": "You can freeze hot dogs and luncheon meat, but there may be flavor and texture loss after 1 to 2 months.",
       "heading_path": [
         "Special Guidelines for Certain Food",
-        "A Note for Those “At Risk”",
+        "A Note for Those \u201cAt Risk\u201d",
         "Storing:"
       ],
       "page": 32,
@@ -4906,10 +4906,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 308,
       "type": "heading",
-      "text": "“Take-Home” Leftover Alert:",
+      "text": "\u201cTake-Home\u201d Leftover Alert:",
       "heading_path": [
         "Special Guidelines for Certain Food",
-        "“Take-Home” Leftover Alert:"
+        "\u201cTake-Home\u201d Leftover Alert:"
       ],
       "page": 32,
       "level": 3,
@@ -4923,7 +4923,7 @@
       "text": "Doggie Bags are leftovers, too! Follow the same rules for storing and reheating.",
       "heading_path": [
         "Special Guidelines for Certain Food",
-        "“Take-Home” Leftover Alert:"
+        "\u201cTake-Home\u201d Leftover Alert:"
       ],
       "page": 32,
       "level": null,
@@ -4934,10 +4934,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 310,
       "type": "paragraph",
-      "text": "at room temperature for more than 2 hours (1 hour if it’s above 90 °F/32.2 °C). This includes leftovers that were mistakenly left out overnight.",
+      "text": "at room temperature for more than 2 hours (1 hour if it\u2019s above 90 \u00b0F/32.2 \u00b0C). This includes leftovers that were mistakenly left out overnight.",
       "heading_path": [
         "Special Guidelines for Certain Food",
-        "“Take-Home” Leftover Alert:"
+        "\u201cTake-Home\u201d Leftover Alert:"
       ],
       "page": 32,
       "level": null,
@@ -4951,7 +4951,7 @@
       "text": "Reheating:",
       "heading_path": [
         "Special Guidelines for Certain Food",
-        "“Take-Home” Leftover Alert:",
+        "\u201cTake-Home\u201d Leftover Alert:",
         "Reheating:"
       ],
       "page": 32,
@@ -4963,10 +4963,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 312,
       "type": "list_item",
-      "text": "Heat leftovers to 165 °F (73.9 °C) — use a food thermometer to check!",
+      "text": "Heat leftovers to 165 \u00b0F (73.9 \u00b0C) \u2014 use a food thermometer to check!",
       "heading_path": [
         "Special Guidelines for Certain Food",
-        "“Take-Home” Leftover Alert:",
+        "\u201cTake-Home\u201d Leftover Alert:",
         "Reheating:"
       ],
       "page": 32,
@@ -4981,7 +4981,7 @@
       "text": "Bring gravies and sauces to a rolling boil before serving.",
       "heading_path": [
         "Special Guidelines for Certain Food",
-        "“Take-Home” Leftover Alert:",
+        "\u201cTake-Home\u201d Leftover Alert:",
         "Reheating:"
       ],
       "page": 32,
@@ -4996,7 +4996,7 @@
       "text": "Cover leftovers to reheat. This retains moisture and ensures that food will heat all the way through.",
       "heading_path": [
         "Special Guidelines for Certain Food",
-        "“Take-Home” Leftover Alert:",
+        "\u201cTake-Home\u201d Leftover Alert:",
         "Reheating:"
       ],
       "page": 32,
@@ -5011,7 +5011,7 @@
       "text": "In the microwave, cover the dish of food with a lid or vented plastic wrap. For even heating, rotate the dish during microwaving and stir if possible. Beware of cold spots; use a food thermometer to check the temperature in several places.",
       "heading_path": [
         "Special Guidelines for Certain Food",
-        "“Take-Home” Leftover Alert:",
+        "\u201cTake-Home\u201d Leftover Alert:",
         "Reheating:"
       ],
       "page": 32,
@@ -5036,7 +5036,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 317,
       "type": "paragraph",
-      "text": "“Making dinner” can go far beyond simply putting a roast in the oven. These basic guidelines will keep your food safe as you use a variety of cooking and preparation techniques.",
+      "text": "\u201cMaking dinner\u201d can go far beyond simply putting a roast in the oven. These basic guidelines will keep your food safe as you use a variety of cooking and preparation techniques.",
       "heading_path": [
         "Specific Preparation and Cooking Methods"
       ],
@@ -5077,7 +5077,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 320,
       "type": "list_item",
-      "text": "Marinate in the Refrigerator. Marinate at refrigeration temperatures —40 °F (4.4 °C), to keep bacteria from growing. Meat and poultry can be marinated for several hours or days to tenderize or add flavor.",
+      "text": "Marinate in the Refrigerator. Marinate at refrigeration temperatures \u201440 \u00b0F (4.4 \u00b0C), to keep bacteria from growing. Meat and poultry can be marinated for several hours or days to tenderize or add flavor.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Marinating"
@@ -5091,7 +5091,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 321,
       "type": "list_item",
-      "text": "Don’t “Cross-Contaminate.” Sauce used to marinate raw meat, poultry, or seafood should never be used on cooked foods unless it is boiled just before using. —Sauce used to marinate raw meat contains raw juices that can contain dangerous bacteria. —If some of the marinade is to be used as a sauce on the cooked food, reserve a portion of the marinade before putting raw meat or poultry in it.",
+      "text": "Don\u2019t \u201cCross-Contaminate.\u201d Sauce used to marinate raw meat, poultry, or seafood should never be used on cooked foods unless it is boiled just before using. \u2014Sauce used to marinate raw meat contains raw juices that can contain dangerous bacteria. \u2014If some of the marinade is to be used as a sauce on the cooked food, reserve a portion of the marinade before putting raw meat or poultry in it.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Marinating"
@@ -5105,7 +5105,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 322,
       "type": "list_item",
-      "text": "Don’t Use Metal. Marinate in glass or plastic. The process may take several hours, so you need a tray or bowl that won’t be affected by acid.",
+      "text": "Don\u2019t Use Metal. Marinate in glass or plastic. The process may take several hours, so you need a tray or bowl that won\u2019t be affected by acid.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Marinating"
@@ -5133,7 +5133,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 324,
       "type": "paragraph",
-      "text": "On a hungry night after a long day, a microwave oven can be a cook’s best friend. While saving time in food preparation, it’s still critical to make sure food reaches a safe minimum internal temperature throughout.",
+      "text": "On a hungry night after a long day, a microwave oven can be a cook\u2019s best friend. While saving time in food preparation, it\u2019s still critical to make sure food reaches a safe minimum internal temperature throughout.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Microwave Cooking"
@@ -5161,7 +5161,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 326,
       "type": "list_item",
-      "text": "Avoid Cold Spots: While microwaving is quick, it doesn’t always cook food evenly. Stir or rotate food midway through the microwaving time to eliminate cold spots and for more even cooking.",
+      "text": "Avoid Cold Spots: While microwaving is quick, it doesn\u2019t always cook food evenly. Stir or rotate food midway through the microwaving time to eliminate cold spots and for more even cooking.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Microwave Cooking"
@@ -5231,7 +5231,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 331,
       "type": "list_item",
-      "text": "Try covering food with foil during standing time to retain heat (but don’t use foil in the microwave!).",
+      "text": "Try covering food with foil during standing time to retain heat (but don\u2019t use foil in the microwave!).",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Microwave Cooking"
@@ -5259,7 +5259,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 333,
       "type": "list_item",
-      "text": "No, You Can’t “Can”! Do not use your microwave for home canning. As liquid inside the sealed glass jar heats and expands, pressure can build up, causing the jar to explode.",
+      "text": "No, You Can\u2019t \u201cCan\u201d! Do not use your microwave for home canning. As liquid inside the sealed glass jar heats and expands, pressure can build up, causing the jar to explode.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Microwave Cooking"
@@ -5273,7 +5273,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 334,
       "type": "paragraph",
-      "text": "If you have any questions about proper microwave use, check the manufacturer’s instructions.",
+      "text": "If you have any questions about proper microwave use, check the manufacturer\u2019s instructions.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Microwave Cooking"
@@ -5371,7 +5371,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 341,
       "type": "paragraph",
-      "text": "Summer is peak time for grilling even though many cooks use their grills year round, whatever the weather. Whenever or wherever you’re grilling, keep these hot tips in mind.",
+      "text": "Summer is peak time for grilling even though many cooks use their grills year round, whatever the weather. Whenever or wherever you\u2019re grilling, keep these hot tips in mind.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Grilling and Barbecuing"
@@ -5385,7 +5385,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 342,
       "type": "paragraph",
-      "text": "(Traveling to the cookout? Don’t miss Transporting Food beginning on page 38.)",
+      "text": "(Traveling to the cookout? Don\u2019t miss Transporting Food beginning on page 38.)",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Grilling and Barbecuing"
@@ -5413,7 +5413,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 344,
       "type": "list_item",
-      "text": "Remember your food thermometer! Meat and poultry cooked on a grill can brown quickly on the outside — use a food thermometer to be sure the food has reached a safe minimum internal temperature. (See Safe Minimum Internal Temperature Chart on page 19, and Food Thermometers and Temperature Indicators on page 18.)",
+      "text": "Remember your food thermometer! Meat and poultry cooked on a grill can brown quickly on the outside \u2014 use a food thermometer to be sure the food has reached a safe minimum internal temperature. (See Safe Minimum Internal Temperature Chart on page 19, and Food Thermometers and Temperature Indicators on page 18.)",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Grilling Guidelines:"
@@ -5455,7 +5455,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 347,
       "type": "list_item",
-      "text": "Use a clean platter for cooked food. Don’t put the grilled food on the same platter that held raw meat or poultry because any harmful bacteria present in the raw juices could contaminate safely cooked food. (See also: Cross-Contamination on page 8, Marinating on page 31, and Serving Food Safely: General Guidelines on page 35.)",
+      "text": "Use a clean platter for cooked food. Don\u2019t put the grilled food on the same platter that held raw meat or poultry because any harmful bacteria present in the raw juices could contaminate safely cooked food. (See also: Cross-Contamination on page 8, Marinating on page 31, and Serving Food Safely: General Guidelines on page 35.)",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Grilling Guidelines:"
@@ -5469,7 +5469,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 348,
       "type": "paragraph",
-      "text": "Smoking Smoking is cooking food indirectly in the presence of a fire. Smoking is done much more slowly than grilling, so less tender meats benefit from this method and result in a natural “smoke” flavor permeating the meat. As with any method of cooking, follow the basic steps for safety before smoking:",
+      "text": "Smoking Smoking is cooking food indirectly in the presence of a fire. Smoking is done much more slowly than grilling, so less tender meats benefit from this method and result in a natural \u201csmoke\u201d flavor permeating the meat. As with any method of cooking, follow the basic steps for safety before smoking:",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Grilling Guidelines:"
@@ -5483,7 +5483,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 349,
       "type": "list_item",
-      "text": "Preparation: Defrost meat entirely— and safely—before smoking. Marinate meat in the refrigerator. (See Thawing on page 16 and Marinating on page 31.)",
+      "text": "Preparation: Defrost meat entirely\u2014 and safely\u2014before smoking. Marinate meat in the refrigerator. (See Thawing on page 16 and Marinating on page 31.)",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Grilling Guidelines:"
@@ -5497,7 +5497,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 350,
       "type": "list_item",
-      "text": "Partial Cooking: If you decide to cook food partially in a microwave oven or on the stove to reduce smoking time — make sure that the food goes immediately from the microwave or stove to the hot smoker.",
+      "text": "Partial Cooking: If you decide to cook food partially in a microwave oven or on the stove to reduce smoking time \u2014 make sure that the food goes immediately from the microwave or stove to the hot smoker.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Grilling Guidelines:"
@@ -5511,7 +5511,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 351,
       "type": "list_item",
-      "text": "Two Thermometers: To smoke meat and poultry safely, you’ll need two types of thermometers. Cooking time depends on many factors, and since it can take anywhere from 4 to 8 hours to smoke meat or poultry, the only way to monitor the safety and doneness is to use the two thermometers. —Smoker Thermometer: These are often built in. The smoker thermometer enables you to ensure that the temperature in the smoker stays between 225 and 300 °F (107 and 149 °C) for safety. —Food Thermometer: Once food is in the smoker, cook until it reaches a safe internal minimum temperature as determined with a food thermometer. (See Safe Minimum Internal Temperature Chart on page 19, and Food Thermometers and Temperature Indicators on page 18.)",
+      "text": "Two Thermometers: To smoke meat and poultry safely, you\u2019ll need two types of thermometers. Cooking time depends on many factors, and since it can take anywhere from 4 to 8 hours to smoke meat or poultry, the only way to monitor the safety and doneness is to use the two thermometers. \u2014Smoker Thermometer: These are often built in. The smoker thermometer enables you to ensure that the temperature in the smoker stays between 225 and 300 \u00b0F (107 and 149 \u00b0C) for safety. \u2014Food Thermometer: Once food is in the smoker, cook until it reaches a safe internal minimum temperature as determined with a food thermometer. (See Safe Minimum Internal Temperature Chart on page 19, and Food Thermometers and Temperature Indicators on page 18.)",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Grilling Guidelines:"
@@ -5525,7 +5525,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 352,
       "type": "list_item",
-      "text": "Prompt chilling: If you aren’t taking your smoked food straight to the dinner table, refrigerate meat and poultry within 2 hours after cooking is complete (1 hour when the temperature is above 90 °F/32.2 °C). Cut the meat or poultry into smaller",
+      "text": "Prompt chilling: If you aren\u2019t taking your smoked food straight to the dinner table, refrigerate meat and poultry within 2 hours after cooking is complete (1 hour when the temperature is above 90 \u00b0F/32.2 \u00b0C). Cut the meat or poultry into smaller",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Grilling Guidelines:"
@@ -5567,7 +5567,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 355,
       "type": "paragraph",
-      "text": "In today’s multitasking world, there’s nothing like having dinner cooked for you while you go about your day. That’s the beauty of a slow cooker. As you take advantage of this time-saving wonder, here are tips for keeping your “crock o’ dinner” safe.",
+      "text": "In today\u2019s multitasking world, there\u2019s nothing like having dinner cooked for you while you go about your day. That\u2019s the beauty of a slow cooker. As you take advantage of this time-saving wonder, here are tips for keeping your \u201ccrock o\u2019 dinner\u201d safe.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Slow Cooking"
@@ -5581,7 +5581,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 356,
       "type": "list_item",
-      "text": "How Slow Cookers Work: As the name implies, the countertop “slow cooker” cooks foods slowly and at a low temperature—generally between 170 and 280 °F (76.7 to 138 °C). —The direct heat from the pot, lengthy cooking time, and steam created within the tightly covered container work in combination to destroy bacteria and make the slow cooker a safe process for cooking foods. —While food is cooking and once it’s done, food will stay safe as long as the cooker is operating.",
+      "text": "How Slow Cookers Work: As the name implies, the countertop \u201cslow cooker\u201d cooks foods slowly and at a low temperature\u2014generally between 170 and 280 \u00b0F (76.7 to 138 \u00b0C). \u2014The direct heat from the pot, lengthy cooking time, and steam created within the tightly covered container work in combination to destroy bacteria and make the slow cooker a safe process for cooking foods. \u2014While food is cooking and once it\u2019s done, food will stay safe as long as the cooker is operating.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Slow Cooking"
@@ -5595,7 +5595,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 357,
       "type": "list_item",
-      "text": "Preparation: Since the slow cooker may take several hours to reach a safe bacteria-killing temperature, keep perishable ingredients refrigerated right up until preparation time. This keeps bacteria from getting a “head start.”",
+      "text": "Preparation: Since the slow cooker may take several hours to reach a safe bacteria-killing temperature, keep perishable ingredients refrigerated right up until preparation time. This keeps bacteria from getting a \u201chead start.\u201d",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Slow Cooking"
@@ -5623,7 +5623,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 359,
       "type": "paragraph",
-      "text": "—If you cut up meat and vegetables in advance, store them separately in the refrigerator.",
+      "text": "\u2014If you cut up meat and vegetables in advance, store them separately in the refrigerator.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Slow Cooking"
@@ -5637,7 +5637,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 360,
       "type": "paragraph",
-      "text": "—Keep the lid in place, removing only to stir the food or check for doneness.",
+      "text": "\u2014Keep the lid in place, removing only to stir the food or check for doneness.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Slow Cooking"
@@ -5679,7 +5679,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 363,
       "type": "paragraph",
-      "text": "—Large cuts of meat and poultry may be cooked safely in a slow cooker.",
+      "text": "\u2014Large cuts of meat and poultry may be cooked safely in a slow cooker.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Slow Cooking"
@@ -5693,7 +5693,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 364,
       "type": "paragraph",
-      "text": "—Add the meat and desired amount of liquid suggested in the recipe, such as broth, water, or barbecue sauce. Keep the lid in place, removing only to stir the food or check for doneness.",
+      "text": "\u2014Add the meat and desired amount of liquid suggested in the recipe, such as broth, water, or barbecue sauce. Keep the lid in place, removing only to stir the food or check for doneness.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Slow Cooking"
@@ -5707,7 +5707,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 365,
       "type": "paragraph",
-      "text": "—If using a commercially frozen slow-cooker meal, prepare according to manufacturer’s instructions.",
+      "text": "\u2014If using a commercially frozen slow-cooker meal, prepare according to manufacturer\u2019s instructions.",
       "heading_path": [
         "Specific Preparation and Cooking Methods",
         "Slow Cooking"
@@ -5790,7 +5790,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 371,
       "type": "list_item",
-      "text": "“Dinner is served!” More than ever, this happens in a wide variety of places, both indoors and out. But no matter where your meal is taking place . . . safety must still be the first item on the menu.",
+      "text": "\u201cDinner is served!\u201d More than ever, this happens in a wide variety of places, both indoors and out. But no matter where your meal is taking place . . . safety must still be the first item on the menu.",
       "heading_path": [
         "Serving Food Safely"
       ],
@@ -5803,7 +5803,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 372,
       "type": "paragraph",
-      "text": "General Guidelines: Whatever or Wherever You’re Serving!",
+      "text": "General Guidelines: Whatever or Wherever You\u2019re Serving!",
       "heading_path": [
         "Serving Food Safely"
       ],
@@ -5816,7 +5816,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 373,
       "type": "list_item",
-      "text": "Keep Hot Food Hot & Cold Food Cold. Whether you are in your kitchen or enjoying the great outdoors, there are some food safety principles that remain constant. The first is “Keep hot food hot and cold food cold” to keep foods out of the “Danger Zone.” (See Focus on: The “Danger Zone” on page 9.)",
+      "text": "Keep Hot Food Hot & Cold Food Cold. Whether you are in your kitchen or enjoying the great outdoors, there are some food safety principles that remain constant. The first is \u201cKeep hot food hot and cold food cold\u201d to keep foods out of the \u201cDanger Zone.\u201d (See Focus on: The \u201cDanger Zone\u201d on page 9.)",
       "heading_path": [
         "Serving Food Safely"
       ],
@@ -5829,7 +5829,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 374,
       "type": "list_item",
-      "text": "Keep Everything Clean. It’s a fact that bacteria from raw meat and poultry products can easily spread to other foods by hands, utensils, or by juices dripping from packages. —When transporting raw meat or poultry, double-wrap or place the packages in plastic bags to prevent juices from the raw product from dripping on other foods. —Always wash your hands before and after handling food, and don’t use the same platter and utensils for raw and cooked meat and poultry unless you wash them first. —Soap and water are essential to cleanliness, so if you are going somewhere that will not have running water, bring it with you or have disposable wipes on hand. (See Cross-Contamination on page 8.)",
+      "text": "Keep Everything Clean. It\u2019s a fact that bacteria from raw meat and poultry products can easily spread to other foods by hands, utensils, or by juices dripping from packages. \u2014When transporting raw meat or poultry, double-wrap or place the packages in plastic bags to prevent juices from the raw product from dripping on other foods. \u2014Always wash your hands before and after handling food, and don\u2019t use the same platter and utensils for raw and cooked meat and poultry unless you wash them first. \u2014Soap and water are essential to cleanliness, so if you are going somewhere that will not have running water, bring it with you or have disposable wipes on hand. (See Cross-Contamination on page 8.)",
       "heading_path": [
         "Serving Food Safely"
       ],
@@ -5842,7 +5842,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 375,
       "type": "list_item",
-      "text": "Remember the 2-Hour Rule: Perishable food should never be left in the “Danger Zone” —between 40 and 140 °F (4.4 and 60 °C)—for more than 2 hours. This includes both hot food and cold food. If it’s been more than 2 hours (or 1 hour in temperatures above 90 °F/32.2 °C), discard the food.",
+      "text": "Remember the 2-Hour Rule: Perishable food should never be left in the \u201cDanger Zone\u201d \u2014between 40 and 140 \u00b0F (4.4 and 60 \u00b0C)\u2014for more than 2 hours. This includes both hot food and cold food. If it\u2019s been more than 2 hours (or 1 hour in temperatures above 90 \u00b0F/32.2 \u00b0C), discard the food.",
       "heading_path": [
         "Serving Food Safely"
       ],
@@ -5855,7 +5855,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 376,
       "type": "list_item",
-      "text": "Be Cool: If you are traveling with cold food, bring a cooler with a cold source. It is difficult to keep food hot without a heat source when traveling, so it’s best to cook food before leaving home and refrigerate and transport cold. (See Transporting Food on page 38.)",
+      "text": "Be Cool: If you are traveling with cold food, bring a cooler with a cold source. It is difficult to keep food hot without a heat source when traveling, so it\u2019s best to cook food before leaving home and refrigerate and transport cold. (See Transporting Food on page 38.)",
       "heading_path": [
         "Serving Food Safely"
       ],
@@ -5896,7 +5896,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 379,
       "type": "list_item",
-      "text": "Safe Advance Prep: If you’re getting ready ahead of time, be sure to cook food thoroughly to safe minimum internal temperatures. (See Safe Minimum Internal Temperature Chart on page 19.) Divide cooked food into shallow containers to store in the refrigerator or freezer until serving. This encourages rapid, even cooling.",
+      "text": "Safe Advance Prep: If you\u2019re getting ready ahead of time, be sure to cook food thoroughly to safe minimum internal temperatures. (See Safe Minimum Internal Temperature Chart on page 19.) Divide cooked food into shallow containers to store in the refrigerator or freezer until serving. This encourages rapid, even cooling.",
       "heading_path": [
         "Serving Food Safely",
         "Buffets . . . Cooking for Groups"
@@ -5910,7 +5910,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 380,
       "type": "list_item",
-      "text": "Reheat hot food to 165 °F (73.9 °C) and maintain at a safe temperature of 140 °F (60 °C) or above.",
+      "text": "Reheat hot food to 165 \u00b0F (73.9 \u00b0C) and maintain at a safe temperature of 140 \u00b0F (60 \u00b0C) or above.",
       "heading_path": [
         "Serving Food Safely",
         "Buffets . . . Cooking for Groups"
@@ -5924,7 +5924,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 381,
       "type": "list_item",
-      "text": "Don’t risk cross-contamination: place cold food on clean platters. Arrange on several small platters rather than on one large platter, and keep all platters cold in the refrigerator until serving time.",
+      "text": "Don\u2019t risk cross-contamination: place cold food on clean platters. Arrange on several small platters rather than on one large platter, and keep all platters cold in the refrigerator until serving time.",
       "heading_path": [
         "Serving Food Safely",
         "Buffets . . . Cooking for Groups"
@@ -5938,7 +5938,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 382,
       "type": "list_item",
-      "text": "Remember the “Temperature Rules”: Keep hot food hot (140 °F/60 °C or above) with chafing dishes, slow cookers, and warming trays. Cold food should be held at 40 °F (4.44 °C) or below, so keep food cold by nesting dishes in beds of ice. Or use a series of small serving trays and replace them often.",
+      "text": "Remember the \u201cTemperature Rules\u201d: Keep hot food hot (140 \u00b0F/60 \u00b0C or above) with chafing dishes, slow cookers, and warming trays. Cold food should be held at 40 \u00b0F (4.44 \u00b0C) or below, so keep food cold by nesting dishes in beds of ice. Or use a series of small serving trays and replace them often.",
       "heading_path": [
         "Serving Food Safely",
         "Buffets . . . Cooking for Groups"
@@ -5952,7 +5952,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 383,
       "type": "list_item",
-      "text": "Replace empty platters—don’t refill them. Discard food that has been sitting out and may have been handled by many people.",
+      "text": "Replace empty platters\u2014don\u2019t refill them. Discard food that has been sitting out and may have been handled by many people.",
       "heading_path": [
         "Serving Food Safely",
         "Buffets . . . Cooking for Groups"
@@ -5966,7 +5966,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 384,
       "type": "list_item",
-      "text": "2-Hour Rule: As always, perishable food should not be left out for more than 2 hours at room temperature— 1 hour when the temperature is above 90 °F (32.2 °C). Be sure to keep this in mind as the party rocks on—and when in doubt, throw it out. (Also see Transporting Food beginning on page 38.)",
+      "text": "2-Hour Rule: As always, perishable food should not be left out for more than 2 hours at room temperature\u2014 1 hour when the temperature is above 90 \u00b0F (32.2 \u00b0C). Be sure to keep this in mind as the party rocks on\u2014and when in doubt, throw it out. (Also see Transporting Food beginning on page 38.)",
       "heading_path": [
         "Serving Food Safely",
         "Buffets . . . Cooking for Groups"
@@ -5980,10 +5980,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 385,
       "type": "heading",
-      "text": "Remember the Temperature Rules Keep hot food hot at 140 °F (60 °C) or above",
+      "text": "Remember the Temperature Rules Keep hot food hot at 140 \u00b0F (60 \u00b0C) or above",
       "heading_path": [
         "Serving Food Safely",
-        "Remember the Temperature Rules Keep hot food hot at 140 °F (60 °C) or above"
+        "Remember the Temperature Rules Keep hot food hot at 140 \u00b0F (60 \u00b0C) or above"
       ],
       "page": 38,
       "level": 5,
@@ -5994,10 +5994,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 386,
       "type": "paragraph",
-      "text": "& Keep cold food cold at 40 °F (4.44 °C) or below",
+      "text": "& Keep cold food cold at 40 \u00b0F (4.44 \u00b0C) or below",
       "heading_path": [
         "Serving Food Safely",
-        "Remember the Temperature Rules Keep hot food hot at 140 °F (60 °C) or above"
+        "Remember the Temperature Rules Keep hot food hot at 140 \u00b0F (60 \u00b0C) or above"
       ],
       "page": 38,
       "level": null,
@@ -6011,7 +6011,7 @@
       "text": "Take-Out and Delivered Food",
       "heading_path": [
         "Serving Food Safely",
-        "Remember the Temperature Rules Keep hot food hot at 140 °F (60 °C) or above",
+        "Remember the Temperature Rules Keep hot food hot at 140 \u00b0F (60 \u00b0C) or above",
         "Take-Out and Delivered Food"
       ],
       "page": 39,
@@ -6026,7 +6026,7 @@
       "text": "With take-out or delivered food, the cook gets to take a shortcut with meal preparation, but not with food safety. Basic guidelines still apply.",
       "heading_path": [
         "Serving Food Safely",
-        "Remember the Temperature Rules Keep hot food hot at 140 °F (60 °C) or above",
+        "Remember the Temperature Rules Keep hot food hot at 140 \u00b0F (60 \u00b0C) or above",
         "Take-Out and Delivered Food"
       ],
       "page": 39,
@@ -6041,7 +6041,7 @@
       "text": "Hot Take-Out or Delivered Food",
       "heading_path": [
         "Serving Food Safely",
-        "Remember the Temperature Rules Keep hot food hot at 140 °F (60 °C) or above",
+        "Remember the Temperature Rules Keep hot food hot at 140 \u00b0F (60 \u00b0C) or above",
         "Hot Take-Out or Delivered Food"
       ],
       "page": 39,
@@ -6053,10 +6053,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 390,
       "type": "list_item",
-      "text": "Hot Food Hot . . . Hot food must be kept out of the “Danger Zone” (see page 9), and that means just keeping it “warm” is not enough. —If you aren’t going to eat it right away, use a food thermometer to monitor the internal temperature of the food, and don’t let it drop below 140 °F (60 °C). A preheated oven, chafing dishes, preheated warming trays, or slow cookers may be used to keep food hot. —If you plan to eat at a later time, take-out or delivered food should be divided into smaller portions or pieces, placed in shallow containers, and refrigerated. Reheat to 165 °F (73.9 °C) as you would any leftover. (See Safe Mini mum Internal Temperature Chart on page 19.)",
+      "text": "Hot Food Hot . . . Hot food must be kept out of the \u201cDanger Zone\u201d (see page 9), and that means just keeping it \u201cwarm\u201d is not enough. \u2014If you aren\u2019t going to eat it right away, use a food thermometer to monitor the internal temperature of the food, and don\u2019t let it drop below 140 \u00b0F (60 \u00b0C). A preheated oven, chafing dishes, preheated warming trays, or slow cookers may be used to keep food hot. \u2014If you plan to eat at a later time, take-out or delivered food should be divided into smaller portions or pieces, placed in shallow containers, and refrigerated. Reheat to 165 \u00b0F (73.9 \u00b0C) as you would any leftover. (See Safe Mini mum Internal Temperature Chart on page 19.)",
       "heading_path": [
         "Serving Food Safely",
-        "Remember the Temperature Rules Keep hot food hot at 140 °F (60 °C) or above",
+        "Remember the Temperature Rules Keep hot food hot at 140 \u00b0F (60 \u00b0C) or above",
         "Hot Take-Out or Delivered Food"
       ],
       "page": 39,
@@ -6071,7 +6071,7 @@
       "text": "Cold/Refrigerated Take-Out or Delivered Food",
       "heading_path": [
         "Serving Food Safely",
-        "Remember the Temperature Rules Keep hot food hot at 140 °F (60 °C) or above",
+        "Remember the Temperature Rules Keep hot food hot at 140 \u00b0F (60 \u00b0C) or above",
         "Cold/Refrigerated Take-Out or Delivered Food"
       ],
       "page": 39,
@@ -6083,10 +6083,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 392,
       "type": "list_item",
-      "text": ". . . And Cold Food Cold. Cold food should be kept at 40 °F (4.44 °C) or below. Refrigerate perishable food as soon as possible, always within 2 hours after purchase or delivery.",
+      "text": ". . . And Cold Food Cold. Cold food should be kept at 40 \u00b0F (4.44 \u00b0C) or below. Refrigerate perishable food as soon as possible, always within 2 hours after purchase or delivery.",
       "heading_path": [
         "Serving Food Safely",
-        "Remember the Temperature Rules Keep hot food hot at 140 °F (60 °C) or above",
+        "Remember the Temperature Rules Keep hot food hot at 140 \u00b0F (60 \u00b0C) or above",
         "Cold/Refrigerated Take-Out or Delivered Food"
       ],
       "page": 39,
@@ -6098,10 +6098,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 393,
       "type": "list_item",
-      "text": "If the food is in air temperatures above 90 °F (32.2 °C), refrigerate within 1 hour.",
+      "text": "If the food is in air temperatures above 90 \u00b0F (32.2 \u00b0C), refrigerate within 1 hour.",
       "heading_path": [
         "Serving Food Safely",
-        "Remember the Temperature Rules Keep hot food hot at 140 °F (60 °C) or above",
+        "Remember the Temperature Rules Keep hot food hot at 140 \u00b0F (60 \u00b0C) or above",
         "Cold/Refrigerated Take-Out or Delivered Food"
       ],
       "page": 39,
@@ -6113,10 +6113,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 394,
       "type": "list_item",
-      "text": "When take-out or delivered food is purchased cold for an outdoor event—like a picnic, sporting event, or outdoor buffet—a cooler with ice is a practical alternative to a refrigerator. The cooler should be packed with plenty of ice or frozen gel packs. Keep the cooler in the shade when possible.",
+      "text": "When take-out or delivered food is purchased cold for an outdoor event\u2014like a picnic, sporting event, or outdoor buffet\u2014a cooler with ice is a practical alternative to a refrigerator. The cooler should be packed with plenty of ice or frozen gel packs. Keep the cooler in the shade when possible.",
       "heading_path": [
         "Serving Food Safely",
-        "Remember the Temperature Rules Keep hot food hot at 140 °F (60 °C) or above",
+        "Remember the Temperature Rules Keep hot food hot at 140 \u00b0F (60 \u00b0C) or above",
         "Cold/Refrigerated Take-Out or Delivered Food"
       ],
       "page": 39,
@@ -6131,7 +6131,7 @@
       "text": "(See next page: Transporting Food.)",
       "heading_path": [
         "Serving Food Safely",
-        "Remember the Temperature Rules Keep hot food hot at 140 °F (60 °C) or above",
+        "Remember the Temperature Rules Keep hot food hot at 140 \u00b0F (60 \u00b0C) or above",
         "Cold/Refrigerated Take-Out or Delivered Food"
       ],
       "page": 39,
@@ -6146,7 +6146,7 @@
       "text": "Use within 3 to 4 days",
       "heading_path": [
         "Serving Food Safely",
-        "Remember the Temperature Rules Keep hot food hot at 140 °F (60 °C) or above",
+        "Remember the Temperature Rules Keep hot food hot at 140 \u00b0F (60 \u00b0C) or above",
         "Cold/Refrigerated Take-Out or Delivered Food"
       ],
       "page": 39,
@@ -6158,10 +6158,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 397,
       "type": "list_item",
-      "text": "Reheat to 165 °F (73.9 °C)",
+      "text": "Reheat to 165 \u00b0F (73.9 \u00b0C)",
       "heading_path": [
         "Serving Food Safely",
-        "Remember the Temperature Rules Keep hot food hot at 140 °F (60 °C) or above",
+        "Remember the Temperature Rules Keep hot food hot at 140 \u00b0F (60 \u00b0C) or above",
         "Cold/Refrigerated Take-Out or Delivered Food"
       ],
       "page": 39,
@@ -6213,7 +6213,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 401,
       "type": "paragraph",
-      "text": "When it comes to food, you can take it with you, but you need to do it safely, too. Whether you’re tailgating, picnicking, or just packing your lunch, start with a clean cooler or lunch pack and begin by preparing food using standard “clean” practices. (See Food Preparation beginning on page 15.) In addition, follow these special guidelines to keep your packed food safe wherever your travels take you.",
+      "text": "When it comes to food, you can take it with you, but you need to do it safely, too. Whether you\u2019re tailgating, picnicking, or just packing your lunch, start with a clean cooler or lunch pack and begin by preparing food using standard \u201cclean\u201d practices. (See Food Preparation beginning on page 15.) In addition, follow these special guidelines to keep your packed food safe wherever your travels take you.",
       "heading_path": [
         "Transporting Food: Coolers, Picnics, and Bag Lunches"
       ],
@@ -6240,7 +6240,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 403,
       "type": "paragraph",
-      "text": "Bag lunches aren’t just for school kids. Wherever you’re going, pack only the amount of perishable food that can be eaten at lunch to avoid worrying about the storage or safety of leftovers.",
+      "text": "Bag lunches aren\u2019t just for school kids. Wherever you\u2019re going, pack only the amount of perishable food that can be eaten at lunch to avoid worrying about the storage or safety of leftovers.",
       "heading_path": [
         "Transporting Food: Coolers, Picnics, and Bag Lunches",
         "Bag Lunches"
@@ -6282,7 +6282,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 406,
       "type": "list_item",
-      "text": "Freezing sandwiches helps them stay cold. For best quality, don’t freeze sandwiches containing mayonnaise, lettuce, or tomatoes; add these ingredients later.",
+      "text": "Freezing sandwiches helps them stay cold. For best quality, don\u2019t freeze sandwiches containing mayonnaise, lettuce, or tomatoes; add these ingredients later.",
       "heading_path": [
         "Transporting Food: Coolers, Picnics, and Bag Lunches",
         "Cold Food:"
@@ -6324,7 +6324,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 409,
       "type": "list_item",
-      "text": "Use an insulated container to keep food like soup, chili, and stew hot. Fill the container with boiling water, let it stand for a few minutes, empty the water out, and then put in piping hot food. Keep the insulated container closed until lunchtime to keep the food hot. For safety, it needs to stay at 140 °F (60 °C) or above.",
+      "text": "Use an insulated container to keep food like soup, chili, and stew hot. Fill the container with boiling water, let it stand for a few minutes, empty the water out, and then put in piping hot food. Keep the insulated container closed until lunchtime to keep the food hot. For safety, it needs to stay at 140 \u00b0F (60 \u00b0C) or above.",
       "heading_path": [
         "Transporting Food: Coolers, Picnics, and Bag Lunches",
         "Hot Food:"
@@ -6338,7 +6338,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 410,
       "type": "list_item",
-      "text": "When using the microwave oven to reheat lunches, cover food to hold in moisture and promote safe, even heating. Reheat leftovers to at least 165 °F (73.9 °C), making sure to use a food thermometer to be sure a safe temperature has been reached before consuming the food. Cook frozen con venience meals according to package instructions.",
+      "text": "When using the microwave oven to reheat lunches, cover food to hold in moisture and promote safe, even heating. Reheat leftovers to at least 165 \u00b0F (73.9 \u00b0C), making sure to use a food thermometer to be sure a safe temperature has been reached before consuming the food. Cook frozen con venience meals according to package instructions.",
       "heading_path": [
         "Transporting Food: Coolers, Picnics, and Bag Lunches",
         "Hot Food:"
@@ -6366,7 +6366,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 412,
       "type": "paragraph",
-      "text": "The cooler is the key to keeping cold food out of the “Danger Zone.” Use an insulated cooler with sufficient ice or ice packs to keep the food at 40 °F (4.44 °C) or below.",
+      "text": "The cooler is the key to keeping cold food out of the \u201cDanger Zone.\u201d Use an insulated cooler with sufficient ice or ice packs to keep the food at 40 \u00b0F (4.44 \u00b0C) or below.",
       "heading_path": [
         "Transporting Food: Coolers, Picnics, and Bag Lunches",
         "Coolers"
@@ -6394,7 +6394,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 414,
       "type": "list_item",
-      "text": "As you prepare, divide large amounts of food into shallow containers for fast chilling and easier use. Keep cooked food refrigerated until it’s time to leave home.",
+      "text": "As you prepare, divide large amounts of food into shallow containers for fast chilling and easier use. Keep cooked food refrigerated until it\u2019s time to leave home.",
       "heading_path": [
         "Transporting Food: Coolers, Picnics, and Bag Lunches",
         "Packing:"
@@ -6408,7 +6408,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 415,
       "type": "list_item",
-      "text": "Pack food right from the refrigerator into the cooler immediately before leaving home. —For your cold source: use frozen gel packs or ice. A block of ice keeps longer than ice cubes. Or, in advance, freeze clean, empty milk cartons filled with water to make blocks of ice. Add the ice first, then the food.",
+      "text": "Pack food right from the refrigerator into the cooler immediately before leaving home. \u2014For your cold source: use frozen gel packs or ice. A block of ice keeps longer than ice cubes. Or, in advance, freeze clean, empty milk cartons filled with water to make blocks of ice. Add the ice first, then the food.",
       "heading_path": [
         "Transporting Food: Coolers, Picnics, and Bag Lunches",
         "Packing:"
@@ -6422,7 +6422,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 416,
       "type": "list_item",
-      "text": "Pack smart! Pack usable quantities in reverse order: —The first foods packed should be the last foods to be used. (There is one exception: Pack raw meat or poultry below ready-to-eat foods to prevent raw meat or poultry juices from dripping on the other foods.) —Take foods in the smallest quantity needed (e.g., a small jar of mayonnaise).",
+      "text": "Pack smart! Pack usable quantities in reverse order: \u2014The first foods packed should be the last foods to be used. (There is one exception: Pack raw meat or poultry below ready-to-eat foods to prevent raw meat or poultry juices from dripping on the other foods.) \u2014Take foods in the smallest quantity needed (e.g., a small jar of mayonnaise).",
       "heading_path": [
         "Transporting Food: Coolers, Picnics, and Bag Lunches",
         "Packing:"
@@ -6450,7 +6450,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 418,
       "type": "list_item",
-      "text": "It is important to pack an appliance thermometer in your cooler. Since the food in the cooler should be kept at 40 °F (4.44 °C) or below, you need to be able to monitor it.",
+      "text": "It is important to pack an appliance thermometer in your cooler. Since the food in the cooler should be kept at 40 \u00b0F (4.44 \u00b0C) or below, you need to be able to monitor it.",
       "heading_path": [
         "Transporting Food: Coolers, Picnics, and Bag Lunches",
         "Packing:"
@@ -6464,7 +6464,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 419,
       "type": "list_item",
-      "text": "Before you leave home, find out if there’s a source of clean water at your destination. If not, bring water for preparation and cleaning. Or, pack clean cloths and moist towelettes for cleaning surfaces and hands.",
+      "text": "Before you leave home, find out if there\u2019s a source of clean water at your destination. If not, bring water for preparation and cleaning. Or, pack clean cloths and moist towelettes for cleaning surfaces and hands.",
       "heading_path": [
         "Transporting Food: Coolers, Picnics, and Bag Lunches",
         "Packing:"
@@ -6506,7 +6506,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 422,
       "type": "list_item",
-      "text": "Remember that the rule for keeping food safe changes during warmer weather. While food can be kept out of the cooler for 2 hours at normal temperatures, if the weather is above 90 °F (32.2 °C) outside, food should be returned to a cooler or refrigerated after only 1 hour.",
+      "text": "Remember that the rule for keeping food safe changes during warmer weather. While food can be kept out of the cooler for 2 hours at normal temperatures, if the weather is above 90 \u00b0F (32.2 \u00b0C) outside, food should be returned to a cooler or refrigerated after only 1 hour.",
       "heading_path": [
         "Transporting Food: Coolers, Picnics, and Bag Lunches",
         "Placement:"
@@ -6534,10 +6534,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 424,
       "type": "heading",
-      "text": "Party’s Over?",
+      "text": "Party\u2019s Over?",
       "heading_path": [
         "Transporting Food: Coolers, Picnics, and Bag Lunches",
-        "Party’s Over?"
+        "Party\u2019s Over?"
       ],
       "page": 41,
       "level": 6,
@@ -6548,10 +6548,10 @@
       "document_id": "kitchen-companion",
       "ordinal": 425,
       "type": "list_item",
-      "text": "Discard all used food packaging and bags — they could contaminate other food and cause foodborne illness, so don’t reuse them.",
+      "text": "Discard all used food packaging and bags \u2014 they could contaminate other food and cause foodborne illness, so don\u2019t reuse them.",
       "heading_path": [
         "Transporting Food: Coolers, Picnics, and Bag Lunches",
-        "Party’s Over?"
+        "Party\u2019s Over?"
       ],
       "page": 41,
       "level": null,
@@ -6565,7 +6565,7 @@
       "text": "Discard all perishable foods if there is no longer ice in the cooler, or if the gel packs are no longer frozen. (See also: Serving Food Safely, page 35, and Grilling and Barbecuing, page 32.)",
       "heading_path": [
         "Transporting Food: Coolers, Picnics, and Bag Lunches",
-        "Party’s Over?"
+        "Party\u2019s Over?"
       ],
       "page": 41,
       "level": null,
@@ -6589,7 +6589,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 428,
       "type": "paragraph",
-      "text": "Whether you’re a giver or a receiver, food sent by mail is more popular than ever. But food safety still matters — especially with perishable foods. With a little groundwork, you’ll be assured that the contents of the package on the doorstep are safe to eat.",
+      "text": "Whether you\u2019re a giver or a receiver, food sent by mail is more popular than ever. But food safety still matters \u2014 especially with perishable foods. With a little groundwork, you\u2019ll be assured that the contents of the package on the doorstep are safe to eat.",
       "heading_path": [
         "Food Safety for Food-by-Mail"
       ],
@@ -6629,7 +6629,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 431,
       "type": "paragraph",
-      "text": "Before ordering, confirm that the company sends perishable items (like meat or poultry) cold or frozen and packed with a cold source. It should be packed in foam or heavy corrugated cardboard and should be delivered as quickly as possible — ideally, overnight.",
+      "text": "Before ordering, confirm that the company sends perishable items (like meat or poultry) cold or frozen and packed with a cold source. It should be packed in foam or heavy corrugated cardboard and should be delivered as quickly as possible \u2014 ideally, overnight.",
       "heading_path": [
         "Food Safety for Food-by-Mail",
         "Mail-Order Food:"
@@ -6657,7 +6657,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 433,
       "type": "list_item",
-      "text": "Proper Labeling: Confirm that perishable items and the outer package will be labeled “Keep Refrigerated.”",
+      "text": "Proper Labeling: Confirm that perishable items and the outer package will be labeled \u201cKeep Refrigerated.\u201d",
       "heading_path": [
         "Food Safety for Food-by-Mail",
         "Mail-Order Food:"
@@ -6671,7 +6671,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 434,
       "type": "list_item",
-      "text": "Alert the Recipient: Let him/her know if the company has promised a delivery date. Or, alert the recipient that “the gift is in the mail” so someone can be there to receive it. Don’t have perishable items delivered to an office unless you know it will arrive on a workday and that there is refrigerator space available for keeping it cold.",
+      "text": "Alert the Recipient: Let him/her know if the company has promised a delivery date. Or, alert the recipient that \u201cthe gift is in the mail\u201d so someone can be there to receive it. Don\u2019t have perishable items delivered to an office unless you know it will arrive on a workday and that there is refrigerator space available for keeping it cold.",
       "heading_path": [
         "Food Safety for Food-by-Mail",
         "Mail-Order Food:"
@@ -6699,7 +6699,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 436,
       "type": "list_item",
-      "text": "When You’re the Recipient: When you receive a food item marked “Keep Refrigerated,” open it immediately and check its temperature. The food should arrive frozen or partially frozen with ice crystals still visible. Temperature Caution: Whoever the recipient is, if perishable food arrives warm, notify the company. Do not consume the food. If you suspect it may not have been properly chilled, don’t even taste it.",
+      "text": "When You\u2019re the Recipient: When you receive a food item marked \u201cKeep Refrigerated,\u201d open it immediately and check its temperature. The food should arrive frozen or partially frozen with ice crystals still visible. Temperature Caution: Whoever the recipient is, if perishable food arrives warm, notify the company. Do not consume the food. If you suspect it may not have been properly chilled, don\u2019t even taste it.",
       "heading_path": [
         "Food Safety for Food-by-Mail",
         "Mail-Order Food:"
@@ -6727,7 +6727,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 438,
       "type": "paragraph",
-      "text": "For sending food safely, check out the packing and shipping tips in the fact sheet “Mail Order Food Safety” at www.fsis.usda.gov.",
+      "text": "For sending food safely, check out the packing and shipping tips in the fact sheet \u201cMail Order Food Safety\u201d at www.fsis.usda.gov.",
       "heading_path": [
         "Food Safety for Food-by-Mail",
         "Mailing Homemade Foods"
@@ -6795,7 +6795,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 443,
       "type": "list_item",
-      "text": "Keep an appliance thermometer in both the refrigerator and freezer. Make sure the refrigerator temperature is at 40 °F (4.44 °C) or below and the freezer anis at 0 °F (-17.8 °C) or below.",
+      "text": "Keep an appliance thermometer in both the refrigerator and freezer. Make sure the refrigerator temperature is at 40 \u00b0F (4.44 \u00b0C) or below and the freezer anis at 0 \u00b0F (-17.8 \u00b0C) or below.",
       "heading_path": [
         "Food Safety in an Emergency",
         "Power Outages"
@@ -6837,7 +6837,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 446,
       "type": "list_item",
-      "text": "The refrigerator will keep food safe for up to 4 hours. If the power is off longer, you can transfer food to a cooler and fill with ice or frozen gel packs. Make sure there is enough ice to keep food in the cooler at 40 °F or below. Add more ice to the cooler as it begins to melt.",
+      "text": "The refrigerator will keep food safe for up to 4 hours. If the power is off longer, you can transfer food to a cooler and fill with ice or frozen gel packs. Make sure there is enough ice to keep food in the cooler at 40 \u00b0F or below. Add more ice to the cooler as it begins to melt.",
       "heading_path": [
         "Food Safety in an Emergency",
         "Power Outages"
@@ -6851,7 +6851,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 447,
       "type": "list_item",
-      "text": "If your freezer is not full, group packages so they form an “igloo” to protect each other.",
+      "text": "If your freezer is not full, group packages so they form an \u201cigloo\u201d to protect each other.",
       "heading_path": [
         "Food Safety in an Emergency",
         "Power Outages"
@@ -6879,7 +6879,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 449,
       "type": "list_item",
-      "text": "During a snowstorm, do not place perishable food out in the snow. Outside temperatures can vary and food can be exposed to unsanitary conditions and animals. The sun’s rays can thaw frozen food. Instead, make ice in containers left outside to freeze. Then put the “homemade ice” in your refrigerator, freezer, or coolers.",
+      "text": "During a snowstorm, do not place perishable food out in the snow. Outside temperatures can vary and food can be exposed to unsanitary conditions and animals. The sun\u2019s rays can thaw frozen food. Instead, make ice in containers left outside to freeze. Then put the \u201chomemade ice\u201d in your refrigerator, freezer, or coolers.",
       "heading_path": [
         "Food Safety in an Emergency",
         "Power Outages"
@@ -6907,7 +6907,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 451,
       "type": "list_item",
-      "text": "Discard any perishable food that has been above 40 °F (4.44 °C) for 2 hours or more. (See Focus on: The Danger Zone on page 9.) Also, discard any food that has an unusual odor, color, or texture, or feels warm to the touch. Never taste a food to determine its safety!",
+      "text": "Discard any perishable food that has been above 40 \u00b0F (4.44 \u00b0C) for 2 hours or more. (See Focus on: The Danger Zone on page 9.) Also, discard any food that has an unusual odor, color, or texture, or feels warm to the touch. Never taste a food to determine its safety!",
       "heading_path": [
         "Food Safety in an Emergency",
         "Power Outages"
@@ -6921,7 +6921,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 452,
       "type": "list_item",
-      "text": "With frozen food: check for ice crystals! The food in your freezer that partially or completely thaws before power is restored may be safely refrozen if it still contains ice crystals or is 40 °F (4.44 °C) or below.",
+      "text": "With frozen food: check for ice crystals! The food in your freezer that partially or completely thaws before power is restored may be safely refrozen if it still contains ice crystals or is 40 \u00b0F (4.44 \u00b0C) or below.",
       "heading_path": [
         "Food Safety in an Emergency",
         "Power Outages"
@@ -6949,7 +6949,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 454,
       "type": "paragraph",
-      "text": "—The freezing compartment in a refrigerator will not keep foods frozen as long.",
+      "text": "\u2014The freezing compartment in a refrigerator will not keep foods frozen as long.",
       "heading_path": [
         "Food Safety in an Emergency",
         "Power Outages"
@@ -7019,7 +7019,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 459,
       "type": "paragraph",
-      "text": "42 A Post-flood “Sanitation Station” screw-caps, snap lids, pull tops, and crimped caps. Also discard cardboard juice/milk/baby formula boxes and home-canned foods if they have come in contact with flood water, because they cannot be effectively sanitized.",
+      "text": "42 A Post-flood \u201cSanitation Station\u201d screw-caps, snap lids, pull tops, and crimped caps. Also discard cardboard juice/milk/baby formula boxes and home-canned foods if they have come in contact with flood water, because they cannot be effectively sanitized.",
       "heading_path": [
         "Food Safety in an Emergency",
         "Floods"
@@ -7061,7 +7061,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 462,
       "type": "list_item",
-      "text": "For instructions on how to salvage all-metal cans and kitchen items, read “A Consumer’s Guide to Food Safety: Severe Storms and Hurricanes” at www.fsis.usda.gov.",
+      "text": "For instructions on how to salvage all-metal cans and kitchen items, read \u201cA Consumer\u2019s Guide to Food Safety: Severe Storms and Hurricanes\u201d at www.fsis.usda.gov.",
       "heading_path": [
         "Food Safety in an Emergency",
         "Floods"
@@ -7117,7 +7117,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 466,
       "type": "list_item",
-      "text": "Toxic fumes released from burning materials can get inside food. Discard any raw food or food in permeable packaging — cardboard, plastic wrap, screw-topped jars, bottles, etc. — stored outside the refrigerator.",
+      "text": "Toxic fumes released from burning materials can get inside food. Discard any raw food or food in permeable packaging \u2014 cardboard, plastic wrap, screw-topped jars, bottles, etc. \u2014 stored outside the refrigerator.",
       "heading_path": [
         "Food Safety in an Emergency",
         "Fires"
@@ -7131,7 +7131,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 467,
       "type": "list_item",
-      "text": "Food stored in refrigerators or freezers can also become contaminated by fumes. The refrigerator seal isn’t airtight and fumes can get inside.",
+      "text": "Food stored in refrigerators or freezers can also become contaminated by fumes. The refrigerator seal isn\u2019t airtight and fumes can get inside.",
       "heading_path": [
         "Food Safety in an Emergency",
         "Fires"
@@ -7145,7 +7145,7 @@
       "document_id": "kitchen-companion",
       "ordinal": 468,
       "type": "list_item",
-      "text": "Chemicals used to fight the fire contain toxic materials and can contaminate food and cookware. —Food that is exposed to chemicals should be thrown away because the chemicals cannot be washed off the food. This includes food stored at room temperature and food stored in permeable containers, like cardboard and screw-topped jars and bottles. —Cookware exposed to fire-fighting chemicals can be decontaminated. Wash it in soap and hot water, then submerge it for 15 minutes in a solution of 1 tablespoon of unscented, liquid chlorine bleach in 1 gallon of water.",
+      "text": "Chemicals used to fight the fire contain toxic materials and can contaminate food and cookware. \u2014Food that is exposed to chemicals should be thrown away because the chemicals cannot be washed off the food. This includes food stored at room temperature and food stored in permeable containers, like cardboard and screw-topped jars and bottles. \u2014Cookware exposed to fire-fighting chemicals can be decontaminated. Wash it in soap and hot water, then submerge it for 15 minutes in a solution of 1 tablespoon of unscented, liquid chlorine bleach in 1 gallon of water.",
       "heading_path": [
         "Food Safety in an Emergency",
         "Fires"

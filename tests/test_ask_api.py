@@ -11,6 +11,7 @@ from fastapi.testclient import TestClient
 
 from src.api import ask as ask_module
 from src.api.ask import app, handle_ask
+from src.ingest.load import load_manifest
 from src.ingest.embed_index import VectorIndex
 from src.schemas import AskRequest, Chunk
 
@@ -169,7 +170,7 @@ class TestAskAPI(unittest.TestCase):
         self.assertIn("not_in_corpus", html_text)
         self.assertIn("out_of_scope", html_text)
 
-        # 2. Diet question -> grounded_answer with cited section(s) whose link is the dataset page
+        # 2. Diet question -> grounded_answer with cited section(s) linking to each publisher page
         diet_resp = self.client.post(
             "/ask",
             json={"question": "What does a healthy diet include?"},
@@ -178,8 +179,13 @@ class TestAskAPI(unittest.TestCase):
         diet_body = diet_resp.json()
         self.assertEqual(diet_body["outcome"], "grounded_answer")
         self.assertGreaterEqual(len(diet_body["sections"]), 1)
+        official_urls = {
+            entry["doc_id"]: entry["source_url"]
+            for entry in load_manifest(ask_module.config.MANIFEST_PATH)
+        }
         for sec in diet_body["sections"]:
-            self.assertEqual(sec["source_url"], ask_module.config.source_url)
+            self.assertEqual(sec["source_url"], official_urls[sec["doc_id"]])
+            self.assertNotIn("blocks.jsonl", sec["source_url"])
             self.assertTrue(sec["document_name"])
             self.assertTrue(sec["publisher"])
             self.assertGreater(sec["year"], 0)
