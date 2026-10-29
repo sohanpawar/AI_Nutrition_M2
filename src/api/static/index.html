@@ -6,28 +6,28 @@
   <title>Diet Factory — Cited dietary guidance</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,560;9..144,680&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;700;800&family=Manrope:wght@400;600;700&display=swap" rel="stylesheet" />
   <style>
     :root {
-      --bg: #f6f1e7;
-      --surface: #fffaf3;
-      --border: #e7dccb;
-      --text: #1c1915;
-      --muted: #6b6258;
-      --accent: #c45c26;
-      --accent-hover: #a3481b;
-      --warn-bg: #fff6df;
-      --warn-border: #e8c56a;
-      --scope-bg: #fde8e4;
-      --scope-border: #e7a598;
+      --bg: #f3fbf7;
+      --surface: #ffffff;
+      --border: #cde8dc;
+      --text: #12332a;
+      --muted: #4b7166;
+      --accent: #0f8a6a;
+      --accent-hover: #0b7056;
+      --warn-bg: #fff7ed;
+      --warn-border: #fdba74;
+      --scope-bg: #fef2f2;
+      --scope-border: #fca5a5;
     }
     * { box-sizing: border-box; }
     body {
       margin: 0;
-      font-family: "Source Sans 3", "Segoe UI", sans-serif;
+      font-family: Manrope, "Segoe UI", sans-serif;
       background:
-        radial-gradient(900px 420px at 100% -10%, rgba(196, 92, 38, 0.16), transparent 55%),
-        radial-gradient(700px 380px at -10% 0%, rgba(31, 107, 74, 0.14), transparent 50%),
+        radial-gradient(820px 380px at 110% -8%, rgba(231, 111, 81, 0.18), transparent 55%),
+        radial-gradient(720px 360px at -8% 0%, rgba(15, 138, 106, 0.18), transparent 52%),
         var(--bg);
       color: var(--text);
       line-height: 1.5;
@@ -38,33 +38,33 @@
       padding: 0 1rem 3rem;
     }
     header.hero {
-      background: linear-gradient(135deg, #1c1915 0%, #2c241c 55%, #3d2a1c 100%);
-      color: #fff8ef;
-      border-radius: 22px;
-      padding: 1.35rem 1.45rem 1.2rem;
+      background: linear-gradient(135deg, #064e3b 0%, #0f8a6a 58%, #14b8a6 100%);
+      color: #f0fdf8;
+      border-radius: 28px;
+      padding: 1.5rem 1.55rem 1.3rem;
       margin-bottom: 1rem;
-      box-shadow: 0 16px 40px rgba(28, 25, 21, 0.18);
+      box-shadow: 0 18px 40px rgba(6, 78, 59, 0.22);
     }
     .kicker {
-      letter-spacing: 0.16em;
+      letter-spacing: 0.18em;
       text-transform: uppercase;
-      font-size: 0.72rem;
-      font-weight: 700;
-      color: #f0b27a;
-      margin: 0 0 0.35rem;
+      font-size: 0.7rem;
+      font-weight: 800;
+      color: #bbf7d0;
+      margin: 0 0 0.4rem;
     }
     header.hero h1 {
-      font-family: Fraunces, Georgia, serif;
-      font-size: 2.35rem;
-      line-height: 1.05;
-      margin: 0 0 0.45rem;
-      color: #fffaf3;
+      font-family: Outfit, Manrope, sans-serif;
+      font-size: 2.5rem;
+      line-height: 1;
+      margin: 0 0 0.5rem;
+      color: #ffffff;
     }
     header.hero p {
       margin: 0;
-      color: #efe4d4;
-      font-size: 1.02rem;
-      max-width: 38rem;
+      color: #d1fae5;
+      font-size: 1.04rem;
+      max-width: 40rem;
     }
     .pills {
       display: flex;
@@ -73,9 +73,9 @@
       margin-top: 0.95rem;
     }
     .pill {
-      border: 1px solid rgba(255, 248, 239, 0.22);
-      background: rgba(255, 248, 239, 0.08);
-      color: #fff8ef;
+      border: 1px solid rgba(255, 255, 255, 0.28);
+      background: rgba(255, 255, 255, 0.12);
+      color: #ecfdf5;
       border-radius: 999px;
       padding: 0.22rem 0.7rem;
       font-size: 0.78rem;
@@ -92,16 +92,16 @@
       background: var(--surface);
       color: var(--text);
       border: 1px solid var(--border);
-      border-radius: 999px;
-      padding: 0.5rem 0.95rem;
-      font-weight: 600;
+      border-radius: 14px;
+      padding: 0.55rem 0.95rem;
+      font-weight: 700;
       cursor: pointer;
     }
-    .example-btn:hover { border-color: var(--accent); background: #fffdf9; }
+    .example-btn:hover { border-color: var(--accent); background: #f7fffb; }
     .ask-card {
       background: var(--surface);
       border: 1px solid var(--border);
-      border-radius: 18px;
+      border-radius: 22px;
       padding: 1.1rem 1.2rem;
       box-shadow: 0 8px 24px rgba(60, 40, 20, 0.05);
     }
@@ -111,8 +111,8 @@
       width: 100%;
       padding: 0.65rem 0.75rem;
       border: 1px solid var(--border);
-      border-radius: 12px;
-      background: #fffdf9;
+      border-radius: 14px;
+      background: #f7fffb;
       font-size: 0.96rem;
       font-family: inherit;
     }
@@ -121,9 +121,9 @@
     .controls select { flex: 1; min-width: 240px; }
     button.primary {
       background: var(--accent);
-      color: #fffaf3;
+      color: #ffffff;
       border: none;
-      border-radius: 999px;
+      border-radius: 14px;
       padding: 0.6rem 1.25rem;
       font-size: 0.96rem;
       font-weight: 700;
@@ -134,7 +134,7 @@
     #turns { margin-top: 1.35rem; display: flex; flex-direction: column; gap: 1.15rem; }
     .turn { padding: 0.3rem 0; }
     .turn-question {
-      font-family: Fraunces, Georgia, serif;
+      font-family: Outfit, Manrope, sans-serif;
       font-size: 1.25rem;
       margin: 0.15rem 0 0.45rem;
     }
@@ -143,27 +143,27 @@
       padding: 0.12rem 0.55rem;
       font-size: 0.78rem;
       border-radius: 999px;
-      background: #f3e6d4;
-      color: #5c4632;
+      background: #d1fae5;
+      color: #065f46;
       font-weight: 700;
     }
     .section-block {
-      border: 1px solid #eadfce;
-      border-left: 6px solid var(--accent);
-      border-radius: 16px;
+      border: 1px solid #cde8dc;
+      border-left: 7px solid var(--accent);
+      border-radius: 18px;
       padding: 0.95rem 1rem;
       margin-top: 0.7rem;
       background: var(--surface);
     }
     .section-header {
-      font-family: Fraunces, Georgia, serif;
+      font-family: Outfit, Manrope, sans-serif;
       font-weight: 700;
       font-size: 1.12rem;
     }
     .section-link {
       display: inline-block;
       font-size: 0.9rem;
-      color: #9a3412;
+      color: #0f8a6a;
       font-weight: 600;
       word-break: break-all;
       margin: 0.2rem 0 0.55rem;
@@ -175,13 +175,13 @@
       background: var(--warn-bg);
       border: 1px solid var(--warn-border);
       padding: 0.95rem 1rem;
-      border-radius: 16px;
+      border-radius: 18px;
     }
     .refusal-scope {
       background: var(--scope-bg);
       border: 1px solid var(--scope-border);
       padding: 0.95rem 1rem;
-      border-radius: 16px;
+      border-radius: 18px;
     }
     .searched-box { margin-top: 0.75rem; font-size: 0.92rem; }
     .searched-box ul { margin: 0.35rem 0 0; padding-left: 1.25rem; }
@@ -190,7 +190,7 @@
 <body>
   <main>
     <header class="hero">
-      <p class="kicker">Official guidance, on the counter</p>
+      <p class="kicker">Cited diet and food-safety guidance</p>
       <h1>Diet Factory</h1>
       <p>Ask how to eat and how to keep food safe. Answers come only from seven public guidance documents, and every claim keeps its own source.</p>
       <div class="pills">

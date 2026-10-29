@@ -27,13 +27,13 @@ from src.ingest.load import load_corpus, load_manifest
 from src.schemas import AskRequest, AskResponse
 
 DOC_ACCENT: dict[str, str] = {
-    "who-healthy-diet": "#1f6b4a",
-    "fao-who-healthy-diets": "#3d6b2f",
-    "eatwell-guide": "#c45c26",
-    "cold-food-storage": "#1d4e89",
-    "fsa-chill": "#0f6e78",
-    "who-five-keys": "#8a3d2a",
-    "kitchen-companion": "#5c3d7a",
+    "who-healthy-diet": "#0f8a6a",
+    "fao-who-healthy-diets": "#2a9d8f",
+    "eatwell-guide": "#e76f51",
+    "cold-food-storage": "#1d6fbf",
+    "fsa-chill": "#0ea5a0",
+    "who-five-keys": "#d97706",
+    "kitchen-companion": "#7c3aed",
 }
 
 EXAMPLE_QUESTIONS: tuple[str, ...] = (
@@ -45,151 +45,164 @@ EXAMPLE_QUESTIONS: tuple[str, ...] = (
 
 APP_CSS = """
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,560;9..144,680&family=Source+Sans+3:wght@400;600;700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500;700;800&family=Manrope:wght@400;600;700&display=swap');
 
   html, body, [class*="css"] {
-    font-family: "Source Sans 3", "Segoe UI", sans-serif;
+    font-family: Manrope, "Segoe UI", sans-serif;
   }
   .stApp {
     background:
-      radial-gradient(900px 420px at 100% -10%, rgba(196, 92, 38, 0.16), transparent 55%),
-      radial-gradient(700px 380px at -10% 0%, rgba(31, 107, 74, 0.14), transparent 50%),
-      #f6f1e7;
+      radial-gradient(820px 380px at 110% -8%, rgba(231, 111, 81, 0.18), transparent 55%),
+      radial-gradient(720px 360px at -8% 0%, rgba(15, 138, 106, 0.18), transparent 52%),
+      #f3fbf7;
   }
   header[data-testid="stHeader"] { background: transparent; }
   .block-container {
-    padding-top: 1.4rem;
-    max-width: 860px;
+    padding-top: 1.2rem;
+    max-width: 880px;
   }
   .sp-hero {
-    background: linear-gradient(135deg, #1c1915 0%, #2c241c 55%, #3d2a1c 100%);
-    color: #fff8ef;
-    border-radius: 22px;
-    padding: 1.35rem 1.45rem 1.2rem;
-    margin-bottom: 0.9rem;
-    box-shadow: 0 16px 40px rgba(28, 25, 21, 0.18);
+    background: linear-gradient(135deg, #064e3b 0%, #0f8a6a 58%, #14b8a6 100%);
+    color: #f0fdf8;
+    border-radius: 28px;
+    padding: 1.5rem 1.55rem 1.3rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 18px 40px rgba(6, 78, 59, 0.22);
+    position: relative;
+    overflow: hidden;
+  }
+  .sp-hero:after {
+    content: "";
+    position: absolute;
+    right: -40px;
+    top: -50px;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.12);
   }
   .sp-kicker {
-    letter-spacing: 0.16em;
+    letter-spacing: 0.18em;
     text-transform: uppercase;
-    font-size: 0.72rem;
-    font-weight: 700;
-    color: #f0b27a;
-    margin: 0 0 0.35rem;
+    font-size: 0.7rem;
+    font-weight: 800;
+    color: #bbf7d0;
+    margin: 0 0 0.4rem;
   }
   .sp-hero h1 {
-    font-family: Fraunces, Georgia, serif;
-    font-size: 2.35rem;
-    line-height: 1.05;
-    margin: 0 0 0.45rem;
-    color: #fffaf3;
+    font-family: Outfit, Manrope, sans-serif;
+    font-size: 2.5rem;
+    line-height: 1;
+    margin: 0 0 0.5rem;
+    color: #ffffff;
   }
   .sp-hero p {
     margin: 0;
-    color: #efe4d4;
-    font-size: 1.02rem;
-    max-width: 38rem;
+    color: #d1fae5;
+    font-size: 1.04rem;
+    max-width: 40rem;
   }
   .sp-pills {
     display: flex;
     flex-wrap: wrap;
     gap: 0.45rem;
-    margin-top: 0.95rem;
+    margin-top: 1rem;
   }
   .sp-pill {
-    border: 1px solid rgba(255, 248, 239, 0.22);
-    background: rgba(255, 248, 239, 0.08);
-    color: #fff8ef;
+    border: 1px solid rgba(255, 255, 255, 0.28);
+    background: rgba(255, 255, 255, 0.12);
+    color: #ecfdf5;
     border-radius: 999px;
-    padding: 0.22rem 0.7rem;
+    padding: 0.24rem 0.75rem;
     font-size: 0.78rem;
-    font-weight: 600;
+    font-weight: 700;
   }
   div[data-testid="stForm"] {
-    background: #fffaf3;
-    border: 1px solid #e7dccb;
-    border-radius: 18px;
-    padding: 0.85rem 1rem 0.4rem;
-    box-shadow: 0 8px 24px rgba(60, 40, 20, 0.05);
+    background: #ffffff;
+    border: 1px solid #cde8dc;
+    border-radius: 22px;
+    padding: 0.9rem 1.05rem 0.45rem;
+    box-shadow: 0 10px 28px rgba(6, 78, 59, 0.06);
   }
   .stTextArea textarea, .stSelectbox div[data-baseweb="select"] > div {
-    background: #fffdf9 !important;
-    border-radius: 12px !important;
+    background: #f7fffb !important;
+    border-radius: 14px !important;
   }
   .stButton > button, .stFormSubmitButton > button {
-    background: #c45c26 !important;
-    color: #fffaf3 !important;
+    background: #0f8a6a !important;
+    color: #ffffff !important;
     border: none !important;
-    border-radius: 999px !important;
-    font-weight: 700 !important;
-    padding: 0.45rem 1.1rem !important;
+    border-radius: 14px !important;
+    font-weight: 800 !important;
+    padding: 0.5rem 1.15rem !important;
   }
   .stButton > button:hover, .stFormSubmitButton > button:hover {
-    background: #a3481b !important;
-    color: #fffaf3 !important;
+    background: #0b7056 !important;
+    color: #ffffff !important;
   }
   .sp-section {
-    border: 1px solid #eadfce;
-    border-left: 6px solid var(--accent, #c45c26);
-    background: #fffaf3;
-    border-radius: 16px;
-    padding: 0.95rem 1rem 0.75rem;
+    border: 1px solid #cde8dc;
+    border-left: 7px solid var(--accent, #0f8a6a);
+    background: #ffffff;
+    border-radius: 18px;
+    padding: 1rem 1.05rem 0.85rem;
     margin: 0.7rem 0 0.2rem;
+    box-shadow: 0 8px 20px rgba(18, 51, 42, 0.04);
   }
   .sp-doc-title {
-    font-family: Fraunces, Georgia, serif;
-    font-size: 1.15rem;
+    font-family: Outfit, Manrope, sans-serif;
+    font-size: 1.18rem;
     margin: 0;
-    color: #1c1915;
+    color: #12332a;
   }
   .sp-meta {
-    color: #6b6258;
+    color: #4b7166;
     font-size: 0.92rem;
     margin: 0.15rem 0 0.35rem;
   }
-  .sp-link a { color: #9a3412; font-weight: 600; word-break: break-all; }
+  .sp-link a { color: #0f8a6a; font-weight: 700; word-break: break-all; }
   .sp-claim {
     margin: 0.45rem 0 0;
-    color: #1c1915;
+    color: #12332a;
   }
   .sp-heading {
-    color: #6b6258;
+    color: #4b7166;
     font-style: italic;
   }
   .sp-banner {
-    border-radius: 16px;
+    border-radius: 18px;
     padding: 0.95rem 1rem;
     margin-top: 0.7rem;
   }
   .sp-corpus {
-    background: #fff6df;
-    border: 1px solid #e8c56a;
-    color: #3f3424;
+    background: #fff7ed;
+    border: 1px solid #fdba74;
+    color: #7c2d12;
   }
   .sp-scope {
-    background: #fde8e4;
-    border: 1px solid #e7a598;
-    color: #4a241d;
+    background: #fef2f2;
+    border: 1px solid #fca5a5;
+    color: #7f1d1d;
   }
   .sp-q {
-    font-family: Fraunces, Georgia, serif;
-    font-size: 1.25rem;
+    font-family: Outfit, Manrope, sans-serif;
+    font-size: 1.28rem;
     margin: 0 0 0.15rem;
-    color: #1c1915;
+    color: #12332a;
   }
   .sp-chip {
     display: inline-block;
-    background: #f3e6d4;
-    color: #5c4632;
+    background: #d1fae5;
+    color: #065f46;
     border-radius: 999px;
-    padding: 0.12rem 0.55rem;
-    font-size: 0.78rem;
-    font-weight: 700;
-    margin-bottom: 0.35rem;
+    padding: 0.14rem 0.6rem;
+    font-size: 0.76rem;
+    font-weight: 800;
+    margin-bottom: 0.4rem;
   }
   .sp-empty {
     margin-top: 1.1rem;
-    color: #6b6258;
+    color: #4b7166;
     font-size: 0.98rem;
   }
 </style>
@@ -221,7 +234,7 @@ def ensure_corpus_and_index(cache_version: str = "official-urls-v2") -> VectorIn
 def _accent_for(doc_id: str | None) -> str:
     if doc_id and doc_id in DOC_ACCENT:
         return DOC_ACCENT[doc_id]
-    return "#c45c26"
+    return "#0f8a6a"
 
 
 def render_response_card(turn: dict) -> None:
@@ -327,7 +340,7 @@ def main() -> None:
     st.markdown(
         """
         <section class="sp-hero">
-          <p class="sp-kicker">Official guidance, on the counter</p>
+          <p class="sp-kicker">Cited diet and food-safety guidance</p>
           <h1>Diet Factory</h1>
           <p>Ask how to eat and how to keep food safe. Answers come only from seven public guidance documents, and every claim keeps its own source.</p>
           <div class="sp-pills">
